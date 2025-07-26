@@ -76,3 +76,9 @@ with console.status("[yellow]Evaluating traces...") as status:
     for i, trace in enumerate(traces):
         status.update(f"Processing {i+1}/{len(traces)}")
 ```
+
+## Code Documentation Guidelines
+
+- Add comprehensive docstrings to all Python scripts describing their purpose and functionality
+- Include inline comments to explain complex logic or non-obvious code segments
+- Aim for clear, concise documentation that helps other developers understand the code quickly
