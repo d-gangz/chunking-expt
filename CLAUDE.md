@@ -27,6 +27,7 @@ uv run mypy <module_name>
 ### Running Scripts
 
 Always use UV to run Python scripts:
+
 ```bash
 # Run any Python script
 uv run python script_name.py
@@ -79,6 +80,6 @@ with console.status("[yellow]Evaluating traces...") as status:
 
 ## Code Documentation Guidelines
 
-- Add comprehensive docstrings to all Python scripts describing their purpose and functionality
+- Add comprehensive docstrings at the top of all Python scripts describing their purpose and functionality
 - Include inline comments to explain complex logic or non-obvious code segments
 - Aim for clear, concise documentation that helps other developers understand the code quickly
