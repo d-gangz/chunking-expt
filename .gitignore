@@ -19,6 +19,9 @@ venv/
 # OS
 .DS_Store
 
+# mcp json
+.mcp.json
+
 # Testing
 .pytest_cache/
 .coverage
