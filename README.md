@@ -23,27 +23,31 @@ Develop and evaluate transcript chunking techniques that:
 
 ### 2. Quality Assessment Framework
 
-#### Question Generation Phase
+#### Synthetic Query Generation Phase
 
-1. Feed complete transcript to an LLM
-2. Generate 10 questions that a General Counsel (GC) might ask
-3. Ensure questions are comprehensively answered within the video content
+1. Feed complete transcript to an LLM with a specialized prompt
+2. Generate synthetic queries that target specific information in the transcript
+3. Create ground truth mappings between queries and their correct chunks
+4. Store queries and mappings in the labeled dataset folder
+
+#### Chunk Generation Phase
+
+1. Apply different chunking methods to transcripts
+2. Export chunks in JSON format with metadata (chunk ID, method, context)
+3. Generate embeddings for each chunk and store in vector database
 
 #### Evaluation Phase
 
-1. Apply different chunking methods to transcripts
-2. Use RAG to answer the generated questions
-3. Compare answers against baseline (full transcript responses)
-4. Measure retrieval accuracy and answer quality
+1. For each synthetic query, retrieve relevant chunks using embeddings
+2. Measure if the correct chunk (from ground truth) was retrieved
+3. Calculate retrieval metrics (precision, recall, F1 score)
+4. Compare effectiveness across different chunking strategies
 
 ### 3. Chunking Methods to Evaluate
 
-- **Fixed-size chunking**: Split by character/word count
-- **Semantic chunking**: Use embeddings to identify topic boundaries
-- **Sentence-based chunking**: Maintain complete sentences
-- **Sliding window**: Overlapping chunks for context preservation
-- **Topic modeling**: Cluster related content
-- **Speaker-aware chunking**: Maintain speaker continuity
+- **Fixed-size chunking**: Split by character/word count with consistent chunk sizes
+- **Contextual chunking**: Maintain semantic context and topic boundaries
+- **Nuggetization**: Extract key information nuggets from the transcript
 
 ## Project Structure
 
@@ -51,27 +55,25 @@ Develop and evaluate transcript chunking techniques that:
 chunking-expt/
 ├── README.md
 ├── requirements.txt
-├── transcripts/
-│   ├── raw/               # Raw video transcript files
-│   ├── cleaned/           # Cleaned/processed transcripts
-│   └── clean_transcripts.py  # Script to clean and preprocess transcripts
-├── chunks/
-│   ├── fixed_size/        # Fixed-size chunked transcripts
-│   ├── semantic/          # Semantic chunked transcripts
-│   ├── sentence_based/    # Sentence-based chunks
-│   ├── sliding_window/    # Sliding window chunks
-│   └── generate_chunks.py # Script to generate chunks using different methods
-├── embeddings/
-│   ├── chunk_embeddings/  # Generated embeddings for chunks
-│   ├── labeled_data/      # Labeled data for evaluation
-│   └── generate_embeddings.py  # Script to create embeddings
-├── evaluation/
-│   ├── questions/         # Generated test questions
-│   ├── results/           # Evaluation results (recall, precision, etc.)
-│   └── evaluate_chunks.py # Script to evaluate chunking effectiveness
-└── scripts/
-    ├── utils.py           # Helper functions
-    └── config.py          # Configuration settings
+├── CLAUDE.md              # Claude AI project instructions
+├── 0_util/                # Utility functions and shared metrics
+│   └── metrics.py         # Common evaluation metrics
+├── 1_transcripts/         # Transcript processing pipeline
+│   ├── raw/               # Raw video transcript files (CSV exports)
+│   └── cleaned/           # Cleaned/processed transcripts
+├── 2_chunks/              # Chunking tools and outputs
+│   ├── fixed_size/        # Fixed-size chunked transcripts (JSON)
+│   ├── contextual/        # Contextual chunked transcripts (JSON)
+│   └── nuggetization/     # Nuggetized transcripts (JSON)
+├── 3_database/            # Vector database and embeddings
+│   └── chunk_embeddings/  # Generated embeddings for chunks
+├── 4_labelled_dataset/    # Synthetic queries and labeled data
+│   ├── queries/           # LLM-generated synthetic queries
+│   └── query_chunk_pairs/ # Query-to-chunk ground truth mappings
+├── 5_evaluation/          # Evaluation of chunking strategies
+│   ├── results/           # Retrieval accuracy and performance metrics
+│   └── reports/           # Analysis of chunking effectiveness
+└── plan/                  # Project planning and documentation
 ```
 
 ## Setup
@@ -85,14 +87,63 @@ cd chunking-expt
 uv pip install -r requirements.txt
 ```
 
+## Workflow Pipeline
+
+The project follows a numbered pipeline approach:
+
+1. **Transcript Processing (1_transcripts/)**
+
+   - Import raw CSV transcript exports
+   - Clean and normalize transcript data
+   - Prepare transcripts for chunking
+
+2. **Chunk Generation (2_chunks/)**
+
+   - Apply different chunking strategies
+   - Export chunks as JSON with metadata
+   - Each chunking method creates its own output folder
+
+3. **Database Creation (3_database/)**
+
+   - Generate embeddings for all chunks
+   - Create vector database for similarity search
+   - Index chunks for efficient retrieval
+
+4. **Labeled Dataset Creation (4_labelled_dataset/)**
+
+   - Use LLM to generate synthetic queries from transcripts
+   - Create ground truth mappings (query → correct chunk)
+   - Store as evaluation dataset
+
+5. **Evaluation (5_evaluation/)**
+   - Test retrieval accuracy for each chunking method
+   - Measure if queries retrieve their correct chunks
+   - Compare performance across different strategies
+
 ## Usage
 
-[To be documented as implementation progresses]
+```bash
+# Process transcripts
+uv run python 1_transcripts/clean_transcripts.py
+
+# Generate chunks
+uv run python 2_chunks/generate_chunks.py
+
+# Create embeddings
+uv run python 3_database/generate_embeddings.py
+
+# Generate synthetic queries
+uv run python 4_labelled_dataset/generate_queries.py
+
+# Run evaluation
+uv run python 5_evaluation/evaluate_chunks.py
+```
 
 ## Evaluation Metrics
 
-- **Retrieval Accuracy**: Percentage of relevant chunks retrieved
-- **Answer Quality**: Comparison with baseline answers
+- **Precision@K**: Precision of top-K retrieved chunks
+- **Recall@K**: Coverage of relevant information retrieved
+- **Mean Reciprocal Rank (MRR)**: Average rank position of correct chunks
 
 ## Next Steps
 
