@@ -54,7 +54,8 @@ class TimestampAwareTextSplitter:
             chunk_size=chunk_size,
             chunk_overlap=chunk_overlap,
             length_function=len,
-            is_separator_regex=False,
+            is_separator_regex=True,
+            separators=[r"[.!?]\s"]
         )
         
     def split_with_timestamps(
