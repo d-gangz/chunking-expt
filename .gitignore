@@ -35,3 +35,6 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+# Prompts
+generate-tasks.md
