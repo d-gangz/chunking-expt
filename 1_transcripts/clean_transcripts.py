@@ -68,6 +68,13 @@ def format_timestamp(seconds: float) -> str:
     return f"{minutes:02d}:{secs:02d}"
 
 
+def format_raw_timestamp(seconds: float) -> str:
+    """Return the raw timestamp value as string, preserving original format."""
+    # Convert to string while preserving the exact decimal representation
+    # This avoids any floating point conversion issues
+    return f"{seconds:g}"
+
+
 def create_markdown_transcript(title: str, segments: List[Dict]) -> str:
     """
     Create a formatted markdown transcript from segments.
@@ -105,8 +112,10 @@ def create_markdown_transcript(title: str, segments: List[Dict]) -> str:
             current_speaker = speaker
             lines.append(f"\n**[Speaker {speaker}]**\n")
         
-        # Add timestamp and text
-        lines.append(f"\n[{start_time} - {end_time}] {text}")
+        # Add timestamp and text with raw seconds format
+        raw_start = format_raw_timestamp(segment['cue_start'])
+        raw_end = format_raw_timestamp(segment['cue_end'])
+        lines.append(f"\n[{raw_start} - {raw_end}] {text}")
     
     return '\n'.join(lines)
 

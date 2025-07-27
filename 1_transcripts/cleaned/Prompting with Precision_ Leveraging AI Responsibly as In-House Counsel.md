@@ -13,2720 +13,2720 @@
 **[Speaker 1]**
 
 
-[00:04 - 00:05] Welcome everybody.
+[4.715 - 5.765] Welcome everybody.
 
-[00:05 - 00:07] Um, my name is Heather Wallinger,
+[5.945 - 7.245] Um, my name is Heather Wallinger,
 
-[00:07 - 00:08] event host here at the L Suite.
+[7.245 - 8.485] event host here at the L Suite.
 
-[00:08 - 00:11] Our panel today will focus on prompting
+[8.905 - 11.285] Our panel today will focus on prompting
 
-[00:11 - 00:13] with precision leveraging AI
+[11.285 - 13.205] with precision leveraging AI
 
-[00:13 - 00:14] responsibly as in-house counsel.
+[13.205 - 14.805] responsibly as in-house counsel.
 
-[00:15 - 00:17] We have a really great set of speakers for here today.
+[15.225 - 17.365] We have a really great set of speakers for here today.
 
-[00:17 - 00:20] I'm pleased to welcome Tommy Tavares Ferrera,
+[17.585 - 20.565] I'm pleased to welcome Tommy Tavares Ferrera,
 
-[00:20 - 00:22] chief Strategy Officer at Law Trades.
+[20.575 - 22.525] chief Strategy Officer at Law Trades.
 
-[00:23 - 00:24] We have, we have Jason Satoma,
+[23.105 - 24.725] We have, we have Jason Satoma,
 
-[00:24 - 00:27] general Counsel at Tiffin Ag in Access,
+[24.725 - 27.245] general Counsel at Tiffin Ag in Access,
 
-[00:27 - 00:30] and we have Alex Rendells, general counsel at Jasper ai,
+[27.745 - 30.685] and we have Alex Rendells, general counsel at Jasper ai,
 
-[00:31 - 00:33] a really big thank you to our sponsor for today's session,
+[31.565 - 33.525] a really big thank you to our sponsor for today's session,
 
-[00:34 - 00:36] uh, law Trades for making this event possible.
+[34.065 - 36.205] uh, law Trades for making this event possible.
 
-[00:36 - 00:38] So that is it for me, Tommy.
+[36.825 - 38.285] So that is it for me, Tommy.
 
-[00:38 - 00:40] I will hand it over to you to get us started.
+[38.485 - 40.085] I will hand it over to you to get us started.
 
 **[Speaker 2]**
 
 
-[00:41 - 00:44] Thank you. Hi everybody. I am Tommy Avara Spira.
+[41.145 - 44.575] Thank you. Hi everybody. I am Tommy Avara Spira.
 
-[00:44 - 00:47] I'm the Chief Strategy Officer at Law Trades,
+[44.635 - 47.335] I'm the Chief Strategy Officer at Law Trades,
 
-[00:47 - 00:48] as Heather just said.
+[47.335 - 48.335] as Heather just said.
 
-[00:48 - 00:51] And for those who haven't worked with us yet, law Trades is,
+[48.515 - 51.775] And for those who haven't worked with us yet, law Trades is,
 
-[00:52 - 00:55] uh, a marketplace for on demand legal talent.
+[52.075 - 55.815] uh, a marketplace for on demand legal talent.
 
-[00:56 - 00:58] We're the go-to partner for companies
+[56.305 - 58.215] We're the go-to partner for companies
 
-[00:58 - 01:01] that need vetted high caliber lawyers, legal ops, pros,
+[58.215 - 61.095] that need vetted high caliber lawyers, legal ops, pros,
 
-[01:01 - 01:02] contract managers or paralegals.
+[61.335 - 62.895] contract managers or paralegals.
 
-[01:03 - 01:05] Think of this as the legal team behind your legal team.
+[63.145 - 65.575] Think of this as the legal team behind your legal team.
 
-[01:06 - 01:08] Later on in today's session, we'll launch a call with a,
+[66.065 - 68.815] Later on in today's session, we'll launch a call with a,
 
-[01:08 - 01:10] an offer unique to L Suite members.
+[68.875 - 70.495] an offer unique to L Suite members.
 
-[01:10 - 01:12] If you're interested in a free legal operation strategy
+[70.635 - 72.935] If you're interested in a free legal operation strategy
 
-[01:12 - 01:15] session, followed by a personalized assessment
+[72.935 - 75.735] session, followed by a personalized assessment
 
-[01:15 - 01:17] and roadmap customized to your team,
+[75.795 - 77.495] and roadmap customized to your team,
 
-[01:17 - 01:19] you'll have a chance to opt in.
+[77.715 - 79.095] you'll have a chance to opt in.
 
-[01:19 - 01:21] And with that, I'd love to pass it to Jason
+[79.395 - 81.415] And with that, I'd love to pass it to Jason
 
-[01:21 - 01:22] and Alex to introduce themselves.
+[81.555 - 82.975] and Alex to introduce themselves.
 
 **[Speaker 3]**
 
 
-[01:24 - 01:28] Hi, I'm Jason. I am a general counsel of a collection
+[84.665 - 88.165] Hi, I'm Jason. I am a general counsel of a collection
 
-[01:28 - 01:31] of software startups, predominantly in FinTech ai.
+[88.345 - 91.845] of software startups, predominantly in FinTech ai.
 
-[01:32 - 01:35] Alex, over to you. Yep. I'm Alex.
+[92.435 - 95.945] Alex, over to you. Yep. I'm Alex.
 
-[01:36 - 01:39] Uh, I'm the general counsel of Jasper ai.
+[96.325 - 99.225] Uh, I'm the general counsel of Jasper ai.
 
-[01:39 - 01:42] We're a marketing AI company for enterprises.
+[99.235 - 102.025] We're a marketing AI company for enterprises.
 
-[01:42 - 01:45] Um, so pretty familiar with developing and deploying AI
+[102.565 - 105.985] Um, so pretty familiar with developing and deploying AI
 
-[01:45 - 01:47] and then using it personally in our
+[105.985 - 107.785] and then using it personally in our
 
-[01:47 - 01:49] legal workflows in-house as well.
+[107.795 - 109.345] legal workflows in-house as well.
 
 **[Speaker 2]**
 
 
-[01:50 - 01:51] Excellent. Thank you both.
+[110.405 - 111.805] Excellent. Thank you both.
 
-[01:52 - 01:56] So before we dive in, let me set the stage.
+[112.505 - 116.325] So before we dive in, let me set the stage.
 
-[01:57 - 01:59] AI is moving way faster than a lot
+[117.185 - 119.485] AI is moving way faster than a lot
 
-[01:59 - 02:01] of legal teams are comfortable with,
+[119.485 - 121.045] of legal teams are comfortable with,
 
-[02:01 - 02:05] and prompting is the tip of that very powerful momentum.
+[121.265 - 125.365] and prompting is the tip of that very powerful momentum.
 
-[02:05 - 02:09] Um, if you've ever had a sales team ping legal
+[125.985 - 129.365] Um, if you've ever had a sales team ping legal
 
-[02:09 - 02:12] with a question like, can we just use this vendor's paper,
+[129.365 - 132.965] with a question like, can we just use this vendor's paper,
 
-[02:13 - 02:15] um, without context, without details,
+[133.265 - 135.965] um, without context, without details,
 
-[02:16 - 02:19] or maybe even without a link to that contract, then you know
+[136.105 - 139.605] or maybe even without a link to that contract, then you know
 
-[02:19 - 02:20] that feeling of
+[139.715 - 140.765] that feeling of
 
-[02:20 - 02:23] what it's like when you don't get a good question,
+[140.765 - 143.285] what it's like when you don't get a good question,
 
-[02:23 - 02:25] every answer feels wrong.
+[143.855 - 145.325] every answer feels wrong.
 
-[02:25 - 02:29] And that's kind of what prompting with AI is exactly like,
+[145.945 - 149.805] And that's kind of what prompting with AI is exactly like,
 
-[02:30 - 02:34] so we wanna get really good at asking the right question
+[150.505 - 154.445] so we wanna get really good at asking the right question
 
-[02:34 - 02:36] and give the right context and details.
+[154.545 - 156.485] and give the right context and details.
 
-[02:37 - 02:40] So now that AI is answering questions at scale,
+[157.065 - 160.165] So now that AI is answering questions at scale,
 
-[02:40 - 02:41] the stakes are really big
+[160.625 - 161.925] the stakes are really big
 
-[02:42 - 02:44] and that's why today is about
+[162.385 - 164.165] and that's why today is about
 
-[02:44 - 02:45] how we ask those questions better.
+[164.185 - 165.485] how we ask those questions better.
 
-[02:45 - 02:49] So, um, we wanna use these tools, smart and safe.
+[165.905 - 169.165] So, um, we wanna use these tools, smart and safe.
 
-[02:49 - 02:51] Um, let's get into it.
+[169.745 - 171.125] Um, let's get into it.
 
-[02:51 - 02:54] Jason, can you share a case
+[171.135 - 174.095] Jason, can you share a case
 
-[02:54 - 02:58] where sharpening a prompt, um, led
+[174.105 - 178.195] where sharpening a prompt, um, led
 
-[02:58 - 03:00] to a materially better output?
+[178.195 - 180.805] to a materially better output?
 
 **[Speaker 3]**
 
 
-[03:02 - 03:05] Yeah, sure. So I guess to preface this,
+[182.715 - 185.685] Yeah, sure. So I guess to preface this,
 
-[03:05 - 03:07] this was early AI days.
+[185.795 - 187.845] this was early AI days.
 
-[03:08 - 03:09] I was probably using chat GPT
+[188.045 - 189.885] I was probably using chat GPT
 
-[03:09 - 03:11] and didn't have a ton of practice,
+[189.885 - 191.245] and didn't have a ton of practice,
 
-[03:11 - 03:14] but one time I was trying to recall the present consent
+[191.945 - 194.645] but one time I was trying to recall the present consent
 
-[03:14 - 03:16] to future events rules in Delaware.
+[194.645 - 196.365] to future events rules in Delaware.
 
-[03:16 - 03:20] So I asked chat GPT, basically just that
+[196.385 - 200.445] So I asked chat GPT, basically just that
 
-[03:21 - 03:23] the output was predictably awful.
+[201.185 - 203.565] the output was predictably awful.
 
-[03:24 - 03:27] Uh, going back I tried to sharpen it up a bit
+[204.505 - 207.405] Uh, going back I tried to sharpen it up a bit
 
-[03:27 - 03:31] and I asked how many days in advance the prospective action
+[207.825 - 211.045] and I asked how many days in advance the prospective action
 
-[03:31 - 03:32] can a board or stockholders'
+[211.145 - 212.725] can a board or stockholders'
 
-[03:32 - 03:34] consent to those future actions?
+[212.725 - 214.085] consent to those future actions?
 
-[03:34 - 03:37] I told it to assume Delaware law site to statutes
+[214.765 - 217.525] I told it to assume Delaware law site to statutes
 
-[03:37 - 03:38] or clarifying case law.
+[217.525 - 218.805] or clarifying case law.
 
-[03:39 - 03:40] It, uh, oh.
+[219.795 - 220.815] It, uh, oh.
 
-[03:40 - 03:43] And I also told it to discuss the full chain
+[220.835 - 223.495] And I also told it to discuss the full chain
 
-[03:43 - 03:44] of reasoning prior to concluding.
+[223.495 - 224.935] of reasoning prior to concluding.
 
-[03:45 - 03:47] 'cause sometimes you can get sharper responses
+[225.215 - 227.055] 'cause sometimes you can get sharper responses
 
-[03:47 - 03:50] 'cause it's, it's not thinking, it's just reasoning
+[227.215 - 230.095] 'cause it's, it's not thinking, it's just reasoning
 
-[03:50 - 03:51] through words in real time.
+[230.095 - 231.135] through words in real time.
 
-[03:51 - 03:54] Uh, answer wound up being 60 days in
+[231.915 - 234.455] Uh, answer wound up being 60 days in
 
-[03:54 - 03:55] case anyone's interested.
+[234.455 - 235.495] case anyone's interested.
 
-[03:55 - 03:58] And I think the takeaway is that you can get pretty far
+[235.555 - 238.015] And I think the takeaway is that you can get pretty far
 
-[03:58 - 03:59] with even basic context.
+[238.045 - 239.335] with even basic context.
 
-[04:00 - 04:04] Also worth mentioning that the cited law was wrong.
+[240.285 - 244.175] Also worth mentioning that the cited law was wrong.
 
-[04:04 - 04:06] It gave me a correct quote, but the wrong law.
+[244.395 - 246.855] It gave me a correct quote, but the wrong law.
 
-[04:06 - 04:08] So that just further highlights the need
+[246.915 - 248.855] So that just further highlights the need
 
-[04:08 - 04:11] to verify all the odd outputs. And
+[248.855 - 251.575] to verify all the odd outputs. And
 
 **[Speaker 2]**
 
 
-[04:12 - 04:14] Jason, I'll ask a a quick follow up
+[252.385 - 254.545] Jason, I'll ask a a quick follow up
 
-[04:14 - 04:16] before I go over to Alex.
+[254.545 - 256.385] before I go over to Alex.
 
-[04:16 - 04:20] Um, when, when you're in that instance
+[256.925 - 260.315] Um, when, when you're in that instance
 
-[04:20 - 04:23] where the citation is wrong, if you don't have expertise,
+[260.315 - 263.955] where the citation is wrong, if you don't have expertise,
 
-[04:24 - 04:25] how do, how do you know what's wrong?
+[264.695 - 265.955] how do, how do you know what's wrong?
 
 **[Speaker 3]**
 
 
-[04:27 - 04:30] That's somewhat that, that, that's a big problem.
+[267.425 - 270.005] That's somewhat that, that, that's a big problem.
 
-[04:30 - 04:31] If you don't have a bit
+[270.185 - 271.965] If you don't have a bit
 
-[04:31 - 04:35] of a BS meter on the topic in question,
+[271.965 - 275.365] of a BS meter on the topic in question,
 
-[04:36 - 04:37] you can't really know it's wrong.
+[276.065 - 277.525] you can't really know it's wrong.
 
-[04:37 - 04:41] So you have to view it as sort of a Google something
+[277.625 - 281.565] So you have to view it as sort of a Google something
 
-[04:41 - 04:43] that helps you figure out what you don't know.
+[281.565 - 283.645] that helps you figure out what you don't know.
 
-[04:43 - 04:44] And if it's important enough
+[283.665 - 284.845] And if it's important enough
 
-[04:44 - 04:46] or risky enough, you'd then have to
+[284.845 - 286.405] or risky enough, you'd then have to
 
-[04:47 - 04:48] escalate it to somebody who does
+[287.165 - 288.485] escalate it to somebody who does
 
-[04:49 - 04:52] Trust but verify Trust, but verify
+[289.815 - 292.285] Trust but verify Trust, but verify
 
 **[Speaker 2]**
 
 
-[04:52 - 04:53] Just to verify.
+[292.555 - 293.555] Just to verify.
 
-[04:53 - 04:57] Excellent. And Alex, what criteria are you using to know
+[293.805 - 297.165] Excellent. And Alex, what criteria are you using to know
 
-[04:57 - 04:59] that a prompt is hitting the mark?
+[297.395 - 299.125] that a prompt is hitting the mark?
 
 **[Speaker 3]**
 
 
-[04:59 - 05:01] Yeah, I think the most recent models
+[299.715 - 301.845] Yeah, I think the most recent models
 
-[05:01 - 05:06] that have come out from OpenAI, Google philanthropic, um,
+[301.845 - 306.205] that have come out from OpenAI, Google philanthropic, um,
 
-[05:06 - 05:09] have become better and better at getting pretty close
+[306.555 - 309.245] have become better and better at getting pretty close
 
-[05:09 - 05:11] to a perfect answer.
+[309.985 - 311.405] to a perfect answer.
 
-[05:12 - 05:16] Honestly, like I've found, um, the legal reasoning for most
+[312.005 - 316.645] Honestly, like I've found, um, the legal reasoning for most
 
-[05:17 - 05:20] questions I ask are now 85 to 90% accurate.
+[317.245 - 320.045] questions I ask are now 85 to 90% accurate.
 
-[05:20 - 05:25] But one thing to be continually conscious of is
+[320.855 - 325.315] But one thing to be continually conscious of is
 
-[05:25 - 05:27] that if you're asking it to cite sources,
+[325.315 - 327.275] that if you're asking it to cite sources,
 
-[05:28 - 05:30] it will still at times hallucinate those sources.
+[328.015 - 330.675] it will still at times hallucinate those sources.
 
-[05:30 - 05:32] There's a, there's ways you can improve that,
+[330.705 - 332.835] There's a, there's ways you can improve that,
 
-[05:33 - 05:35] especially if you're using a model from one
+[333.085 - 335.795] especially if you're using a model from one
 
-[05:35 - 05:38] of the model providers that allows, um,
+[335.795 - 338.075] of the model providers that allows, um,
 
-[05:38 - 05:40] live search grounding using Google
+[338.185 - 340.195] live search grounding using Google
 
-[05:40 - 05:43] or perplexity as like a deep research function.
+[340.455 - 343.475] or perplexity as like a deep research function.
 
-[05:43 - 05:45] And that gets a little better to the mark in terms
+[343.815 - 345.395] And that gets a little better to the mark in terms
 
-[05:45 - 05:47] of citing accurate sources.
+[345.395 - 347.035] of citing accurate sources.
 
-[05:47 - 05:49] You still have to be careful about that,
+[347.695 - 349.035] You still have to be careful about that,
 
-[05:49 - 05:52] but I still find that it might give you, you know, like
+[349.455 - 352.835] but I still find that it might give you, you know, like
 
-[05:53 - 05:56] accurate elements of breach of contract in Massachusetts
+[353.675 - 356.195] accurate elements of breach of contract in Massachusetts
 
-[05:57 - 05:59] and it's, it's dead accurate.
+[357.515 - 359.055] and it's, it's dead accurate.
 
-[05:59 - 06:03] And then the sources it cite might not be, um,
+[359.195 - 363.015] And then the sources it cite might not be, um,
 
-[06:03 - 06:05] the best sources to cite or might some might be inaccurate,
+[363.235 - 365.855] the best sources to cite or might some might be inaccurate,
 
-[06:06 - 06:07] but that is getting better and better.
+[366.235 - 367.575] but that is getting better and better.
 
 **[Speaker 2]**
 
 
-[06:08 - 06:10] Do you have any sort of methodology to
+[368.315 - 370.935] Do you have any sort of methodology to
 
-[06:11 - 06:14] what you do when you do come up with a good prompt
+[371.565 - 374.975] what you do when you do come up with a good prompt
 
-[06:15 - 06:17] and you want to save it or share it?
+[375.315 - 377.935] and you want to save it or share it?
 
 **[Speaker 3]**
 
 
-[06:18 - 06:21] Yeah, definitely. So there are plenty of tools
+[378.925 - 381.015] Yeah, definitely. So there are plenty of tools
 
-[06:21 - 06:22] that would do this for you nowadays.
+[381.015 - 382.455] that would do this for you nowadays.
 
-[06:22 - 06:25] I'm sure people on the call use them or aware of them.
+[382.555 - 385.295] I'm sure people on the call use them or aware of them.
 
-[06:25 - 06:29] You can also, like, for a long time I just kept a note file
+[385.835 - 389.735] You can also, like, for a long time I just kept a note file
 
-[06:29 - 06:32] with prompts that I would copy and paste into chat GPT.
+[389.735 - 392.775] with prompts that I would copy and paste into chat GPT.
 
-[06:33 - 06:34] That's pretty good.
+[393.315 - 394.415] That's pretty good.
 
-[06:35 - 06:36] The framework I think about
+[395.075 - 396.335] The framework I think about
 
-[06:36 - 06:40] for creating prompts is entirely stolen from, um, a book
+[396.595 - 400.655] for creating prompts is entirely stolen from, um, a book
 
-[06:40 - 06:43] that came out last year by Ethan Molik,
+[400.655 - 403.095] that came out last year by Ethan Molik,
 
-[06:43 - 06:47] he's a researcher at, and the book's title co intelligence.
+[403.095 - 407.095] he's a researcher at, and the book's title co intelligence.
 
-[06:47 - 06:49] Um, and it's pretty short and easy to get your hands on.
+[407.635 - 409.655] Um, and it's pretty short and easy to get your hands on.
 
-[06:49 - 06:51] I think it's less than 200 pages.
+[409.735 - 411.255] I think it's less than 200 pages.
 
-[06:51 - 06:54] But one of the things he talks about in terms
+[411.955 - 414.015] But one of the things he talks about in terms
 
-[06:54 - 06:56] of crafting good prompts
+[414.015 - 416.015] of crafting good prompts
 
-[06:56 - 06:59] to have the best re responses from AI is
+[416.015 - 419.295] to have the best re responses from AI is
 
-[06:59 - 07:01] to give it first a role to play.
+[419.295 - 421.295] to give it first a role to play.
 
-[07:01 - 07:05] So in the legal context, um, having it, telling it to act
+[421.555 - 425.495] So in the legal context, um, having it, telling it to act
 
-[07:05 - 07:07] as an attorney and not just any attorney,
+[425.495 - 427.255] as an attorney and not just any attorney,
 
-[07:07 - 07:10] but trying to narrow down on the specific expertise
+[427.275 - 430.375] but trying to narrow down on the specific expertise
 
-[07:10 - 07:11] you're wanting it to have.
+[430.375 - 431.535] you're wanting it to have.
 
-[07:12 - 07:16] Um, and that substantially improves prompts
+[432.365 - 436.385] Um, and that substantially improves prompts
 
-[07:16 - 07:18] and you can just put that in the beginning of the prompt or,
+[436.405 - 438.425] and you can just put that in the beginning of the prompt or,
 
-[07:18 - 07:21] or bury it in the system prompt Once again, there are plenty
+[438.445 - 441.625] or bury it in the system prompt Once again, there are plenty
 
-[07:21 - 07:24] of tools out there nowadays that will do this for you
+[441.625 - 444.185] of tools out there nowadays that will do this for you
 
-[07:24 - 07:25] so you don't have to know what you're doing.
+[444.185 - 445.345] so you don't have to know what you're doing.
 
-[07:26 - 07:27] Um, but that helps a lot in the get go.
+[446.015 - 447.995] Um, but that helps a lot in the get go.
 
 **[Speaker 2]**
 
 
-[07:28 - 07:31] And before I, I I pivot to Jason a quick follow.
+[448.335 - 451.955] And before I, I I pivot to Jason a quick follow.
 
-[07:32 - 07:36] Um, it used to be that the order of
+[452.375 - 456.035] Um, it used to be that the order of
 
-[07:36 - 07:38] where you were asking the question was important.
+[456.035 - 458.155] where you were asking the question was important.
 
-[07:38 - 07:39] For example, if you put it first
+[458.255 - 459.515] For example, if you put it first
 
-[07:39 - 07:40] and then you put context later,
+[459.535 - 460.795] and then you put context later,
 
-[07:40 - 07:42] or if you put context in the question,
+[460.855 - 462.875] or if you put context in the question,
 
-[07:43 - 07:44] do you find there's any magic
+[463.295 - 464.515] do you find there's any magic
 
-[07:44 - 07:47] to whether you're putting the question then loading in the
+[464.615 - 467.195] to whether you're putting the question then loading in the
 
-[07:47 - 07:50] context or not, doesn't matter anymore?
+[467.195 - 470.035] context or not, doesn't matter anymore?
 
 **[Speaker 3]**
 
 
-[07:51 - 07:53] Um, that's a, that's a great point.
+[471.625 - 473.205] Um, that's a, that's a great point.
 
-[07:53 - 07:54] I still put it
+[473.805 - 474.885] I still put it
 
-[07:54 - 07:58] before in chat gt even you, if you have their plus plan,
+[474.945 - 478.565] before in chat gt even you, if you have their plus plan,
 
-[07:58 - 08:01] I believe you can create custom GPTs that allow you
+[478.725 - 481.805] I believe you can create custom GPTs that allow you
 
-[08:01 - 08:03] to bury it in the system prompts so
+[481.805 - 483.365] to bury it in the system prompts so
 
-[08:03 - 08:05] that any question you ask it automatically is
+[483.365 - 485.685] that any question you ask it automatically is
 
-[08:05 - 08:06] incorporating that context.
+[485.685 - 486.885] incorporating that context.
 
-[08:06 - 08:08] That's helpful. Um,
+[486.985 - 488.925] That's helpful. Um,
 
-[08:09 - 08:11] but quite frankly, I think the models are keep,
+[489.465 - 491.405] but quite frankly, I think the models are keep,
 
-[08:11 - 08:12] keep getting better and better at this.
+[491.405 - 492.685] keep getting better and better at this.
 
-[08:12 - 08:14] And you can probably include it anywhere.
+[492.685 - 494.525] And you can probably include it anywhere.
 
-[08:14 - 08:17] Uh, you could attach a file, like if you have notes
+[494.985 - 497.845] Uh, you could attach a file, like if you have notes
 
-[08:17 - 08:19] for prompts you want to use in a Word doc,
+[497.945 - 499.805] for prompts you want to use in a Word doc,
 
-[08:19 - 08:20] you could just attach that.
+[499.825 - 500.885] you could just attach that.
 
-[08:21 - 08:24] Um, the, the models themselves are getting very good at
+[501.465 - 504.245] Um, the, the models themselves are getting very good at
 
-[08:24 - 08:25] understanding user intent.
+[504.245 - 505.725] understanding user intent.
 
-[08:26 - 08:27] You can have grammatical errors,
+[506.105 - 507.685] You can have grammatical errors,
 
-[08:27 - 08:30] you can totally misstate the mark on like
+[507.705 - 510.685] you can totally misstate the mark on like
 
-[08:30 - 08:32] what even law you're trying to research.
+[510.685 - 512.205] what even law you're trying to research.
 
-[08:32 - 08:34] And it'll typically do a pretty good job
+[512.545 - 514.605] And it'll typically do a pretty good job
 
-[08:34 - 08:35] of figuring out what you mean
+[514.605 - 515.725] of figuring out what you mean
 
 **[Speaker 2]**
 
 
-[08:36 - 08:38] Does catch my reads right through my typo.
+[516.035 - 518.445] Does catch my reads right through my typo.
 
-[08:38 - 08:40] Um, so Jason, what,
+[518.945 - 520.485] Um, so Jason, what,
 
-[08:40 - 08:43] what tools are you leaning on for prompting,
+[520.795 - 523.125] what tools are you leaning on for prompting,
 
 **[Speaker 3]**
 
 
-[08:44 - 08:47] I guess, uh, I don't have to think too hard.
+[524.435 - 527.195] I guess, uh, I don't have to think too hard.
 
-[08:47 - 08:49] Thankfully I use GC ai.
+[527.205 - 529.955] Thankfully I use GC ai.
 
-[08:49 - 08:51] There's a lot of tools that like it
+[529.955 - 531.715] There's a lot of tools that like it
 
-[08:51 - 08:53] and you ask it what you're thinking,
+[531.775 - 533.435] and you ask it what you're thinking,
 
-[08:53 - 08:55] you provide some context, you click the magic,
+[533.455 - 535.725] you provide some context, you click the magic,
 
-[08:56 - 08:57] fix my prompt button
+[536.425 - 537.485] fix my prompt button
 
-[08:57 - 08:59] and it blows it up into this multi-paragraph
+[537.505 - 539.765] and it blows it up into this multi-paragraph
 
-[09:00 - 09:01] beautiful wonder prompt.
+[540.395 - 541.845] beautiful wonder prompt.
 
-[09:02 - 09:04] So I don't have to think about it that hard.
+[542.425 - 544.325] So I don't have to think about it that hard.
 
-[09:04 - 09:07] When I used to, I don't know if this is still the case,
+[544.435 - 547.045] When I used to, I don't know if this is still the case,
 
-[09:07 - 09:08] but at one point in time,
+[547.185 - 548.365] but at one point in time,
 
-[09:08 - 09:11] Claude was better at writing like the human,
+[548.905 - 551.725] Claude was better at writing like the human,
 
-[09:11 - 09:14] so I would use Claude to create a really good prompt
+[551.825 - 554.645] so I would use Claude to create a really good prompt
 
-[09:14 - 09:18] and then I would plug that into chat GPT or another model
+[554.705 - 558.445] and then I would plug that into chat GPT or another model
 
-[09:18 - 09:20] and go from there with pretty good results.
+[558.585 - 560.925] and go from there with pretty good results.
 
 **[Speaker 2]**
 
 
-[09:22 - 09:27] Also, I think a pro tip is if you are really not getting
+[562.795 - 567.605] Also, I think a pro tip is if you are really not getting
 
-[09:27 - 09:29] outputs that are helpful, and if,
+[567.715 - 569.285] outputs that are helpful, and if,
 
-[09:29 - 09:33] and if it keeps missing the mark in the response, um,
+[569.385 - 573.725] and if it keeps missing the mark in the response, um,
 
-[09:34 - 09:39] you can ask, um, for, for whatever tool you're using,
+[574.545 - 579.045] you can ask, um, for, for whatever tool you're using,
 
-[09:39 - 09:41] can you help me to write a better prompt here?
+[579.385 - 581.205] can you help me to write a better prompt here?
 
-[09:41 - 09:44] And I think again, like the more context you can add,
+[581.385 - 584.525] And I think again, like the more context you can add,
 
-[09:44 - 09:47] the better that the, the prompt's going to be, right?
+[584.585 - 587.565] the better that the, the prompt's going to be, right?
 
-[09:48 - 09:50] Um, but, but as we said, like even even that
+[588.065 - 590.765] Um, but, but as we said, like even even that
 
-[09:51 - 09:54] like relying on the tool to give you that,
+[591.675 - 594.205] like relying on the tool to give you that,
 
-[09:54 - 09:55] um, is gonna help you.
+[594.545 - 595.885] um, is gonna help you.
 
-[09:56 - 10:00] So Jason, now let's talk about, um,
+[596.785 - 600.085] So Jason, now let's talk about, um,
 
-[10:00 - 10:02] some of the risks, right?
+[600.835 - 602.085] some of the risks, right?
 
-[10:02 - 10:03] Like we're we're talking about prompting,
+[602.155 - 603.765] Like we're we're talking about prompting,
 
-[10:03 - 10:05] we're talking about giving context, we're talking about
+[603.765 - 605.565] we're talking about giving context, we're talking about
 
-[10:05 - 10:07] how you get better at asking the right question
+[605.565 - 607.525] how you get better at asking the right question
 
-[10:08 - 10:09] so you get the right outputs,
+[608.105 - 609.765] so you get the right outputs,
 
-[10:10 - 10:13] but in reality there are still some risks.
+[610.065 - 613.045] but in reality there are still some risks.
 
-[10:13 - 10:16] And, um, what do you think is most likely
+[613.465 - 616.685] And, um, what do you think is most likely
 
-[10:16 - 10:20] to cause something misleading or to cause a risky output?
+[616.825 - 620.165] to cause something misleading or to cause a risky output?
 
 **[Speaker 3]**
 
 
-[10:21 - 10:24] Yeah, so there's a couple different answers to that.
+[621.455 - 624.145] Yeah, so there's a couple different answers to that.
 
-[10:24 - 10:27] Some of them are more technical than I'm able to provide
+[624.175 - 627.695] Some of them are more technical than I'm able to provide
 
-[10:27 - 10:29] and others are more contextual.
+[627.715 - 629.255] and others are more contextual.
 
-[10:29 - 10:31] So I think first off, a lot
+[629.475 - 631.455] So I think first off, a lot
 
-[10:31 - 10:33] of people are treating these tools
+[631.455 - 633.375] of people are treating these tools
 
-[10:33 - 10:35] as if they're subject matter experts in
+[633.475 - 635.495] as if they're subject matter experts in
 
-[10:35 - 10:36] areas that they don't understand.
+[635.495 - 636.655] areas that they don't understand.
 
-[10:36 - 10:39] And I think that's inherently problematic and dangerous.
+[636.715 - 639.615] And I think that's inherently problematic and dangerous.
 
-[10:40 - 10:41] I feel like a broken record,
+[640.255 - 641.375] I feel like a broken record,
 
-[10:41 - 10:44] but I keep going to the, you need to be able, you need
+[641.435 - 644.335] but I keep going to the, you need to be able, you need
 
-[10:44 - 10:46] to be capable of falsifying the output in order for it
+[644.335 - 646.975] to be capable of falsifying the output in order for it
 
-[10:46 - 10:49] to be safe for you to rely on the output
+[646.975 - 649.295] to be safe for you to rely on the output
 
-[10:49 - 10:51] with without bringing in other humans.
+[649.295 - 651.575] with without bringing in other humans.
 
-[10:52 - 10:56] And so I guess you, yeah, that, that's the big one.
+[652.735 - 656.665] And so I guess you, yeah, that, that's the big one.
 
-[10:56 - 11:00] And then you need to add context and specificity to prompts
+[656.845 - 660.625] And then you need to add context and specificity to prompts
 
-[11:01 - 11:03] and you need to specify what your outcome should be,
+[661.205 - 663.745] and you need to specify what your outcome should be,
 
-[11:04 - 11:07] particularly what a lot of people, myself included,
+[664.185 - 667.585] particularly what a lot of people, myself included,
 
-[11:07 - 11:11] occasionally you ask it leading questions such as
+[667.905 - 671.705] occasionally you ask it leading questions such as
 
-[11:12 - 11:14] I think this is the rule, I think this is what happens.
+[672.265 - 674.985] I think this is the rule, I think this is what happens.
 
-[11:16 - 11:18] Do you agree? And again,
+[676.085 - 678.585] Do you agree? And again,
 
-[11:18 - 11:21] because these things aren't really thinking that's,
+[678.585 - 681.425] because these things aren't really thinking that's,
 
-[11:21 - 11:22] that's a dangerous way to ask a question.
+[681.425 - 682.985] that's a dangerous way to ask a question.
 
-[11:23 - 11:25] I find it helpful to provide a lot of context,
+[683.625 - 685.905] I find it helpful to provide a lot of context,
 
-[11:26 - 11:30] but then have the actual executable question be more
+[686.085 - 690.155] but then have the actual executable question be more
 
-[11:30 - 11:32] open-ended to try and avoid influencing the outcome.
+[690.155 - 692.595] open-ended to try and avoid influencing the outcome.
 
-[11:33 - 11:35] I'm not sure, did I, did I answer the question?
+[693.625 - 695.445] I'm not sure, did I, did I answer the question?
 
 **[Speaker 2]**
 
 
-[11:35 - 11:37] Yeah, and, and I'll, I'll add onto
+[695.915 - 697.845] Yeah, and, and I'll, I'll add onto
 
-[11:37 - 11:40] that is sometimes when I've been stuck
+[697.845 - 700.005] that is sometimes when I've been stuck
 
-[11:40 - 11:44] with not loving the outputs, I actually will refresh
+[700.115 - 704.085] with not loving the outputs, I actually will refresh
 
-[11:44 - 11:45] and start a whole new prompt.
+[704.145 - 705.485] and start a whole new prompt.
 
-[11:45 - 11:47] Like, 'cause there's something about the memory that helps.
+[705.485 - 707.725] Like, 'cause there's something about the memory that helps.
 
-[11:48 - 11:51] And when I do that refresh, sometimes I'll actually start
+[708.025 - 711.685] And when I do that refresh, sometimes I'll actually start
 
-[11:51 - 11:55] by asking kind of like leading the witness questions, like,
+[711.745 - 715.085] by asking kind of like leading the witness questions, like,
 
-[11:55 - 11:57] Hey, are you familiar with Ontario Canada?
+[715.105 - 717.245] Hey, are you familiar with Ontario Canada?
 
-[11:57 - 12:00] And then like, Hey, are you like, are you familiar
+[717.625 - 720.485] And then like, Hey, are you like, are you familiar
 
-[12:00 - 12:01] with the languages that they speak there?
+[720.485 - 721.845] with the languages that they speak there?
 
-[12:01 - 12:04] And like I I actually start building like, like a world,
+[721.865 - 724.605] And like I I actually start building like, like a world,
 
-[12:04 - 12:07] if you will, and then I get into the, the heart
+[724.665 - 727.965] if you will, and then I get into the, the heart
 
-[12:07 - 12:09] of what I wanna ask.
+[727.965 - 729.005] of what I wanna ask.
 
-[12:09 - 12:11] Maybe I wanna ask about restaurants in that town
+[729.255 - 731.565] Maybe I wanna ask about restaurants in that town
 
-[12:11 - 12:14] or something, but if I'm really getting frustrated,
+[731.585 - 734.565] or something, but if I'm really getting frustrated,
 
-[12:14 - 12:17] I might start like world building with it first
+[734.765 - 737.005] I might start like world building with it first
 
-[12:17 - 12:20] and then I find it ha it feels like it knows
+[737.305 - 740.845] and then I find it ha it feels like it knows
 
-[12:21 - 12:23] a little bit better 'cause I was leading the witness.
+[741.365 - 743.245] a little bit better 'cause I was leading the witness.
 
-[12:24 - 12:28] Um, Alex, how do you do a critical evaluation of like
+[744.065 - 748.045] Um, Alex, how do you do a critical evaluation of like
 
-[12:28 - 12:31] what, what came out, um, of your prompt?
+[748.955 - 751.445] what, what came out, um, of your prompt?
 
 **[Speaker 3]**
 
 
-[12:32 - 12:35] Yeah, definitely leading, asking, leading questions is,
+[752.985 - 755.915] Yeah, definitely leading, asking, leading questions is,
 
-[12:36 - 12:37] is tough even if you're using it
+[756.095 - 757.755] is tough even if you're using it
 
-[12:37 - 12:39] for personal use cases, not legal.
+[757.755 - 759.595] for personal use cases, not legal.
 
-[12:39 - 12:42] And that's be like the, the system prompts
+[759.655 - 762.155] And that's be like the, the system prompts
 
-[12:42 - 12:45] that the model providers use are largely proprietary.
+[762.155 - 765.475] that the model providers use are largely proprietary.
 
-[12:45 - 12:49] But if you, like, if your company is developing AI itself
+[765.815 - 769.075] But if you, like, if your company is developing AI itself
 
-[12:49 - 12:52] and you go into your, um, your instance
+[769.255 - 772.705] and you go into your, um, your instance
 
-[12:52 - 12:56] of like open AI's playground, you can see
+[772.705 - 776.025] of like open AI's playground, you can see
 
-[12:56 - 12:58] how your company's developing prompts
+[776.165 - 778.265] how your company's developing prompts
 
-[12:58 - 13:00] and open AI suggests system prompts
+[778.325 - 780.545] and open AI suggests system prompts
 
-[13:00 - 13:04] and they almost always begin with act as a helpful assistant
+[780.565 - 784.265] and they almost always begin with act as a helpful assistant
 
-[13:04 - 13:08] that is friendly and polite and the AI hears that.
+[784.735 - 788.145] that is friendly and polite and the AI hears that.
 
-[13:08 - 13:10] And when we're just going into chat GBT
+[788.285 - 790.105] And when we're just going into chat GBT
 
-[13:10 - 13:12] and asking legal questions, it's really wanting
+[790.105 - 792.305] and asking legal questions, it's really wanting
 
-[13:12 - 13:13] to please us more than anything else.
+[792.305 - 793.825] to please us more than anything else.
 
-[13:14 - 13:17] Um, so you have to work your way around that a bit.
+[794.485 - 797.505] Um, so you have to work your way around that a bit.
 
-[13:17 - 13:19] One of the ways that I do it is force it
+[797.565 - 799.865] One of the ways that I do it is force it
 
-[13:19 - 13:21] to show its thinking.
+[799.865 - 801.065] to show its thinking.
 
-[13:21 - 13:22] So some of the new reasoning models,
+[801.365 - 802.825] So some of the new reasoning models,
 
-[13:23 - 13:25] Gemini 2.5 Pro will do this automatically
+[803.125 - 805.945] Gemini 2.5 Pro will do this automatically
 
-[13:25 - 13:28] and it provides a little dropdown box that shows you
+[805.945 - 808.265] and it provides a little dropdown box that shows you
 
-[13:28 - 13:30] how the system was thinking itself.
+[808.885 - 810.425] how the system was thinking itself.
 
-[13:30 - 13:33] But you can also just include in your prompt
+[810.485 - 813.185] But you can also just include in your prompt
 
-[13:33 - 13:36] after you tell it to act like an attorney to, um,
+[813.195 - 816.785] after you tell it to act like an attorney to, um,
 
-[13:36 - 13:39] write out its reasoning in like Iraq format,
+[816.795 - 819.905] write out its reasoning in like Iraq format,
 
-[13:40 - 13:43] like we were taught to do in law school for exams, uh,
+[820.055 - 823.185] like we were taught to do in law school for exams, uh,
 
-[13:43 - 13:46] which seems brutal, but like it gets that immediately.
+[823.185 - 826.305] which seems brutal, but like it gets that immediately.
 
-[13:46 - 13:48] I don't even have to spell out like issue rule analysis,
+[826.385 - 828.865] I don't even have to spell out like issue rule analysis,
 
-[13:48 - 13:50] conclusion it know what IRAC is
+[828.865 - 830.425] conclusion it know what IRAC is
 
-[13:50 - 13:54] and it'll, it'll structure its response that way
+[830.885 - 834.025] and it'll, it'll structure its response that way
 
-[13:54 - 13:56] and then at least you can go through, you're like,
+[834.045 - 836.065] and then at least you can go through, you're like,
 
-[13:56 - 13:57] did it catch the question
+[836.065 - 837.065] did it catch the question
 
-[13:57 - 13:59] that I was even asking to spot the issue?
+[837.135 - 839.025] that I was even asking to spot the issue?
 
-[13:59 - 14:01] What rules it actually setting or is it way off the mark?
+[839.455 - 841.905] What rules it actually setting or is it way off the mark?
 
-[14:02 - 14:04] And then from there you can, if it is making mistakes,
+[842.245 - 844.505] And then from there you can, if it is making mistakes,
 
-[14:04 - 14:06] you can figure out where those mistakes were made
+[844.525 - 846.985] you can figure out where those mistakes were made
 
-[14:06 - 14:08] and have it then go back
+[846.985 - 848.065] and have it then go back
 
-[14:08 - 14:10] and, you know, correct its process there.
+[848.085 - 850.745] and, you know, correct its process there.
 
-[14:11 - 14:15] Um, another easy hack I've found is using models
+[851.005 - 855.865] Um, another easy hack I've found is using models
 
-[14:16 - 14:20] that are fine tuned for coding use cases that seems odd
+[856.015 - 860.905] that are fine tuned for coding use cases that seems odd
 
-[14:21 - 14:23] and it might not pro provide the best, um,
+[861.205 - 863.825] and it might not pro provide the best, um,
 
-[14:24 - 14:26] like written English output itself,
+[864.215 - 866.265] like written English output itself,
 
-[14:26 - 14:29] but the legal reasoning I found is the strongest not to be.
+[866.285 - 869.585] but the legal reasoning I found is the strongest not to be.
 
-[14:29 - 14:32] I'm guessing it's because like years ago I read
+[869.765 - 872.345] I'm guessing it's because like years ago I read
 
-[14:32 - 14:35] that the highest performers on the LSAT in a bar exam were
+[872.345 - 875.265] that the highest performers on the LSAT in a bar exam were
 
-[14:35 - 14:37] math majors in college, which seems counterintuitive
+[875.415 - 877.785] math majors in college, which seems counterintuitive
 
-[14:38 - 14:40] at first because you would think like English
+[878.445 - 880.505] at first because you would think like English
 
-[14:40 - 14:42] and history majors and philosophy major would be the best,
+[880.505 - 882.985] and history majors and philosophy major would be the best,
 
-[14:43 - 14:46] but math is just like pure representational logic.
+[883.645 - 886.625] but math is just like pure representational logic.
 
-[14:47 - 14:48] Um, so those people should be able
+[887.205 - 888.745] Um, so those people should be able
 
-[14:48 - 14:50] to do logical reasoning in the best
+[888.745 - 890.305] to do logical reasoning in the best
 
-[14:50 - 14:52] and the models kind of bear
+[890.645 - 892.685] and the models kind of bear
 
-[14:52 - 14:54] that out when you're using a math heavy
+[892.685 - 894.485] that out when you're using a math heavy
 
-[14:55 - 14:58] or coding heavy model, it seems to be able to walk through
+[895.065 - 898.805] or coding heavy model, it seems to be able to walk through
 
-[14:59 - 15:03] discreet, deductive logical reasoning better than just
+[899.805 - 903.245] discreet, deductive logical reasoning better than just
 
-[15:03 - 15:04] jumping into chat GBT raw
+[903.245 - 904.725] jumping into chat GBT raw
 
-[15:04 - 15:06] and trying to uh, figure it out from there.
+[904.725 - 906.925] and trying to uh, figure it out from there.
 
-[15:07 - 15:10] Um, but then taking a step back,
+[907.745 - 910.005] Um, but then taking a step back,
 
-[15:10 - 15:14] like Jason mentioned GCA ai, we use GC ai, we also used, uh,
+[910.005 - 914.505] like Jason mentioned GCA ai, we use GC ai, we also used, uh,
 
-[15:15 - 15:19] um, a tool called White Shoe ai and then we use Ivo AI
+[915.245 - 919.505] um, a tool called White Shoe ai and then we use Ivo AI
 
-[15:20 - 15:22] and all three of those, like for somebody who doesn't want
+[920.085 - 922.745] and all three of those, like for somebody who doesn't want
 
-[15:22 - 15:25] to dig in and learn all of these, uh, annoying
+[922.745 - 925.705] to dig in and learn all of these, uh, annoying
 
-[15:26 - 15:29] geeky nuances, these tools do all that for you.
+[926.315 - 929.265] geeky nuances, these tools do all that for you.
 
-[15:29 - 15:31] They're selecting, most likely they're selecting the best
+[929.265 - 931.745] They're selecting, most likely they're selecting the best
 
-[15:31 - 15:34] models for you, um, when to use them and how to prompt them.
+[931.745 - 934.865] models for you, um, when to use them and how to prompt them.
 
-[15:34 - 15:36] And it helps a ton. I'll share in the chat
+[934.865 - 936.745] And it helps a ton. I'll share in the chat
 
-[15:37 - 15:38] those three that we use.
+[937.155 - 938.385] those three that we use.
 
 **[Speaker 2]**
 
 
-[15:38 - 15:41] That's great. And I feel like you touched on this a little
+[938.965 - 941.265] That's great. And I feel like you touched on this a little
 
-[15:41 - 15:42] bit, but I'll, but I'll ask it anyway
+[941.265 - 942.505] bit, but I'll, but I'll ask it anyway
 
-[15:42 - 15:43] 'cause it's one of the questions that we got.
+[942.625 - 943.985] 'cause it's one of the questions that we got.
 
-[15:44 - 15:48] Do you find that the, um, the way that you're asking it
+[944.485 - 948.625] Do you find that the, um, the way that you're asking it
 
-[15:48 - 15:50] to take on a persona or,
+[948.625 - 950.065] to take on a persona or,
 
-[15:50 - 15:53] or using logic-based responses, is that
+[950.245 - 953.345] or using logic-based responses, is that
 
-[15:53 - 15:56] how you build confidence, um, in your responses
+[953.445 - 956.465] how you build confidence, um, in your responses
 
-[15:56 - 15:58] or is there any other methodology?
+[956.485 - 958.065] or is there any other methodology?
 
-[15:58 - 16:01] The specific question is like how do you build confidence
+[958.205 - 961.705] The specific question is like how do you build confidence
 
-[16:01 - 16:03] and certainty in the response?
+[961.725 - 963.305] and certainty in the response?
 
-[16:03 - 16:05] And it sounds like you touched on that a bit,
+[963.405 - 965.385] And it sounds like you touched on that a bit,
 
-[16:05 - 16:06] but if you have any, or Jason,
+[965.445 - 966.905] but if you have any, or Jason,
 
-[16:07 - 16:09] if you have any other pro tips on building
+[967.005 - 969.345] if you have any other pro tips on building
 
-[16:09 - 16:10] that confidence in the response?
+[969.345 - 970.785] that confidence in the response?
 
 **[Speaker 3]**
 
 
-[16:12 - 16:14] I think so going back
+[972.635 - 974.275] I think so going back
 
-[16:14 - 16:16] to Ethan Malik's book co Intelligence, one
+[974.275 - 976.515] to Ethan Malik's book co Intelligence, one
 
-[16:16 - 16:18] of the things he says is, um,
+[976.515 - 978.275] of the things he says is, um,
 
-[16:19 - 16:21] to begin using AI constantly
+[979.305 - 981.925] to begin using AI constantly
 
-[16:22 - 16:24] and you'll, you'll start noticing where it's strong,
+[982.145 - 984.405] and you'll, you'll start noticing where it's strong,
 
-[16:24 - 16:26] where it's weak, and that itself will build your confidence.
+[984.405 - 986.965] where it's weak, and that itself will build your confidence.
 
-[16:27 - 16:28] I'm definitely a power user of ai.
+[987.105 - 988.765] I'm definitely a power user of ai.
 
-[16:28 - 16:32] There's nothing I do now at work that doesn't incorporate
+[988.765 - 992.775] There's nothing I do now at work that doesn't incorporate
 
-[16:33 - 16:37] ai, um, like literally every single question I'm receiving
+[993.675 - 997.015] ai, um, like literally every single question I'm receiving
 
-[16:37 - 16:38] and responding to, unless it's live on
+[997.035 - 998.695] and responding to, unless it's live on
 
-[16:38 - 16:39] a call like this where I can't.
+[998.695 - 999.735] a call like this where I can't.
 
-[16:40 - 16:44] And even even then we use transcribing notes, um, notes
+[1000.115 - 1004.375] And even even then we use transcribing notes, um, notes
 
-[16:44 - 16:46] through these tools that, you know, we'll do speech
+[1004.375 - 1006.055] through these tools that, you know, we'll do speech
 
-[16:46 - 16:47] to text nowadays, which are pretty good.
+[1006.055 - 1007.535] to text nowadays, which are pretty good.
 
-[16:48 - 16:50] Um, but the more you use it,
+[1008.075 - 1010.065] Um, but the more you use it,
 
-[16:50 - 16:52] I think the more comfortable you'll get.
+[1010.105 - 1012.025] I think the more comfortable you'll get.
 
-[16:52 - 16:54] And even if it seems like something that, ah, I don't need
+[1012.045 - 1014.345] And even if it seems like something that, ah, I don't need
 
-[16:54 - 16:57] to use this, I know this, um, like the back of my hand,
+[1014.345 - 1017.545] to use this, I know this, um, like the back of my hand,
 
-[16:57 - 16:59] it's useful for you to build up the confidence
+[1017.615 - 1019.465] it's useful for you to build up the confidence
 
-[16:59 - 17:01] to use the tool so that then when a problem comes along
+[1019.465 - 1021.985] to use the tool so that then when a problem comes along
 
-[17:02 - 17:05] that it's like really well suited for, you can use that.
+[1022.225 - 1025.185] that it's like really well suited for, you can use that.
 
-[17:05 - 17:08] And then just also keep it in mind that these tools,
+[1025.205 - 1028.265] And then just also keep it in mind that these tools,
 
-[17:08 - 17:11] you should treat them as like a junior associate at a law
+[1028.445 - 1031.185] you should treat them as like a junior associate at a law
 
-[17:11 - 17:14] firm or like an entry level or they're pretty good
+[1031.375 - 1034.185] firm or like an entry level or they're pretty good
 
-[17:14 - 17:15] and that they'll give you a lot of good content,
+[1034.205 - 1035.705] and that they'll give you a lot of good content,
 
-[17:16 - 17:19] but at the end of the day, you're still the actual human
+[1036.525 - 1039.265] but at the end of the day, you're still the actual human
 
-[17:19 - 17:21] and the attorney and you should be checking it.
+[1039.365 - 1041.625] and the attorney and you should be checking it.
 
-[17:22 - 17:24] You shouldn't just be outsourcing this to ai.
+[1042.045 - 1044.425] You shouldn't just be outsourcing this to ai.
 
-[17:25 - 17:26] I think those are really good points.
+[1045.065 - 1046.465] I think those are really good points.
 
-[17:26 - 17:31] And then also I think that generally when I can, I try to
+[1046.645 - 1051.565] And then also I think that generally when I can, I try to
 
-[17:32 - 17:36] use these tools in a narrow scope using really easily
+[1052.265 - 1056.165] use these tools in a narrow scope using really easily
 
-[17:36 - 17:40] falsifiable questions and answers.
+[1056.675 - 1060.125] falsifiable questions and answers.
 
-[17:40 - 17:43] So I'll, even though citations can be wrong, I make it site,
+[1060.385 - 1063.885] So I'll, even though citations can be wrong, I make it site,
 
-[17:44 - 17:47] I make it reason and that makes it easier for me to sort
+[1064.005 - 1067.165] I make it reason and that makes it easier for me to sort
 
-[17:47 - 17:48] of spot check outputs
+[1067.165 - 1068.885] of spot check outputs
 
-[17:48 - 17:50] and that that gives me greater confidence.
+[1068.985 - 1070.845] and that that gives me greater confidence.
 
-[17:51 - 17:54] Although of course when something is partially thinking
+[1071.005 - 1074.605] Although of course when something is partially thinking
 
-[17:54 - 17:56] for you, you can, you can never be totally a hundred
+[1074.625 - 1076.685] for you, you can, you can never be totally a hundred
 
-[17:56 - 17:57] percent, but it helps.
+[1076.685 - 1077.685] percent, but it helps.
 
 **[Speaker 2]**
 
 
-[17:58 - 18:01] And Alex, really quickly to um, to your,
+[1078.145 - 1081.125] And Alex, really quickly to um, to your,
 
-[18:01 - 18:04] to your point about using Ivo GCI
+[1081.345 - 1084.245] to your point about using Ivo GCI
 
-[18:04 - 18:06] and then I think there was a third enterprise tool, one
+[1084.245 - 1086.685] and then I think there was a third enterprise tool, one
 
-[18:06 - 18:07] of the questions is,
+[1086.685 - 1087.925] of the questions is,
 
-[18:07 - 18:09] is there a reason why you're
+[1087.985 - 1089.685] is there a reason why you're
 
-[18:09 - 18:11] utilizing three different tools?
+[1089.685 - 1091.045] utilizing three different tools?
 
 **[Speaker 3]**
 
 
-[18:12 - 18:13] Yeah, so I just actually responded
+[1092.035 - 1093.645] Yeah, so I just actually responded
 
-[18:13 - 18:15] to someone's question in the chat about
+[1093.645 - 1095.525] to someone's question in the chat about
 
-[18:15 - 18:16] what the pricing looks like.
+[1095.525 - 1096.765] what the pricing looks like.
 
-[18:17 - 18:20] Um, GC ai, uh,
+[1097.345 - 1100.705] Um, GC ai, uh,
 
-[18:20 - 18:24] and Ivo, we both, I have another attorney in house as well,
+[1100.845 - 1104.585] and Ivo, we both, I have another attorney in house as well,
 
-[18:24 - 18:28] we heavily leveraged those tools for contract redlining.
+[1104.885 - 1108.505] we heavily leveraged those tools for contract redlining.
 
-[18:29 - 18:30] GCAI actually just came out
+[1109.275 - 1110.555] GCAI actually just came out
 
-[18:30 - 18:32] with a word plugin, uh, last week.
+[1110.555 - 1112.515] with a word plugin, uh, last week.
 
-[18:32 - 18:34] I think it's still in data and it's, it's really good.
+[1112.635 - 1114.395] I think it's still in data and it's, it's really good.
 
-[18:34 - 18:39] And Ivo was the first, uh, contract redlining tool I found
+[1114.655 - 1119.275] And Ivo was the first, uh, contract redlining tool I found
 
-[18:39 - 18:41] that was actually surgical and precise, it's redline
+[1119.275 - 1121.755] that was actually surgical and precise, it's redline
 
-[18:41 - 18:42] and wasn't over lawyering.
+[1121.755 - 1122.835] and wasn't over lawyering.
 
-[18:43 - 18:45] Um, and both
+[1123.455 - 1125.015] Um, and both
 
-[18:45 - 18:48] of those tools you can upload you like contract redlining
+[1125.015 - 1128.055] of those tools you can upload you like contract redlining
 
-[18:48 - 18:49] playbooks and that helps a ton.
+[1128.335 - 1129.415] playbooks and that helps a ton.
 
-[18:50 - 18:54] Um, and I had piloted essentially every single legal AI tool
+[1130.485 - 1134.465] Um, and I had piloted essentially every single legal AI tool
 
-[18:54 - 18:56] on the market and those two were the best
+[1134.565 - 1136.665] on the market and those two were the best
 
-[18:56 - 18:57] for contract redlining.
+[1136.665 - 1137.705] for contract redlining.
 
-[18:58 - 19:00] Uh, but they're kind of expensive, especially for a lot,
+[1138.205 - 1140.665] Uh, but they're kind of expensive, especially for a lot,
 
-[19:01 - 19:02] uh, small legal team.
+[1141.005 - 1142.065] uh, small legal team.
 
-[19:02 - 19:05] Uh, we, we were given pretty generous discounts to both
+[1142.805 - 1145.465] Uh, we, we were given pretty generous discounts to both
 
-[19:05 - 19:07] of them for early adopters,
+[1145.465 - 1147.185] of them for early adopters,
 
-[19:07 - 19:10] but they're still in the orders of five
+[1147.565 - 1150.305] but they're still in the orders of five
 
-[19:10 - 19:12] to $10,000 a year I believe.
+[1150.305 - 1152.385] to $10,000 a year I believe.
 
-[19:12 - 19:16] Um, white Shoe is, it came out this year, it's newer,
+[1152.925 - 1156.705] Um, white Shoe is, it came out this year, it's newer,
 
-[19:17 - 19:19] it's kind of taking the cursor for like lawyer,
+[1157.255 - 1159.945] it's kind of taking the cursor for like lawyer,
 
-[19:19 - 19:21] if you've heard of Cursor, it's like a vibe coating startup
+[1159.965 - 1161.945] if you've heard of Cursor, it's like a vibe coating startup
 
-[19:22 - 19:24] that's blown up, but it's taking like the cursor
+[1162.145 - 1164.585] that's blown up, but it's taking like the cursor
 
-[19:24 - 19:26] for lawyers, uh, business model approach
+[1164.585 - 1166.785] for lawyers, uh, business model approach
 
-[19:27 - 19:29] and it is absurdly inexpensive.
+[1167.045 - 1169.305] and it is absurdly inexpensive.
 
-[19:29 - 19:30] I honestly dunno how they're making money.
+[1169.585 - 1170.985] I honestly dunno how they're making money.
 
-[19:31 - 19:34] It's like the base model's like 20 bucks a month, um,
+[1171.055 - 1174.315] It's like the base model's like 20 bucks a month, um,
 
-[19:34 - 19:36] and you can pay for more usage
+[1174.695 - 1176.035] and you can pay for more usage
 
-[19:36 - 19:37] and more tools on top of that.
+[1176.035 - 1177.155] and more tools on top of that.
 
-[19:37 - 19:39] So we honestly leverage that
+[1177.215 - 1179.155] So we honestly leverage that
 
-[19:39 - 19:41] probably more than anything nowadays
+[1179.675 - 1181.115] probably more than anything nowadays
 
-[19:41 - 19:42] because of our limited budget.
+[1181.115 - 1182.675] because of our limited budget.
 
-[19:43 - 19:46] Um, but that's kind of why we mix in those three tools
+[1183.295 - 1186.315] Um, but that's kind of why we mix in those three tools
 
-[19:46 - 19:47] and we'll have 'em work against each other too.
+[1186.315 - 1187.955] and we'll have 'em work against each other too.
 
-[19:47 - 19:50] This was another point I was gonna make about having
+[1187.955 - 1190.515] This was another point I was gonna make about having
 
-[19:50 - 19:52] confidence in the prompt results.
+[1190.515 - 1192.235] confidence in the prompt results.
 
-[19:52 - 19:53] Um, if you're getting,
+[1192.775 - 1193.995] Um, if you're getting,
 
-[19:53 - 19:56] if you like ask a question from one tool white chew
+[1193.995 - 1196.715] if you like ask a question from one tool white chew
 
-[19:56 - 19:59] or whatever, or just if you're in chat GPT or Anthropic
+[1196.715 - 1199.115] or whatever, or just if you're in chat GPT or Anthropic
 
-[20:00 - 20:02] and then you just copy and paste the output
+[1200.015 - 1202.555] and then you just copy and paste the output
 
-[20:02 - 20:04] and say like, Hey, another AI gave me this
+[1202.555 - 1204.795] and say like, Hey, another AI gave me this
 
-[20:05 - 20:07] argue against it, or does this look right?
+[1205.325 - 1207.235] argue against it, or does this look right?
 
-[20:08 - 20:10] Uh, it does a pretty good job of of doing that.
+[1208.005 - 1210.785] Uh, it does a pretty good job of of doing that.
 
-[20:10 - 20:12] Um, so that's useful as well.
+[1210.885 - 1212.665] Um, so that's useful as well.
 
 **[Speaker 2]**
 
 
-[20:13 - 20:16] That's excellent. So we've taken the audience through
+[1213.275 - 1216.775] That's excellent. So we've taken the audience through
 
-[20:17 - 20:22] prompting, getting them comfortable with maybe how to prompt
+[1217.605 - 1222.175] prompting, getting them comfortable with maybe how to prompt
 
-[20:22 - 20:25] and I see the chats going up with a ton of resources
+[1222.315 - 1225.055] and I see the chats going up with a ton of resources
 
-[20:25 - 20:27] and there are some takeaways that people will have,
+[1225.055 - 1227.055] and there are some takeaways that people will have,
 
-[20:27 - 20:31] but I think also one barrier to entry for folks
+[1227.635 - 1231.215] but I think also one barrier to entry for folks
 
-[20:31 - 20:35] and one friction point is naturally like not knowing
+[1231.355 - 1235.335] and one friction point is naturally like not knowing
 
-[20:35 - 20:37] what the best practices or guardrails are.
+[1235.445 - 1237.695] what the best practices or guardrails are.
 
-[20:38 - 20:40] So I think that's something we should pivot to now.
+[1238.115 - 1240.935] So I think that's something we should pivot to now.
 
-[20:41 - 20:44] Um, Alex, why don't you kick us off with talking us
+[1241.235 - 1244.695] Um, Alex, why don't you kick us off with talking us
 
-[20:44 - 20:45] through internal guardrails.
+[1244.695 - 1245.815] through internal guardrails.
 
-[20:45 - 20:48] It sounds like you all are very comfy
+[1245.835 - 1248.205] It sounds like you all are very comfy
 
-[20:48 - 20:49] over there with these tools.
+[1248.205 - 1249.325] over there with these tools.
 
-[20:49 - 20:51] It sounds like you all are
+[1249.625 - 1251.605] It sounds like you all are
 
-[20:52 - 20:54] probably like utilizing them all day long.
+[1252.205 - 1254.685] probably like utilizing them all day long.
 
-[20:55 - 20:57] How did you get folks comfy with it
+[1255.265 - 1257.205] How did you get folks comfy with it
 
-[20:57 - 20:59] and what kind of guardrails do you put in?
+[1257.385 - 1259.805] and what kind of guardrails do you put in?
 
 **[Speaker 3]**
 
 
-[21:01 - 21:06] Definitely, yeah, so it helps that we are a company run
+[1261.275 - 1266.105] Definitely, yeah, so it helps that we are a company run
 
-[21:06 - 21:09] by, um, executives who are super AI focused.
+[1266.285 - 1269.865] by, um, executives who are super AI focused.
 
-[21:09 - 21:11] I mean, we're an AI company ourselves
+[1269.985 - 1271.465] I mean, we're an AI company ourselves
 
-[21:11 - 21:14] and a lot of it is they want us to, um,
+[1271.485 - 1274.065] and a lot of it is they want us to, um,
 
-[21:15 - 21:17] like eat our own product, like what we're selling.
+[1275.145 - 1277.635] like eat our own product, like what we're selling.
 
-[21:18 - 21:21] And because of that we have like an internal mandate to,
+[1278.455 - 1281.435] And because of that we have like an internal mandate to,
 
-[21:21 - 21:24] for everybody across the organization, if you're an engineer
+[1281.735 - 1284.115] for everybody across the organization, if you're an engineer
 
-[21:24 - 21:27] or lawyer finance, to use AI as much as you can basically
+[1284.115 - 1287.435] or lawyer finance, to use AI as much as you can basically
 
-[21:27 - 21:29] to increase efficiency, lower costs.
+[1287.535 - 1289.515] to increase efficiency, lower costs.
 
-[21:30 - 21:33] Um, so in terms of from executive buy-in, it was,
+[1290.055 - 1293.395] Um, so in terms of from executive buy-in, it was,
 
-[21:33 - 21:36] it was mandated so it was easy to get buy-in there.
+[1293.935 - 1296.675] it was mandated so it was easy to get buy-in there.
 
-[21:37 - 21:40] Um, we don't, you might find it ironic,
+[1297.295 - 1300.435] Um, we don't, you might find it ironic,
 
-[21:40 - 21:43] but we don't like have a formal AI use policy.
+[1300.455 - 1303.035] but we don't like have a formal AI use policy.
 
-[21:43 - 21:44] I've seen those floating around.
+[1303.145 - 1304.595] I've seen those floating around.
 
-[21:45 - 21:48] Um, in fact, I find it funny that like, uh, uh,
+[1305.175 - 1308.715] Um, in fact, I find it funny that like, uh, uh,
 
-[21:49 - 21:51] default form one on Westlaw itself,
+[1309.305 - 1311.915] default form one on Westlaw itself,
 
-[21:51 - 21:54] practical law includes Jasper.
+[1311.915 - 1314.275] practical law includes Jasper.
 
-[21:54 - 21:55] It's one of the recommended tools.
+[1314.305 - 1315.595] It's one of the recommended tools.
 
-[21:55 - 21:57] I did not have any, um,
+[1315.755 - 1317.115] I did not have any, um,
 
-[21:57 - 21:59] input into having that shoved in there.
+[1317.725 - 1319.395] input into having that shoved in there.
 
-[21:59 - 22:01] But you know, I think it's good if you're,
+[1319.855 - 1321.715] But you know, I think it's good if you're,
 
-[22:01 - 22:03] especially if you're a big organization
+[1321.715 - 1323.675] especially if you're a big organization
 
-[22:03 - 22:07] or one that regularly handles sensitive data like,
+[1323.775 - 1327.355] or one that regularly handles sensitive data like,
 
-[22:07 - 22:09] like FinTech industry or finance industry
+[1327.355 - 1329.475] like FinTech industry or finance industry
 
-[22:09 - 22:12] or biotech to implement some type
+[1329.815 - 1332.035] or biotech to implement some type
 
-[22:12 - 22:13] of internal company policy.
+[1332.035 - 1333.355] of internal company policy.
 
-[22:13 - 22:16] But if you're not, um, as long
+[1333.975 - 1336.195] But if you're not, um, as long
 
-[22:16 - 22:18] as like there's some like general agreement within the
+[1336.195 - 1338.275] as like there's some like general agreement within the
 
-[22:18 - 22:19] organization that you're going
+[1338.275 - 1339.515] organization that you're going
 
-[22:19 - 22:21] to either have enterprise accounts
+[1339.515 - 1341.195] to either have enterprise accounts
 
-[22:21 - 22:23] that have agreements in place not to train
+[1341.195 - 1343.355] that have agreements in place not to train
 
-[22:23 - 22:27] the models on your data that you input into it, um,
+[1343.935 - 1347.715] the models on your data that you input into it, um,
 
-[22:28 - 22:30] or just in your personal accounts that you have on these,
+[1348.455 - 1350.595] or just in your personal accounts that you have on these,
 
-[22:30 - 22:33] most of those include settings now as long as you're paying
+[1350.595 - 1353.235] most of those include settings now as long as you're paying
 
-[22:33 - 22:34] for the, but not just on the free models that allow you
+[1353.235 - 1354.915] for the, but not just on the free models that allow you
 
-[22:34 - 22:35] to go in and talk with that on
+[1354.915 - 1355.915] to go in and talk with that on
 
-[22:35 - 22:39] and off from a legal specific standpoint, one
+[1355.915 - 1359.475] and off from a legal specific standpoint, one
 
-[22:39 - 22:43] of the guardrails that my team, uh, is a bare minimum is
+[1359.635 - 1363.915] of the guardrails that my team, uh, is a bare minimum is
 
-[22:43 - 22:46] that if we're using a public tool like chat GPT
+[1363.915 - 1366.475] that if we're using a public tool like chat GPT
 
-[22:46 - 22:50] or anthropic to always, um,
+[1366.495 - 1370.155] or anthropic to always, um,
 
-[22:50 - 22:54] obs obfuscate the like client or the company information.
+[1370.815 - 1374.475] obs obfuscate the like client or the company information.
 
-[22:54 - 22:57] So use Acme Co instead of Jasper.
+[1374.775 - 1377.395] So use Acme Co instead of Jasper.
 
-[22:58 - 23:00] Uh, the tools like White Shoe
+[1378.135 - 1380.915] Uh, the tools like White Shoe
 
-[23:00 - 23:03] and GC AI do this naturally.
+[1380.915 - 1383.315] and GC AI do this naturally.
 
-[23:03 - 23:06] They like encrypt data in transit at rest
+[1383.385 - 1386.115] They like encrypt data in transit at rest
 
-[23:06 - 23:09] and white shoe even like hashes it so
+[1386.855 - 1389.035] and white shoe even like hashes it so
 
-[23:09 - 23:11] that the LILM isn't even seeing like
+[1389.035 - 1391.195] that the LILM isn't even seeing like
 
-[23:11 - 23:12] only the user's able to see it.
+[1391.195 - 1392.395] only the user's able to see it.
 
-[23:12 - 23:16] Um, so those types of things get me comfortable that one,
+[1392.935 - 1396.395] Um, so those types of things get me comfortable that one,
 
-[23:16 - 23:18] you're not sacrificing attorney-client privilege,
+[1396.395 - 1398.395] you're not sacrificing attorney-client privilege,
 
-[23:18 - 23:21] but then two, like the only person who's ever gonna see the
+[1398.655 - 1401.635] but then two, like the only person who's ever gonna see the
 
-[23:21 - 23:25] actual company information is, um, is yourself.
+[1401.635 - 1405.355] actual company information is, um, is yourself.
 
 **[Speaker 2]**
 
 
-[23:26 - 23:28] And will you, um, will you explain
+[1406.055 - 1408.555] And will you, um, will you explain
 
-[23:28 - 23:32] to the audience why you wouldn't want the the models
+[1408.555 - 1412.195] to the audience why you wouldn't want the the models
 
-[23:32 - 23:33] to train on that data?
+[1412.255 - 1413.355] to train on that data?
 
 **[Speaker 3]**
 
 
-[23:33 - 23:35] Definitely, yeah. So this,
+[1413.565 - 1415.755] Definitely, yeah. So this,
 
-[23:36 - 23:39] this become is becoming actually more and more of a problem
+[1416.635 - 1419.325] this become is becoming actually more and more of a problem
 
-[23:39 - 23:42] because the big model providers, uh, believe it
+[1419.325 - 1422.525] because the big model providers, uh, believe it
 
-[23:42 - 23:45] or not, are running out of quality information to,
+[1422.525 - 1425.005] or not, are running out of quality information to,
 
-[23:45 - 23:47] to train their models on that basically legally
+[1425.125 - 1427.365] to train their models on that basically legally
 
-[23:47 - 23:49] or illegally, whatever your stance is on that,
+[1427.545 - 1429.365] or illegally, whatever your stance is on that,
 
-[23:49 - 23:51] scraped the internet of any good written content
+[1429.365 - 1431.685] scraped the internet of any good written content
 
-[23:51 - 23:53] to train the models from a base case.
+[1431.745 - 1433.405] to train the models from a base case.
 
-[23:53 - 23:56] So they're now beginning to rely on continual user
+[1433.745 - 1436.645] So they're now beginning to rely on continual user
 
-[23:57 - 24:00] involvement in the models to determine what types
+[1437.195 - 1440.445] involvement in the models to determine what types
 
-[24:00 - 24:01] of prompts and outputs are good.
+[1440.465 - 1441.965] of prompts and outputs are good.
 
-[24:02 - 24:04] And then they'll ingest that information.
+[1442.025 - 1444.285] And then they'll ingest that information.
 
-[24:04 - 24:06] So if you submit a question about Jasper
+[1444.285 - 1446.285] So if you submit a question about Jasper
 
-[24:07 - 24:09] and you're asking it like a bunch of detailed legal
+[1447.305 - 1449.445] and you're asking it like a bunch of detailed legal
 
-[24:09 - 24:12] and financial data and you don't have the setting turned off
+[1449.465 - 1452.485] and financial data and you don't have the setting turned off
 
-[24:12 - 24:15] or not to train on your models, um,
+[1452.985 - 1455.365] or not to train on your models, um,
 
-[24:15 - 24:17] in theory they could be storing
+[1455.705 - 1457.485] in theory they could be storing
 
-[24:17 - 24:19] that information in some database or table
+[1457.485 - 1459.805] that information in some database or table
 
-[24:20 - 24:22] and in a future iteration che GT five
+[1460.225 - 1462.605] and in a future iteration che GT five
 
-[24:22 - 24:26] or something, it could come out and Jason could then log on
+[1462.625 - 1466.565] or something, it could come out and Jason could then log on
 
-[24:26 - 24:27] and be asking it a question
+[1466.825 - 1467.925] and be asking it a question
 
-[24:27 - 24:31] and unintentionally it could output information about Jasper
+[1467.945 - 1471.685] and unintentionally it could output information about Jasper
 
-[24:31 - 24:33] or our finances or anything like that.
+[1471.785 - 1473.845] or our finances or anything like that.
 
-[24:34 - 24:36] Uh, which is obviously a pretty big red flag.
+[1474.465 - 1476.925] Uh, which is obviously a pretty big red flag.
 
 **[Speaker 2]**
 
 
-[24:37 - 24:41] So the, the chat's going wild, talking about, uh, g gca,
+[1477.145 - 1481.005] So the, the chat's going wild, talking about, uh, g gca,
 
-[24:41 - 24:44] AI's ability to, um, come up with the prompts.
+[1481.195 - 1484.485] AI's ability to, um, come up with the prompts.
 
-[24:44 - 24:47] And we're gonna do, uh, a little bit of that sort
+[1484.665 - 1487.645] And we're gonna do, uh, a little bit of that sort
 
-[24:47 - 24:48] of in real time.
+[1487.645 - 1488.765] of in real time.
 
-[24:48 - 24:52] So, um, Jason, do you wanna talk through, uh,
+[1488.985 - 1492.805] So, um, Jason, do you wanna talk through, uh,
 
-[24:52 - 24:54] a super prompt that you created?
+[1492.965 - 1494.285] a super prompt that you created?
 
 **[Speaker 3]**
 
 
-[24:55 - 24:57] Oh yeah, sure. So let me share my screen.
+[1495.295 - 1497.995] Oh yeah, sure. So let me share my screen.
 
-[24:58 - 25:01] Uh, super prompt is a bit of a misnomer.
+[1498.415 - 1501.195] Uh, super prompt is a bit of a misnomer.
 
-[25:01 - 25:04] I created this in preparation for this panel.
+[1501.475 - 1504.795] I created this in preparation for this panel.
 
-[25:05 - 25:07] I didn't put the most effort into it.
+[1505.155 - 1507.075] I didn't put the most effort into it.
 
-[25:07 - 25:10] So generally speaking, I tried to create a prompt
+[1507.615 - 1510.915] So generally speaking, I tried to create a prompt
 
-[25:11 - 25:14] that provides as much generally applicable context
+[1511.065 - 1514.275] that provides as much generally applicable context
 
-[25:14 - 25:18] as possible, organizes how the response should be laid out,
+[1514.535 - 1518.955] as possible, organizes how the response should be laid out,
 
-[25:19 - 25:22] as you can see here, tells it how I want it to think
+[1519.095 - 1522.995] as you can see here, tells it how I want it to think
 
-[25:23 - 25:27] and when applicable tells it how to research.
+[1523.875 - 1527.495] and when applicable tells it how to research.
 
-[25:27 - 25:30] 'cause sometimes there are, sometimes it executes brief
+[1527.895 - 1530.615] 'cause sometimes there are, sometimes it executes brief
 
-[25:30 - 25:33] searches, but a lot of times with these deeper
+[1530.815 - 1533.175] searches, but a lot of times with these deeper
 
-[25:33 - 25:35] research projects, that is not what you want.
+[1533.695 - 1535.335] research projects, that is not what you want.
 
-[25:35 - 25:39] So you, I don't recommend just using this for everything.
+[1535.875 - 1539.175] So you, I don't recommend just using this for everything.
 
-[25:39 - 25:42] This is more of just an exercise in thinking how
+[1539.175 - 1542.015] This is more of just an exercise in thinking how
 
-[25:42 - 25:43] to pull these prompts together.
+[1542.015 - 1543.135] to pull these prompts together.
 
-[25:43 - 25:46] And, uh, I guess furthermore, this is probably more tailored
+[1543.395 - 1546.735] And, uh, I guess furthermore, this is probably more tailored
 
-[25:46 - 25:50] to more basic tools and less deep reasoning models
+[1546.955 - 1550.575] to more basic tools and less deep reasoning models
 
-[25:50 - 25:54] because as I understand it a lot, a lot of models now do
+[1550.575 - 1554.335] because as I understand it a lot, a lot of models now do
 
-[25:54 - 25:56] some of these steps by themselves.
+[1554.965 - 1556.855] some of these steps by themselves.
 
-[25:57 - 26:01] But y this is here, if anyone finds it helpful,
+[1557.615 - 1561.355] But y this is here, if anyone finds it helpful,
 
-[26:01 - 26:03] and I understand this is
+[1561.615 - 1563.755] and I understand this is
 
-[26:03 - 26:06] or will be soon circulated to both here.
+[1563.895 - 1566.795] or will be soon circulated to both here.
 
 **[Speaker 2]**
 
 
-[26:08 - 26:09] It it has already been.
+[1568.395 - 1569.735] It it has already been.
 
-[26:09 - 26:14] And I guess staying on the, the topic here, Jason, what,
+[1569.915 - 1574.175] And I guess staying on the, the topic here, Jason, what,
 
-[26:14 - 26:17] what does auditing look like, um, for you and your team?
+[1574.205 - 1577.655] what does auditing look like, um, for you and your team?
 
-[26:18 - 26:20] Do you actually audit what people use for prompts?
+[1578.115 - 1580.295] Do you actually audit what people use for prompts?
 
-[26:20 - 26:21] Do you have a library and,
+[1580.295 - 1581.535] Do you have a library and,
 
-[26:21 - 26:24] and do you, do you, uh, do you ever look at what,
+[1581.555 - 1584.295] and do you, do you, uh, do you ever look at what,
 
-[26:24 - 26:26] what's being used as prompts?
+[1584.795 - 1586.535] what's being used as prompts?
 
 **[Speaker 3]**
 
 
-[26:28 - 26:30] Uh, so we don't audit.
+[1588.305 - 1590.405] Uh, so we don't audit.
 
-[26:30 - 26:33] I think generally as a team, we like to come together
+[1590.725 - 1593.285] I think generally as a team, we like to come together
 
-[26:33 - 26:35] and discuss best practices.
+[1593.385 - 1595.365] and discuss best practices.
 
-[26:35 - 26:37] This works, this doesn't,
+[1595.675 - 1597.045] This works, this doesn't,
 
-[26:37 - 26:39] but our policies are pretty trust based.
+[1597.145 - 1599.525] but our policies are pretty trust based.
 
-[26:39 - 26:44] We do have a usage policy like Alex was mentioning, um,
+[1599.665 - 1604.285] We do have a usage policy like Alex was mentioning, um,
 
-[26:44 - 26:48] that, but that mostly says if you're using a tool,
+[1604.555 - 1608.855] that, but that mostly says if you're using a tool,
 
-[26:48 - 26:51] you shouldn't be using tools that don't go through InfoSec.
+[1608.995 - 1611.375] you shouldn't be using tools that don't go through InfoSec.
 
-[26:51 - 26:54] But if you are, don't give it confidential information.
+[1611.375 - 1614.655] But if you are, don't give it confidential information.
 
-[26:55 - 26:56] No matter what tool you're using,
+[1615.315 - 1616.415] No matter what tool you're using,
 
-[26:56 - 26:57] you are responsible for outcomes.
+[1616.435 - 1617.615] you are responsible for outcomes.
 
-[26:57 - 27:01] And it's basically just saying treat these vendors like
+[1617.615 - 1621.735] And it's basically just saying treat these vendors like
 
-[27:01 - 27:02] any other vendors.
+[1621.875 - 1622.895] any other vendors.
 
-[27:03 - 27:06] But no, we're not telling people when they're allowed
+[1623.155 - 1626.335] But no, we're not telling people when they're allowed
 
-[27:06 - 27:07] to prompt or how they're allowed to prompt
+[1626.335 - 1627.775] to prompt or how they're allowed to prompt
 
-[27:07 - 27:10] because to me that kind of seems like telling somebody how
+[1627.775 - 1630.575] because to me that kind of seems like telling somebody how
 
-[27:10 - 27:11] to think or how to Google
+[1630.575 - 1631.735] to think or how to Google
 
-[27:11 - 27:15] or use any other tool that we'd trust them to use.
+[1631.995 - 1635.655] or use any other tool that we'd trust them to use.
 
 **[Speaker 2]**
 
 
-[27:17 - 27:20] And I know we, we haven't talked about agents,
+[1637.555 - 1640.735] And I know we, we haven't talked about agents,
 
-[27:20 - 27:22] but we did get a question in the chat.
+[1640.835 - 1642.815] but we did get a question in the chat.
 
-[27:23 - 27:26] Um, Jason and, and Alex, please fill in to chime in right
+[1643.115 - 1646.575] Um, Jason and, and Alex, please fill in to chime in right
 
-[27:26 - 27:29] after, are either of you creating agents?
+[1646.575 - 1649.295] after, are either of you creating agents?
 
 **[Speaker 3]**
 
 
-[27:30 - 27:32] We are, our our company is doing it.
+[1650.775 - 1652.555] We are, our our company is doing it.
 
-[27:32 - 27:34] Our legal department is, is not.
+[1652.555 - 1654.315] Our legal department is, is not.
 
-[27:34 - 27:37] So it's not something that has yet entered my workflow.
+[1654.415 - 1657.715] So it's not something that has yet entered my workflow.
 
-[27:38 - 27:40] I it sounds like Alex has a more useful answer.
+[1658.195 - 1660.595] I it sounds like Alex has a more useful answer.
 
-[27:42 - 27:44] Yeah, I was just gonna say that ironically,
+[1662.315 - 1664.445] Yeah, I was just gonna say that ironically,
 
-[27:44 - 27:48] two weeks ago we made our first agent for internal,
+[1664.905 - 1668.205] two weeks ago we made our first agent for internal,
 
-[27:48 - 27:50] internal, uh, legal use cases.
+[1668.605 - 1670.205] internal, uh, legal use cases.
 
-[27:50 - 27:52] Just we had like a offsite hackathon
+[1670.355 - 1672.445] Just we had like a offsite hackathon
 
-[27:52 - 27:54] for our legal team and finance team.
+[1672.545 - 1674.165] for our legal team and finance team.
 
-[27:54 - 27:57] And, um, one of the tools
+[1674.915 - 1677.295] And, um, one of the tools
 
-[27:57 - 28:00] or work workflows we used was, uh, through
+[1677.435 - 1680.775] or work workflows we used was, uh, through
 
-[28:01 - 28:03] Zapier we created a Zap, which it's like a,
+[1681.335 - 1683.895] Zapier we created a Zap, which it's like a,
 
-[28:04 - 28:07] Zapier is like a pretty inexpensive automation platform
+[1684.175 - 1687.415] Zapier is like a pretty inexpensive automation platform
 
-[28:07 - 28:08] if you're not familiar with it.
+[1687.415 - 1688.495] if you're not familiar with it.
 
-[28:08 - 28:10] It's, it's pretty user friendly.
+[1688.565 - 1690.415] It's, it's pretty user friendly.
 
-[28:10 - 28:13] You might have to have some technical experience with it,
+[1690.675 - 1693.175] You might have to have some technical experience with it,
 
-[28:13 - 28:16] but, uh, it's kind of drag and drop and,
+[1693.715 - 1696.135] but, uh, it's kind of drag and drop and,
 
-[28:16 - 28:21] and using, um, our Slack API keys that we're able
+[1696.275 - 1701.095] and using, um, our Slack API keys that we're able
 
-[28:21 - 28:22] to link, uh, to it
+[1701.095 - 1702.815] to link, uh, to it
 
-[28:22 - 28:27] and then open AI's models through their API keys and Zapier.
+[1702.955 - 1707.895] and then open AI's models through their API keys and Zapier.
 
-[28:28 - 28:31] We created a kind of a triage chat bot
+[1708.275 - 1711.135] We created a kind of a triage chat bot
 
-[28:31 - 28:32] for our deal desk Slack channel.
+[1711.135 - 1712.655] for our deal desk Slack channel.
 
-[28:33 - 28:35] And when new messages come in from the sales team
+[1713.315 - 1715.495] And when new messages come in from the sales team
 
-[28:35 - 28:38] or our customer success team, it'll, you know,
+[1715.495 - 1718.655] or our customer success team, it'll, you know,
 
-[28:38 - 28:41] reference a knowledge base that we created and uploaded
+[1718.935 - 1721.215] reference a knowledge base that we created and uploaded
 
-[28:41 - 28:44] and then accurately route those questions
+[1721.875 - 1724.135] and then accurately route those questions
 
-[28:44 - 28:45] to the right internal stakeholder
+[1724.135 - 1725.535] to the right internal stakeholder
 
-[28:45 - 28:47] for approvals or for review.
+[1725.595 - 1727.175] for approvals or for review.
 
-[28:47 - 28:50] Um, we have not yet allowed it
+[1727.875 - 1730.535] Um, we have not yet allowed it
 
-[28:50 - 28:52] to straight up answer legal questions.
+[1730.535 - 1732.095] to straight up answer legal questions.
 
-[28:52 - 28:54] I'm not super comfortable with end users being able
+[1732.195 - 1734.695] I'm not super comfortable with end users being able
 
-[28:54 - 28:56] to receive that without an attorney input.
+[1734.695 - 1736.935] to receive that without an attorney input.
 
-[28:57 - 29:01] But basic like billing finance questions, it does answer
+[1737.515 - 1741.095] But basic like billing finance questions, it does answer
 
-[29:01 - 29:02] and it's, it's pretty accurate.
+[1741.115 - 1742.455] and it's, it's pretty accurate.
 
-[29:02 - 29:05] Um, and one of the things we did to save us time
+[1742.915 - 1745.255] Um, and one of the things we did to save us time
 
-[29:05 - 29:08] as well is we like downloaded, we used the Slack API
+[1745.275 - 1748.255] as well is we like downloaded, we used the Slack API
 
-[29:08 - 29:11] and scanned the last year of messages in this channel
+[1748.875 - 1751.695] and scanned the last year of messages in this channel
 
-[29:12 - 29:14] and directed OpenAI
+[1752.315 - 1754.095] and directed OpenAI
 
-[29:14 - 29:17] or chat JT to figure out like
+[1754.795 - 1757.895] or chat JT to figure out like
 
-[29:17 - 29:19] what the most common questions were,
+[1757.895 - 1759.375] what the most common questions were,
 
-[29:19 - 29:21] who they were most commonly routed to,
+[1759.395 - 1761.175] who they were most commonly routed to,
 
-[29:21 - 29:22] what the responses were.
+[1761.525 - 1762.695] what the responses were.
 
-[29:22 - 29:26] So we grounded the, um, chat bot's responses in
+[1762.755 - 1766.735] So we grounded the, um, chat bot's responses in
 
-[29:26 - 29:28] that knowledge from the last year's context as well.
+[1766.735 - 1768.815] that knowledge from the last year's context as well.
 
-[29:29 - 29:31] And it's been live now
+[1769.435 - 1771.135] And it's been live now
 
-[29:31 - 29:32] for a couple weeks and it's pretty great.
+[1771.155 - 1772.975] for a couple weeks and it's pretty great.
 
-[29:32 - 29:35] That's the first like agentic use case. We've, we've
+[1772.975 - 1775.455] That's the first like agentic use case. We've, we've
 
 **[Speaker 2]**
 
 
-[29:35 - 29:40] Done, we use a lot of Zaps at, uh, at law trades
+[1775.455 - 1780.015] Done, we use a lot of Zaps at, uh, at law trades
 
-[29:40 - 29:41] and they're pretty awesome.
+[1780.155 - 1781.365] and they're pretty awesome.
 
-[29:41 - 29:44] But I think, yeah, probably the general consensus is folks
+[1781.505 - 1784.325] But I think, yeah, probably the general consensus is folks
 
-[29:44 - 29:47] wanting a human to stay in the loop on, on questions.
+[1784.325 - 1787.525] wanting a human to stay in the loop on, on questions.
 
-[29:48 - 29:51] Um, we, we got a question about, uh, being comfortable
+[1788.145 - 1791.925] Um, we, we got a question about, uh, being comfortable
 
-[29:51 - 29:55] with inputting sensitive client data into, um,
+[1791.925 - 1795.125] with inputting sensitive client data into, um,
 
-[29:55 - 29:56] enterprise accounts.
+[1795.125 - 1796.125] enterprise accounts.
 
-[29:56 - 29:58] Say for example, OpenAI, I think we touched on
+[1796.225 - 1798.725] Say for example, OpenAI, I think we touched on
 
-[29:58 - 30:02] that a little, um, which is about systems
+[1798.725 - 1802.045] that a little, um, which is about systems
 
-[30:02 - 30:04] that encrypt things, you know, and
+[1802.115 - 1804.605] that encrypt things, you know, and
 
-[30:04 - 30:07] or anonymizing, like, like for example, Alex,
+[1804.665 - 1807.965] or anonymizing, like, like for example, Alex,
 
-[30:08 - 30:10] you said making something Acme not your company.
+[1808.025 - 1810.125] you said making something Acme not your company.
 
-[30:10 - 30:13] Um, are those the best practices for, for not, uh,
+[1810.545 - 1813.885] Um, are those the best practices for, for not, uh,
 
-[30:13 - 30:16] putting client data into these models? Yeah,
+[1813.885 - 1816.245] putting client data into these models? Yeah,
 
 **[Speaker 3]**
 
 
-[30:16 - 30:21] I think, um, for the general purpose models like open AI
+[1816.405 - 1821.285] I think, um, for the general purpose models like open AI
 
-[30:21 - 30:23] and philanthropic, it's, if you're wanting
+[1821.285 - 1823.885] and philanthropic, it's, if you're wanting
 
-[30:23 - 30:26] to be extra cautious, you can always just use
+[1823.905 - 1826.365] to be extra cautious, you can always just use
 
-[30:26 - 30:27] Acme or something like that.
+[1826.555 - 1827.805] Acme or something like that.
 
-[30:28 - 30:31] Um, that requires a bit more of a manual lift.
+[1828.425 - 1831.645] Um, that requires a bit more of a manual lift.
 
-[30:31 - 30:33] It might be slower and inefficient
+[1831.665 - 1833.325] It might be slower and inefficient
 
-[30:33 - 30:34] because you're having to do that every time,
+[1833.325 - 1834.605] because you're having to do that every time,
 
-[30:34 - 30:36] especially if you're uploading documents to it,
+[1834.605 - 1836.645] especially if you're uploading documents to it,
 
-[30:36 - 30:38] you're having to, you know, find
+[1836.725 - 1838.485] you're having to, you know, find
 
-[30:38 - 30:40] and replace any usage of, uh,
+[1838.485 - 1840.685] and replace any usage of, uh,
 
-[30:40 - 30:42] confidential company information to do that.
+[1840.685 - 1842.885] confidential company information to do that.
 
-[30:43 - 30:46] Um, but yeah, like honestly,
+[1843.755 - 1846.415] Um, but yeah, like honestly,
 
-[30:46 - 30:48] the easy answer is you'll probably just want
+[1846.415 - 1848.495] the easy answer is you'll probably just want
 
-[30:48 - 30:50] to use a tool like White Shoe
+[1848.495 - 1850.255] to use a tool like White Shoe
 
-[30:50 - 30:52] or GCI where it allows you to go in
+[1850.255 - 1852.975] or GCI where it allows you to go in
 
-[30:52 - 30:54] and create a company profile
+[1852.975 - 1854.975] and create a company profile
 
-[30:55 - 30:57] or client profiles if you need more than one.
+[1855.035 - 1857.135] or client profiles if you need more than one.
 
-[30:57 - 30:59] And you enter all this information
+[1857.905 - 1859.485] And you enter all this information
 
-[30:59 - 31:02] and then the M'S responses throughout the platform
+[1859.505 - 1862.565] and then the M'S responses throughout the platform
 
-[31:02 - 31:05] automatically incorporate that information
+[1862.995 - 1865.085] automatically incorporate that information
 
-[31:05 - 31:08] and it's encrypted and like remains secure too,
+[1865.825 - 1868.605] and it's encrypted and like remains secure too,
 
-[31:08 - 31:11] which is useful and speeds up processes
+[1868.605 - 1871.005] which is useful and speeds up processes
 
-[31:11 - 31:13] and makes it more accurate, all that stuff.
+[1871.005 - 1873.005] and makes it more accurate, all that stuff.
 
-[31:13 - 31:15] Yeah, I guess just to add on to that,
+[1873.675 - 1875.725] Yeah, I guess just to add on to that,
 
-[31:16 - 31:18] my view has always been if the,
+[1876.065 - 1878.125] my view has always been if the,
 
-[31:18 - 31:19] if your team has gotten comfortable
+[1878.385 - 1879.845] if your team has gotten comfortable
 
-[31:19 - 31:21] that the InfoSec protections are there
+[1879.845 - 1881.725] that the InfoSec protections are there
 
-[31:22 - 31:24] and you're comfortable that the legal protections are there,
+[1882.105 - 1884.965] and you're comfortable that the legal protections are there,
 
-[31:24 - 31:27] then I, I treat these things like any other vendor.
+[1884.965 - 1887.605] then I, I treat these things like any other vendor.
 
-[31:27 - 31:30] There's of course gonna be incremental risk anytime you
+[1887.795 - 1890.325] There's of course gonna be incremental risk anytime you
 
-[31:30 - 31:32] expand your circle of trust at all.
+[1890.465 - 1892.835] expand your circle of trust at all.
 
-[31:33 - 31:35] But I, I don't think that these things are
+[1893.135 - 1895.355] But I, I don't think that these things are
 
-[31:35 - 31:38] that different from any other vendors is my takeaway.
+[1895.355 - 1898.195] that different from any other vendors is my takeaway.
 
 **[Speaker 2]**
 
 
-[31:38 - 31:41] Okay. So we've been through prompts,
+[1898.825 - 1901.035] Okay. So we've been through prompts,
 
-[31:41 - 31:43] we touched on agents very quickly.
+[1901.455 - 1903.435] we touched on agents very quickly.
 
-[31:43 - 31:44] We talked about guardrails.
+[1903.575 - 1904.995] We talked about guardrails.
 
-[31:45 - 31:48] There are a lot of people trying to discern in the chat,
+[1905.795 - 1908.345] There are a lot of people trying to discern in the chat,
 
-[31:48 - 31:50] which is the right tool for them.
+[1908.595 - 1910.065] which is the right tool for them.
 
-[31:50 - 31:54] So let's take them through tool selection
+[1910.605 - 1914.265] So let's take them through tool selection
 
-[31:55 - 32:00] when it comes to oversight, tool selection,
+[1915.485 - 1920.255] when it comes to oversight, tool selection,
 
-[32:00 - 32:04] what you do, Jason, like what can you take people
+[1920.765 - 1924.375] what you do, Jason, like what can you take people
 
-[32:04 - 32:07] through on, on, on human oversight?
+[1924.375 - 1927.415] through on, on, on human oversight?
 
-[32:07 - 32:10] Um, you know, any advice on like
+[1927.755 - 1930.655] Um, you know, any advice on like
 
-[32:11 - 32:12] what they can do there?
+[1931.605 - 1932.855] what they can do there?
 
 **[Speaker 3]**
 
 
-[32:14 - 32:16] Yeah, I'll just regurgitate some
+[1934.705 - 1936.595] Yeah, I'll just regurgitate some
 
-[32:16 - 32:17] of the other things I've said already,
+[1936.595 - 1937.875] of the other things I've said already,
 
-[32:18 - 32:20] but I think you need to have, you need, you want
+[1938.015 - 1940.635] but I think you need to have, you need, you want
 
-[32:20 - 32:23] to have a BS meter on the subjects you're asking it about.
+[1940.635 - 1943.635] to have a BS meter on the subjects you're asking it about.
 
-[32:23 - 32:26] If you do not, then you should instead be using it to
+[1943.855 - 1946.795] If you do not, then you should instead be using it to
 
-[32:27 - 32:29] figure out what you don't know
+[1947.535 - 1949.115] figure out what you don't know
 
-[32:29 - 32:33] and frame a more intelligent question to somebody who does,
+[1949.175 - 1953.075] and frame a more intelligent question to somebody who does,
 
-[32:33 - 32:35] uh, when you can do that.
+[1953.975 - 1955.995] uh, when you can do that.
 
-[32:35 - 32:38] Or I suppose even if you can, you should try
+[1955.995 - 1958.035] Or I suppose even if you can, you should try
 
-[32:38 - 32:41] to ask questions that allow you to spot check the outputs
+[1958.035 - 1961.885] to ask questions that allow you to spot check the outputs
 
-[32:41 - 32:45] as well, and that helps you to falsify responses.
+[1961.905 - 1965.045] as well, and that helps you to falsify responses.
 
-[32:45 - 32:48] But I suppose the, the general point is that
+[1965.185 - 1968.955] But I suppose the, the general point is that
 
-[32:49 - 32:54] our job as AI augmented attorneys is knowing what
+[1969.735 - 1974.595] our job as AI augmented attorneys is knowing what
 
-[32:54 - 32:56] to ask when and how,
+[1974.595 - 1976.555] to ask when and how,
 
-[32:56 - 33:00] and that job itself cannot be yet replicated
+[1976.895 - 1980.875] and that job itself cannot be yet replicated
 
-[33:01 - 33:02] by ai. So yeah.
+[1981.015 - 1982.795] by ai. So yeah.
 
 **[Speaker 2]**
 
 
-[33:03 - 33:07] Fantastic. And Alex, um,
+[1983.505 - 1987.455] Fantastic. And Alex, um,
 
-[33:08 - 33:11] uh, uh, hopefully like you, you know,
+[1988.785 - 1991.365] uh, uh, hopefully like you, you know,
 
-[33:11 - 33:12] you've touched on this a little bit,
+[1991.365 - 1992.485] you've touched on this a little bit,
 
-[33:12 - 33:15] but do you have any further insight on
+[1992.505 - 1995.125] but do you have any further insight on
 
-[33:15 - 33:19] how you decide which AI platform to do for, for which task?
+[1995.465 - 1999.365] how you decide which AI platform to do for, for which task?
 
-[33:20 - 33:21] Any, any magic there?
+[2000.175 - 2001.395] Any, any magic there?
 
 **[Speaker 3]**
 
 
-[33:22 - 33:27] Yeah, so I would say the default program nowadays we use
+[2002.875 - 2007.765] Yeah, so I would say the default program nowadays we use
 
-[33:27 - 33:30] for contract redlining is Ivo
+[2007.905 - 2010.325] for contract redlining is Ivo
 
-[33:31 - 33:35] and essentially everything else, it's uh, white,
+[2011.135 - 2015.015] and essentially everything else, it's uh, white,
 
-[33:35 - 33:37] it's been a white shoe ai and that's largely
+[2015.015 - 2017.335] it's been a white shoe ai and that's largely
 
-[33:37 - 33:41] because it just like, one, it's super cost effective, um,
+[2017.335 - 2021.795] because it just like, one, it's super cost effective, um,
 
-[33:42 - 33:45] but two, it does a lot
+[2022.415 - 2025.345] but two, it does a lot
 
-[33:45 - 33:47] of this stuff we're talking about on the backend without you
+[2025.345 - 2027.745] of this stuff we're talking about on the backend without you
 
-[33:47 - 33:49] having to really like know coding
+[2027.745 - 2029.665] having to really like know coding
 
-[33:49 - 33:52] or how to prompt specifically, it'll enhance your prompts.
+[2029.725 - 2032.185] or how to prompt specifically, it'll enhance your prompts.
 
-[33:52 - 33:56] Um, if you go into like their chat bot for instance,
+[2032.845 - 2036.225] Um, if you go into like their chat bot for instance,
 
-[33:56 - 33:58] you can, there's a dropdown of like the
+[2036.765 - 2038.785] you can, there's a dropdown of like the
 
-[33:59 - 34:01] practice area you want it to be an expert in.
+[2039.385 - 2041.105] practice area you want it to be an expert in.
 
-[34:01 - 34:03] So I know if I'm asking it about a term sheet
+[2041.445 - 2043.545] So I know if I'm asking it about a term sheet
 
-[34:03 - 34:05] for some financing, I can go in
+[2043.565 - 2045.265] for some financing, I can go in
 
-[34:05 - 34:08] and select the, just like a law firm, the emerging companies
+[2045.265 - 2048.305] and select the, just like a law firm, the emerging companies
 
-[34:08 - 34:09] and venture capital practice group.
+[2048.305 - 2049.585] and venture capital practice group.
 
-[34:09 - 34:11] And it's actually like adjusted
+[2049.925 - 2051.185] And it's actually like adjusted
 
-[34:11 - 34:12] and it's a fine tuned model for that.
+[2051.185 - 2052.665] and it's a fine tuned model for that.
 
-[34:12 - 34:15] And that's like substantially better responses than if I
+[2052.665 - 2055.985] And that's like substantially better responses than if I
 
-[34:15 - 34:18] just go into chat GPT and ask a question.
+[2055.985 - 2058.225] just go into chat GPT and ask a question.
 
-[34:18 - 34:19] Um, so there's a bit of that.
+[2058.765 - 2059.865] Um, so there's a bit of that.
 
-[34:20 - 34:23] And then I think internally, just like budget wise,
+[2060.005 - 2063.265] And then I think internally, just like budget wise,
 
-[34:23 - 34:27] we're super cost conscious, so we don't want tool creep,
+[2063.435 - 2067.185] we're super cost conscious, so we don't want tool creep,
 
-[34:27 - 34:28] we don't want a ton of tools that do the same thing.
+[2067.185 - 2068.705] we don't want a ton of tools that do the same thing.
 
-[34:29 - 34:31] Um, quite frankly, by the end of this year,
+[2069.485 - 2071.465] Um, quite frankly, by the end of this year,
 
-[34:31 - 34:34] we're probably gonna churn from either GCI or Ivo
+[2071.475 - 2074.585] we're probably gonna churn from either GCI or Ivo
 
-[34:34 - 34:36] because they're both starting to cross paths
+[2074.585 - 2076.585] because they're both starting to cross paths
 
-[34:36 - 34:39] and like do the same thing as the, as each other
+[2076.585 - 2079.345] and like do the same thing as the, as each other
 
-[34:39 - 34:42] and we're just gonna have to determine which one's the best
+[2079.885 - 2082.105] and we're just gonna have to determine which one's the best
 
-[34:42 - 34:44] at doing it and save eight grand a year or whatever.
+[2082.105 - 2084.505] at doing it and save eight grand a year or whatever.
 
 **[Speaker 2]**
 
 
-[34:45 - 34:48] Interesting question. Um, does anyone have
+[2085.585 - 2088.865] Interesting question. Um, does anyone have
 
-[34:50 - 34:52] walled off instances by department?
+[2090.325 - 2092.625] walled off instances by department?
 
-[34:53 - 34:57] For example, HR or legal or any other department?
+[2093.005 - 2097.545] For example, HR or legal or any other department?
 
-[34:57 - 34:58] I've never heard of that, but that's
+[2097.655 - 2098.905] I've never heard of that, but that's
 
-[34:58 - 34:59] an interesting question we got.
+[2098.905 - 2099.945] an interesting question we got.
 
 **[Speaker 3]**
 
 
-[35:00 - 35:03] I think I'd probably have to ask a follow-up question
+[2100.695 - 2103.055] I think I'd probably have to ask a follow-up question
 
-[35:03 - 35:05] to ever asked it by what they mean by walled off.
+[2103.055 - 2105.535] to ever asked it by what they mean by walled off.
 
-[35:05 - 35:08] If it's like a private instance of a, you know,
+[2105.535 - 2108.975] If it's like a private instance of a, you know,
 
-[35:09 - 35:12] cloud hosted model just on your internal workspace at your
+[2109.345 - 2112.655] cloud hosted model just on your internal workspace at your
 
-[35:12 - 35:15] company that only certain lawyers
+[2112.655 - 2115.025] company that only certain lawyers
 
-[35:15 - 35:16] or finance people can access.
+[2115.125 - 2116.585] or finance people can access.
 
-[35:17 - 35:20] If that's the question, we certainly don't, that would be
+[2117.085 - 2120.345] If that's the question, we certainly don't, that would be
 
-[35:20 - 35:23] really expensive, difficult to implement.
+[2120.875 - 2123.135] really expensive, difficult to implement.
 
-[35:23 - 35:26] But with that being said, I'm sure there are
+[2123.875 - 2126.485] But with that being said, I'm sure there are
 
-[35:27 - 35:28] large legal departments
+[2127.015 - 2128.165] large legal departments
 
-[35:28 - 35:30] and really sophisticated companies,
+[2128.305 - 2130.245] and really sophisticated companies,
 
-[35:30 - 35:32] probably Fortune 20 companies
+[2130.845 - 2132.045] probably Fortune 20 companies
 
-[35:32 - 35:34] that prioritize that type of use case.
+[2132.595 - 2134.565] that prioritize that type of use case.
 
-[35:34 - 35:37] For most of us on this call though, it's probably
+[2134.665 - 2137.565] For most of us on this call though, it's probably
 
-[35:38 - 35:40] too cumbersome to implement something like that.
+[2138.345 - 2140.405] too cumbersome to implement something like that.
 
-[35:41 - 35:44] And tool selection itself probably helps with that.
+[2141.105 - 2144.365] And tool selection itself probably helps with that.
 
-[35:44 - 35:46] Like Jasper is a marketing AI tool
+[2144.365 - 2146.965] Like Jasper is a marketing AI tool
 
-[35:46 - 35:48] and like as much as I'd love to say it's great
+[2146.985 - 2148.845] and like as much as I'd love to say it's great
 
-[35:48 - 35:50] for lawyers, it it's horrible.
+[2148.845 - 2150.125] for lawyers, it it's horrible.
 
-[35:50 - 35:52] Um, so like I don't ever use our own product,
+[2150.345 - 2152.325] Um, so like I don't ever use our own product,
 
-[35:52 - 35:54] but like our marketing team uses it like crazy
+[2152.465 - 2154.925] but like our marketing team uses it like crazy
 
-[35:55 - 35:57] and like similarly they're not gonna ever use
+[2155.585 - 2157.645] and like similarly they're not gonna ever use
 
-[35:58 - 35:59] GC AI or White Shoe.
+[2158.125 - 2159.525] GC AI or White Shoe.
 
-[35:59 - 36:02] It's like that kind of helps wall it off itself,
+[2159.835 - 2162.325] It's like that kind of helps wall it off itself,
 
-[36:02 - 36:05] but they're certainly not like privately hosted models
+[2162.505 - 2165.885] but they're certainly not like privately hosted models
 
-[36:05 - 36:08] that only Jasper has access to.
+[2165.955 - 2168.085] that only Jasper has access to.
 
-[36:09 - 36:13] Yeah. Uh, I'm likely speaking well over my skis here,
+[2169.605 - 2173.775] Yeah. Uh, I'm likely speaking well over my skis here,
 
-[36:13 - 36:17] but I think the only tool that most
+[2173.915 - 2177.745] but I think the only tool that most
 
-[36:17 - 36:20] of my company has access to is chat GPT
+[2177.845 - 2180.425] of my company has access to is chat GPT
 
-[36:20 - 36:24] and I, I believe that that is relatively segregated by
+[2180.485 - 2184.465] and I, I believe that that is relatively segregated by
 
-[36:25 - 36:26] specific individual account,
+[2185.145 - 2186.385] specific individual account,
 
-[36:26 - 36:29] but if if that's not the case, then I'm just wrong.
+[2186.605 - 2189.565] but if if that's not the case, then I'm just wrong.
 
-[36:29 - 36:31] So there's that.
+[2189.665 - 2191.085] So there's that.
 
 **[Speaker 2]**
 
 
-[36:32 - 36:35] So I am going to bring us, um,
+[2192.165 - 2195.505] So I am going to bring us, um,
 
-[36:36 - 36:38] to perhaps like the most exciting part.
+[2196.495 - 2198.635] to perhaps like the most exciting part.
 
-[36:39 - 36:43] Uh, let's talk about how utilizing AI
+[2199.295 - 2203.595] Uh, let's talk about how utilizing AI
 
-[36:44 - 36:46] can actually save us time.
+[2204.455 - 2206.435] can actually save us time.
 
-[36:47 - 36:49] Um, does anyone, uh, uh, actually,
+[2207.095 - 2209.675] Um, does anyone, uh, uh, actually,
 
-[36:49 - 36:51] sorry Alex, let's start with you.
+[2209.675 - 2211.515] sorry Alex, let's start with you.
 
-[36:52 - 36:55] Can you talk about how much time you're spending
+[2212.375 - 2215.515] Can you talk about how much time you're spending
 
-[36:55 - 36:58] and saving by utilizing these tools
+[2215.695 - 2218.235] and saving by utilizing these tools
 
-[36:58 - 37:02] and uh, have you been able to not outsource to someone
+[2218.615 - 2222.715] and uh, have you been able to not outsource to someone
 
-[37:03 - 37:05] and you can say you have tangible numbers.
+[2223.215 - 2225.435] and you can say you have tangible numbers.
 
 **[Speaker 3]**
 
 
-[37:06 - 37:10] Yeah, definitely. So I joined Jasper three years ago, um,
+[2226.105 - 2230.835] Yeah, definitely. So I joined Jasper three years ago, um,
 
-[37:11 - 37:15] before chat GBT became publicly available, uh, which
+[2231.295 - 2235.435] before chat GBT became publicly available, uh, which
 
-[37:15 - 37:18] partially obliterated our downmarket business at
+[2235.985 - 2238.915] partially obliterated our downmarket business at
 
-[37:18 - 37:20] Jasper, but that's okay.
+[2238.915 - 2240.275] Jasper, but that's okay.
 
-[37:20 - 37:23] Um, we pivoted, but before then,
+[2240.375 - 2243.055] Um, we pivoted, but before then,
 
-[37:23 - 37:26] and probably for the six months thereafter, chat, GBT
+[2243.275 - 2246.865] and probably for the six months thereafter, chat, GBT
 
-[37:26 - 37:30] and the generally available tools were pretty horrendous
+[2246.885 - 2250.025] and the generally available tools were pretty horrendous
 
-[37:30 - 37:31] at doing legal work.
+[2250.125 - 2251.305] at doing legal work.
 
-[37:31 - 37:33] Like I think whenever they test him on the bar,
+[2251.415 - 2253.505] Like I think whenever they test him on the bar,
 
-[37:33 - 37:36] they were hardly passing or like not passing.
+[2253.935 - 2256.545] they were hardly passing or like not passing.
 
-[37:37 - 37:40] Since then, like over the last 18 months to 24 months,
+[2257.435 - 2260.905] Since then, like over the last 18 months to 24 months,
 
-[37:41 - 37:43] the general tools have become super useful
+[2261.565 - 2263.745] the general tools have become super useful
 
-[37:43 - 37:46] and then there's all these legal AI startups
+[2263.745 - 2266.105] and then there's all these legal AI startups
 
-[37:46 - 37:47] that have spr it up with specific tools.
+[2266.105 - 2267.665] that have spr it up with specific tools.
 
-[37:48 - 37:50] And beginning about two years ago we started like heavily
+[2268.665 - 2270.665] And beginning about two years ago we started like heavily
 
-[37:50 - 37:53] implementing, um, tool usage
+[2270.665 - 2273.665] implementing, um, tool usage
 
-[37:53 - 37:56] for AI within our legal department.
+[2273.725 - 2276.145] for AI within our legal department.
 
-[37:56 - 37:59] And over that two year period, our
+[2276.685 - 2279.825] And over that two year period, our
 
-[37:59 - 38:02] outside counsel spend has decreased 93%.
+[2279.825 - 2282.825] outside counsel spend has decreased 93%.
 
-[38:03 - 38:06] So we we're saving like $200,000 a year.
+[2283.485 - 2286.235] So we we're saving like $200,000 a year.
 
-[38:07 - 38:09] And that our outside council firms probably aren't real,
+[2287.035 - 2289.535] And that our outside council firms probably aren't real,
 
-[38:09 - 38:12] but like we go to AI as like a
+[2289.635 - 2292.535] but like we go to AI as like a
 
-[38:12 - 38:14] what you would treat like a junior
+[2292.925 - 2294.295] what you would treat like a junior
 
-[38:14 - 38:15] or even mid-level associate.
+[2294.475 - 2295.655] or even mid-level associate.
 
-[38:15 - 38:18] Some of these firms, which it blows my mind nowadays when
+[2295.725 - 2298.575] Some of these firms, which it blows my mind nowadays when
 
-[38:18 - 38:20] you get bills for junior associates
+[2298.575 - 2300.255] you get bills for junior associates
 
-[38:20 - 38:21] that are seven 50 bucks an hour.
+[2300.255 - 2301.455] that are seven 50 bucks an hour.
 
-[38:22 - 38:25] Um, so like we, we use that largely
+[2302.035 - 2305.445] Um, so like we, we use that largely
 
-[38:25 - 38:27] for like high stake stuff, obviously,
+[2305.825 - 2307.525] for like high stake stuff, obviously,
 
-[38:27 - 38:29] like if it's a financing
+[2307.635 - 2309.045] like if it's a financing
 
-[38:29 - 38:31] or an acquisition, we're still gonna use
+[2309.045 - 2311.125] or an acquisition, we're still gonna use
 
-[38:31 - 38:32] like real outside firms.
+[2311.435 - 2312.565] like real outside firms.
 
-[38:32 - 38:34] But for the day-to-day stuff that most
+[2312.665 - 2314.165] But for the day-to-day stuff that most
 
-[38:34 - 38:38] of us like at L Suite in-house departments, um, we just need
+[2314.165 - 2318.445] of us like at L Suite in-house departments, um, we just need
 
-[38:38 - 38:40] to like expand our reach and speed as quickly
+[2318.445 - 2320.725] to like expand our reach and speed as quickly
 
-[38:40 - 38:42] and as cheaply as possible.
+[2320.785 - 2322.005] and as cheaply as possible.
 
-[38:42 - 38:46] And AI has in my mind, revolutionized the practice of law
+[2322.545 - 2326.325] And AI has in my mind, revolutionized the practice of law
 
-[38:46 - 38:47] by being able to do that.
+[2326.545 - 2327.605] by being able to do that.
 
-[38:48 - 38:50] So yeah, we've saved 92% over two years.
+[2328.025 - 2330.285] So yeah, we've saved 92% over two years.
 
-[38:50 - 38:52] And then in terms of like time saved,
+[2330.865 - 2332.365] And then in terms of like time saved,
 
-[38:52 - 38:54] I'm sure I could like get, get an accurate
+[2332.465 - 2334.405] I'm sure I could like get, get an accurate
 
-[38:54 - 38:57] or close to accurate hours per week saved.
+[2334.545 - 2337.565] or close to accurate hours per week saved.
 
-[38:58 - 39:00] But I think the better metric is that
+[2338.225 - 2340.565] But I think the better metric is that
 
-[39:01 - 39:05] given our like legal intake volume,
+[2341.525 - 2345.005] given our like legal intake volume,
 
-[39:05 - 39:06] our sales contract review volume
+[2345.225 - 2346.765] our sales contract review volume
 
-[39:06 - 39:09] and all that, we should be ending this year
+[2346.825 - 2349.285] and all that, we should be ending this year
 
-[39:09 - 39:11] with five or six attorneys.
+[2349.285 - 2351.165] with five or six attorneys.
 
-[39:11 - 39:14] We should currently have four, we only have two
+[2351.185 - 2354.005] We should currently have four, we only have two
 
-[39:14 - 39:16] and we're not like crazy overworked
+[2354.185 - 2356.085] and we're not like crazy overworked
 
-[39:16 - 39:17] or not more than anyone else
+[2356.085 - 2357.165] or not more than anyone else
 
-[39:17 - 39:19] and we don't plan on adding head
+[2357.585 - 2359.245] and we don't plan on adding head
 
-[39:19 - 39:20] count by the end of the year.
+[2359.245 - 2360.325] count by the end of the year.
 
-[39:20 - 39:22] So if you take that for what it's worth,
+[2360.905 - 2362.325] So if you take that for what it's worth,
 
-[39:22 - 39:24] it's like essentially one lawyer is doing the work
+[2362.395 - 2364.845] it's like essentially one lawyer is doing the work
 
-[39:24 - 39:26] of three by using AI Now
+[2364.845 - 2366.445] of three by using AI Now
 
 **[Speaker 2]**
 
 
-[39:26 - 39:30] That, that is like quite a win.
+[2366.795 - 2370.005] That, that is like quite a win.
 
-[39:31 - 39:32] Uh, Jason, how about you?
+[2371.205 - 2372.785] Uh, Jason, how about you?
 
 **[Speaker 3]**
 
 
-[39:34 - 39:37] I don't have, uh, specific figures like Alex does,
+[2374.195 - 2377.555] I don't have, uh, specific figures like Alex does,
 
-[39:37 - 39:39] but I suppose more anecdotally,
+[2377.615 - 2379.435] but I suppose more anecdotally,
 
-[39:40 - 39:43] I recently maybe two months ago closed an m
+[2380.075 - 2383.395] I recently maybe two months ago closed an m
 
-[39:43 - 39:46] and a transaction just by myself using AI tools
+[2383.395 - 2386.955] and a transaction just by myself using AI tools
 
-[39:47 - 39:49] opposite a full Kirkland and Alice bench.
+[2387.475 - 2389.395] opposite a full Kirkland and Alice bench.
 
-[39:49 - 39:53] So that is not something I could do unassisted by ai.
+[2389.575 - 2393.515] So that is not something I could do unassisted by ai.
 
-[39:53 - 39:56] I probably saved, it wasn't the biggest transaction,
+[2393.795 - 2396.155] I probably saved, it wasn't the biggest transaction,
 
-[39:56 - 39:59] it might have cost $30,000 through big law
+[2396.175 - 2399.115] it might have cost $30,000 through big law
 
-[39:59 - 40:03] or $15,000 through medium law service providers,
+[2399.575 - 2403.595] or $15,000 through medium law service providers,
 
-[40:03 - 40:05] but it's really nice to be able
+[2403.615 - 2405.755] but it's really nice to be able
 
-[40:05 - 40:07] to just internalize things like that.
+[2405.755 - 2407.675] to just internalize things like that.
 
-[40:09 - 40:10] AI assisted,
+[2409.695 - 2410.695] AI assisted,
 
 **[Speaker 2]**
 
 
-[40:11 - 40:13] No, I think, I think you're not
+[2411.955 - 2413.455] No, I think, I think you're not
 
-[40:13 - 40:14] giving yourself enough credit.
+[2413.455 - 2414.495] giving yourself enough credit.
 
-[40:14 - 40:15] That's really impressive.
+[2414.635 - 2415.935] That's really impressive.
 
-[40:16 - 40:17] I mean, if we got to a world
+[2416.095 - 2417.535] I mean, if we got to a world
 
-[40:17 - 40:21] where this could assist in lobbing off like huge m
+[2417.585 - 2421.495] where this could assist in lobbing off like huge m
 
-[40:21 - 40:24] and a expenses, because obviously law firms have been using
+[2421.495 - 2424.255] and a expenses, because obviously law firms have been using
 
-[40:24 - 40:25] this sort of tooling for a really long
+[2424.255 - 2425.815] this sort of tooling for a really long
 
-[40:25 - 40:26] time to do this, right?
+[2425.815 - 2426.975] time to do this, right?
 
-[40:27 - 40:31] Um, and so if we're able to do that in-house, um,
+[2427.595 - 2431.655] Um, and so if we're able to do that in-house, um,
 
-[40:31 - 40:33] a little bit more independently,
+[2431.895 - 2433.175] a little bit more independently,
 
-[40:33 - 40:34] that's really very impressive.
+[2433.475 - 2434.855] that's really very impressive.
 
-[40:35 - 40:39] There's, there's some, uh, excitement in the chat. Okay.
+[2435.595 - 2439.445] There's, there's some, uh, excitement in the chat. Okay.
 
-[40:40 - 40:43] Um, before we close Jason,
+[2440.185 - 2443.915] Um, before we close Jason,
 
-[40:44 - 40:46] what is one piece of advice you would give someone
+[2444.305 - 2446.755] what is one piece of advice you would give someone
 
-[40:47 - 40:51] who just started looking at these tools, prompting, um,
+[2447.135 - 2451.875] who just started looking at these tools, prompting, um,
 
-[40:52 - 40:55] getting comfortable, wants to give their team,
+[2452.025 - 2455.195] getting comfortable, wants to give their team,
 
-[40:55 - 40:57] you know, a speech about it.
+[2455.535 - 2457.035] you know, a speech about it.
 
-[40:57 - 40:59] What kind of advice do you wanna give to someone?
+[2457.305 - 2459.115] What kind of advice do you wanna give to someone?
 
 **[Speaker 3]**
 
 
-[41:00 - 41:02] Uh, pick your tools wisely.
+[2460.905 - 2462.845] Uh, pick your tools wisely.
 
-[41:03 - 41:05] I'm definitely, I'm probably not the best at that,
+[2463.265 - 2465.805] I'm definitely, I'm probably not the best at that,
 
-[41:05 - 41:08] but I, I like what I have and I'd found success with it.
+[2465.905 - 2468.605] but I, I like what I have and I'd found success with it.
 
-[41:09 - 41:12] Uh, be smart about how you ask questions.
+[2469.345 - 2472.165] Uh, be smart about how you ask questions.
 
-[41:12 - 41:15] I won't go into the whole spiel I've recycled a few times
+[2472.365 - 2475.485] I won't go into the whole spiel I've recycled a few times
 
-[41:15 - 41:17] already, but that is very important.
+[2475.485 - 2477.525] already, but that is very important.
 
-[41:17 - 41:21] And don't trust outputs. Verify them,
+[2477.785 - 2481.125] And don't trust outputs. Verify them,
 
 **[Speaker 2]**
 
 
-[41:23 - 41:24] Trust them, verify.
+[2483.755 - 2484.865] Trust them, verify.
 
-[41:25 - 41:27] Alex, what about you? What advice would you give somebody?
+[2485.135 - 2487.465] Alex, what about you? What advice would you give somebody?
 
 **[Speaker 3]**
 
 
-[41:29 - 41:33] Yeah, I'm once again just gonna rip from Ethan Malik's
+[2489.435 - 2493.205] Yeah, I'm once again just gonna rip from Ethan Malik's
 
-[41:33 - 41:35] book, which I'd recommend anyone read.
+[2493.245 - 2495.445] book, which I'd recommend anyone read.
 
-[41:35 - 41:39] It's incredible. But I'd say first like, treat AI
+[2495.475 - 2499.285] It's incredible. But I'd say first like, treat AI
 
-[41:39 - 41:40] as a co intelligence.
+[2499.285 - 2500.365] as a co intelligence.
 
-[41:40 - 41:42] Um, he projects
+[2500.985 - 2502.605] Um, he projects
 
-[41:42 - 41:46] that like within five years humans will become cyborgs,
+[2502.605 - 2506.245] that like within five years humans will become cyborgs,
 
-[41:46 - 41:48] meaning like we're almost everything we do in work
+[2506.245 - 2508.725] meaning like we're almost everything we do in work
 
-[41:49 - 41:52] is augmented to some degree by degree an ai.
+[2509.345 - 2512.445] is augmented to some degree by degree an ai.
 
-[41:52 - 41:55] Um, and that's certainly been come the case in my own
+[2512.705 - 2515.565] Um, and that's certainly been come the case in my own
 
-[41:56 - 41:58] work life and I found it incredibly useful.
+[2516.315 - 2518.765] work life and I found it incredibly useful.
 
-[41:58 - 42:01] So I think treating it as a co co intelligence
+[2518.785 - 2521.205] So I think treating it as a co co intelligence
 
-[42:01 - 42:03] and just helping you think, even if you like,
+[2521.205 - 2523.525] and just helping you think, even if you like,
 
-[42:03 - 42:06] are most certain, you know, the answer to something like,
+[2523.785 - 2526.425] are most certain, you know, the answer to something like,
 
-[42:06 - 42:08] you know, we all, we all have like implicit biases
+[2526.525 - 2528.865] you know, we all, we all have like implicit biases
 
-[42:09 - 42:11] and having it critique those things to um,
+[2529.045 - 2531.705] and having it critique those things to um,
 
-[42:12 - 42:15] like re refine our reasoning is always useful.
+[2532.375 - 2535.695] like re refine our reasoning is always useful.
 
-[42:16 - 42:20] Um, and then I'd also just be comfortable
+[2536.315 - 2540.105] Um, and then I'd also just be comfortable
 
-[42:20 - 42:23] with like good enough responses from ai.
+[2540.495 - 2543.025] with like good enough responses from ai.
 
-[42:23 - 42:24] That's probably my second point.
+[2543.025 - 2544.105] That's probably my second point.
 
-[42:24 - 42:27] It's like, at first I was like, oh, you know,
+[2544.615 - 2547.625] It's like, at first I was like, oh, you know,
 
-[42:27 - 42:30] it's not passing the bar at a 99% pass rate,
+[2547.625 - 2550.265] it's not passing the bar at a 99% pass rate,
 
-[42:30 - 42:32] but most lawyers aren't either.
+[2550.765 - 2552.985] but most lawyers aren't either.
 
-[42:33 - 42:36] Um, most lawyers like I, if I'm hiring someone,
+[2553.445 - 2556.585] Um, most lawyers like I, if I'm hiring someone,
 
-[42:36 - 42:38] I'm happy if they're consistently outputting 80
+[2556.765 - 2558.745] I'm happy if they're consistently outputting 80
 
-[42:38 - 42:40] to 85% results.
+[2558.965 - 2560.545] to 85% results.
 
-[42:40 - 42:43] Now I could say human, it's like if the AI's doing that,
+[2560.845 - 2563.225] Now I could say human, it's like if the AI's doing that,
 
-[42:43 - 42:46] but for 20 bucks a month it's pretty incredible
+[2563.285 - 2566.255] but for 20 bucks a month it's pretty incredible
 
-[42:46 - 42:49] and like I can improve the other 20% to make it better.
+[2566.475 - 2569.055] and like I can improve the other 20% to make it better.
 
-[42:50 - 42:52] And then three, I think like the more
+[2570.175 - 2572.275] And then three, I think like the more
 
-[42:52 - 42:55] that you can ingest kind of like the geeky, nerdy AI stuff
+[2572.275 - 2575.635] that you can ingest kind of like the geeky, nerdy AI stuff
 
-[42:55 - 42:58] through newsletters or videos or whatever, the better.
+[2575.635 - 2578.395] through newsletters or videos or whatever, the better.
 
-[42:58 - 43:01] Like, uh, a few weeks ago Sam Altman had like a really
+[2578.465 - 2581.795] Like, uh, a few weeks ago Sam Altman had like a really
 
-[43:02 - 43:03] interesting interview on a panel he was on.
+[2582.075 - 2583.475] interesting interview on a panel he was on.
 
-[43:04 - 43:07] Um, and uh, the interviewer asked him
+[2584.175 - 2587.565] Um, and uh, the interviewer asked him
 
-[43:07 - 43:11] what they've noticed at Open AI about different generations
+[2587.795 - 2591.435] what they've noticed at Open AI about different generations
 
-[43:11 - 43:13] and how they use ai
+[2591.455 - 2593.635] and how they use ai
 
-[43:13 - 43:18] and he commented how like the older generations are using,
+[2593.635 - 2598.035] and he commented how like the older generations are using,
 
-[43:18 - 43:21] um, AI as you know, the memes that we used
+[2598.455 - 2601.435] um, AI as you know, the memes that we used
 
-[43:21 - 43:25] to see 20 years ago from our grandparents asking questions
+[2601.435 - 2605.035] to see 20 years ago from our grandparents asking questions
 
-[43:25 - 43:26] to Google that like didn't make any sense.
+[2605.035 - 2606.875] to Google that like didn't make any sense.
 
-[43:27 - 43:28] But like ironically now, like
+[2607.535 - 2608.915] But like ironically now, like
 
-[43:28 - 43:31] that's actually like a pretty ideal way to use AI
+[2608.915 - 2611.395] that's actually like a pretty ideal way to use AI
 
-[43:31 - 43:32] for someone who doesn't need it
+[2611.395 - 2612.435] for someone who doesn't need it
 
-[43:32 - 43:33] for some specialized use case.
+[2612.435 - 2613.555] for some specialized use case.
 
-[43:33 - 43:34] It's just like treating like another
+[2613.555 - 2614.795] It's just like treating like another
 
-[43:34 - 43:36] human asking it questions.
+[2614.795 - 2616.035] human asking it questions.
 
-[43:36 - 43:37] They're using it like that.
+[2616.185 - 2617.315] They're using it like that.
 
-[43:37 - 43:39] The people who are like, you know, in the market
+[2617.775 - 2619.795] The people who are like, you know, in the market
 
-[43:40 - 43:43] and have integrated this into their work over the last two
+[2620.055 - 2623.075] and have integrated this into their work over the last two
 
-[43:43 - 43:46] years are using it largely how it's intended to be using,
+[2623.075 - 2626.755] years are using it largely how it's intended to be using,
 
-[43:46 - 43:50] asking it to act in a role, trying to verify outputs, having
+[2626.755 - 2630.275] asking it to act in a role, trying to verify outputs, having
 
-[43:50 - 43:52] to critique reasoning that that sort
+[2630.295 - 2632.895] to critique reasoning that that sort
 
-[43:52 - 43:53] of stuff refined writing.
+[2632.895 - 2633.895] of stuff refined writing.
 
-[43:54 - 43:57] Um, but then he found the most interesting was
+[2634.315 - 2637.735] Um, but then he found the most interesting was
 
-[43:57 - 43:59] that younger generations, like people in high school
+[2637.735 - 2639.775] that younger generations, like people in high school
 
-[43:59 - 44:04] and college are using AI as like a new operating system.
+[2639.795 - 2644.575] and college are using AI as like a new operating system.
 
-[44:04 - 44:06] Like rather than going to their computer
+[2644.805 - 2646.535] Like rather than going to their computer
 
-[44:06 - 44:10] or their phone as like their main source of computation
+[2646.715 - 2650.695] or their phone as like their main source of computation
 
-[44:10 - 44:13] and operating system, these people are just starting
+[2650.755 - 2653.175] and operating system, these people are just starting
 
-[44:13 - 44:14] to use like ai, um,
+[2653.175 - 2654.695] to use like ai, um,
 
-[44:14 - 44:16] because they've grown up with it, it's intuitive for them.
+[2654.695 - 2656.535] because they've grown up with it, it's intuitive for them.
 
-[44:16 - 44:21] So things like keeping like a eternal thread on chat GBT
+[2656.915 - 2661.495] So things like keeping like a eternal thread on chat GBT
 
-[44:21 - 44:24] and having it store to do tasks and calendaring.
+[2661.495 - 2664.135] and having it store to do tasks and calendaring.
 
-[44:24 - 44:26] I'd rather than using like Gmail calendar,
+[2664.515 - 2666.535] I'd rather than using like Gmail calendar,
 
-[44:27 - 44:28] they just use this now
+[2667.625 - 2668.635] they just use this now
 
-[44:28 - 44:31] and they'll ask like every morning, tell me
+[2668.635 - 2671.315] and they'll ask like every morning, tell me
 
-[44:31 - 44:32] what I need to do today.
+[2671.315 - 2672.515] what I need to do today.
 
-[44:32 - 44:34] It's like that type of stuff that most
+[2672.905 - 2674.875] It's like that type of stuff that most
 
-[44:34 - 44:36] of us wouldn't intuitively think
+[2674.875 - 2676.195] of us wouldn't intuitively think
 
-[44:36 - 44:37] 'cause we're so used to using other tools.
+[2676.355 - 2677.715] 'cause we're so used to using other tools.
 
-[44:38 - 44:41] Um, and I think staying current on like best AI use cases
+[2678.255 - 2681.595] Um, and I think staying current on like best AI use cases
 
-[44:41 - 44:44] and whatnot, even if it's sometimes nerdy
+[2681.695 - 2684.235] and whatnot, even if it's sometimes nerdy
 
-[44:44 - 44:46] and even if they get into like the technical jargon,
+[2684.235 - 2686.395] and even if they get into like the technical jargon,
 
-[44:46 - 44:47] it's still interesting to hear
+[2686.665 - 2687.795] it's still interesting to hear
 
-[44:47 - 44:50] how like the most cutting edge people are starting to use it
+[2687.795 - 2690.515] how like the most cutting edge people are starting to use it
 
-[44:50 - 44:51] so that we can try and adapt that
+[2690.515 - 2691.955] so that we can try and adapt that
 
-[44:51 - 44:53] for like our legal use cases.
+[2691.975 - 2693.195] for like our legal use cases.
 
 **[Speaker 2]**
 
 
-[44:54 - 44:56] I have started to ask chat
+[2694.285 - 2696.725] I have started to ask chat
 
-[44:57 - 44:58] questions that I used to Google.
+[2697.085 - 2698.205] questions that I used to Google.
 
-[44:58 - 45:00] Um, like it, it's become, and
+[2698.745 - 2700.965] Um, like it, it's become, and
 
-[45:00 - 45:04] and that's actually a big thing now is like SEO optimization
+[2700.965 - 2704.405] and that's actually a big thing now is like SEO optimization
 
-[45:04 - 45:07] inside of the responses that say like,
+[2704.585 - 2707.405] inside of the responses that say like,
 
-[45:07 - 45:09] chat will give you a cloud we'll give you.
+[2707.405 - 2709.125] chat will give you a cloud we'll give you.
 
-[45:09 - 45:12] Um, but yeah, that's been my go-to recently
+[2709.665 - 2712.125] Um, but yeah, that's been my go-to recently
 
-[45:12 - 45:15] and so I've even seen my own, uh, behavior shift.
+[2712.225 - 2715.645] and so I've even seen my own, uh, behavior shift.
 
-[45:16 - 45:17] Uh, we, I'm very excited.
+[2716.225 - 2717.765] Uh, we, I'm very excited.
 
-[45:17 - 45:20] We have a lot of really, uh, really great questions.
+[2717.785 - 2720.605] We have a lot of really, uh, really great questions.
 
-[45:20 - 45:24] Let me ans let me ask one, uh, that just came up Jason.
+[2720.945 - 2724.525] Let me ans let me ask one, uh, that just came up Jason.
 
-[45:25 - 45:29] Um, specifically what tool did you use for, for that m
+[2725.465 - 2729.165] Um, specifically what tool did you use for, for that m
 
-[45:29 - 45:31] and a um, uh, support?
+[2729.165 - 2731.285] and a um, uh, support?
 
 **[Speaker 3]**
 
 
-[45:31 - 45:34] Yeah, I should have provided some more details.
+[2731.795 - 2734.085] Yeah, I should have provided some more details.
 
-[45:34 - 45:37] So again, I'm not the expert in which tool to pick.
+[2734.225 - 2737.565] So again, I'm not the expert in which tool to pick.
 
-[45:37 - 45:40] I use GCAI, it helped
+[2737.845 - 2740.005] I use GCAI, it helped
 
-[45:40 - 45:42] that I am an m and a attorney by training.
+[2740.075 - 2742.045] that I am an m and a attorney by training.
 
-[45:42 - 45:43] I've run lots of deals, so
+[2742.075 - 2743.485] I've run lots of deals, so
 
-[45:44 - 45:47] give me most pretty decent tools
+[2744.515 - 2747.445] give me most pretty decent tools
 
-[45:47 - 45:49] and I can run with my little robot minions
+[2747.545 - 2749.765] and I can run with my little robot minions
 
-[45:49 - 45:52] and close deals so that, that may not be the best approach,
+[2749.765 - 2752.965] and close deals so that, that may not be the best approach,
 
-[45:52 - 45:54] but it worked very well
+[2752.985 - 2754.005] but it worked very well
 
-[45:54 - 45:56] for me is all I can say from my anecdote.
+[2754.005 - 2756.525] for me is all I can say from my anecdote.
 
 **[Speaker 2]**
 
 
-[45:57 - 45:58] Well, and I think you're overlaying it
+[2757.075 - 2758.965] Well, and I think you're overlaying it
 
-[45:58 - 46:01] with what's important, which is you had the expertise
+[2758.965 - 2761.165] with what's important, which is you had the expertise
 
-[46:01 - 46:04] to be able to see that the outputs like, like
+[2761.225 - 2764.325] to be able to see that the outputs like, like
 
-[46:04 - 46:05] that domain expertise.
+[2764.325 - 2765.485] that domain expertise.
 
-[46:05 - 46:07] So someone who maybe doesn't have it,
+[2765.585 - 2767.325] So someone who maybe doesn't have it,
 
-[46:07 - 46:09] that may be like you might have that edge,
+[2767.475 - 2769.605] that may be like you might have that edge,
 
-[46:09 - 46:12] which is I think extremely fair in a lot of
+[2769.605 - 2772.005] which is I think extremely fair in a lot of
 
-[46:12 - 46:13] what we've been talking about today.
+[2772.005 - 2773.325] what we've been talking about today.
 
 **[Speaker 3]**
 
 
-[46:13 - 46:16] Certainly if you don't have the expertise to run
+[2773.355 - 2776.045] Certainly if you don't have the expertise to run
 
-[46:16 - 46:18] a certain kind of transaction
+[2776.565 - 2778.085] a certain kind of transaction
 
-[46:18 - 46:21] or process, AI won't give you that expertise,
+[2778.225 - 2781.285] or process, AI won't give you that expertise,
 
-[46:21 - 46:24] but if you do, it's a very good resource.
+[2781.585 - 2784.405] but if you do, it's a very good resource.
 
-[46:24 - 46:26] That's right. And we've all been saying, yeah.
+[2784.935 - 2786.635] That's right. And we've all been saying, yeah.
 
 **[Speaker 2]**
 
 
-[46:27 - 46:31] So, um, Alex, this, this goes back to something you said,
+[2787.865 - 2791.695] So, um, Alex, this, this goes back to something you said,
 
-[46:31 - 46:34] uh, a little bit earlier, like on note taking for example,
+[2791.755 - 2794.935] uh, a little bit earlier, like on note taking for example,
 
-[46:35 - 46:38] I think we're all sort of running Zoom AI or granola
+[2795.095 - 2798.255] I think we're all sort of running Zoom AI or granola
 
-[46:38 - 46:42] or some flavor of, of, uh, an automated note taker.
+[2798.255 - 2802.015] or some flavor of, of, uh, an automated note taker.
 
-[46:42 - 46:46] Um, when you're utilizing a tool like that, how do both
+[2802.235 - 2806.415] Um, when you're utilizing a tool like that, how do both
 
-[46:46 - 46:49] of you get comfortable with preserving privilege
+[2806.435 - 2809.215] of you get comfortable with preserving privilege
 
-[46:49 - 46:50] and confidentiality?
+[2809.215 - 2810.215] and confidentiality?
 
 **[Speaker 3]**
 
 
-[46:51 - 46:53] Yeah, the easy answer is I don't get comfortable
+[2811.025 - 2813.715] Yeah, the easy answer is I don't get comfortable
 
-[46:53 - 46:55] and I haven't, we, we've honestly been trying
+[2813.735 - 2815.915] and I haven't, we, we've honestly been trying
 
-[46:55 - 46:58] to restrict the Zoom recording
+[2815.915 - 2818.475] to restrict the Zoom recording
 
-[46:58 - 47:01] or gran, we use granola internally.
+[2818.615 - 2821.615] or gran, we use granola internally.
 
-[47:01 - 47:05] Granola currently doesn't have a feature to like auto delete
+[2821.885 - 2825.335] Granola currently doesn't have a feature to like auto delete
 
-[47:06 - 47:08] some period, like a retention timeline basically.
+[2826.005 - 2828.255] some period, like a retention timeline basically.
 
-[47:08 - 47:11] I wish it did. Um, so we just try
+[2828.375 - 2831.665] I wish it did. Um, so we just try
 
-[47:11 - 47:13] to coach our people like not to use
+[2831.665 - 2833.185] to coach our people like not to use
 
-[47:13 - 47:15] that in a board meeting obviously,
+[2833.185 - 2835.545] that in a board meeting obviously,
 
-[47:15 - 47:19] or like anything even slightly lower stakes than that.
+[2835.645 - 2839.265] or like anything even slightly lower stakes than that.
 
-[47:19 - 47:21] Um, but with that being said,
+[2839.805 - 2841.645] Um, but with that being said,
 
-[47:21 - 47:24] it's like we're certainly not taking a restrictive stance
+[2841.715 - 2844.085] it's like we're certainly not taking a restrictive stance
 
-[47:24 - 47:25] saying you can't use this because the fact
+[2844.085 - 2845.685] saying you can't use this because the fact
 
-[47:25 - 47:28] of the matter is it's, it's saving people tons of time.
+[2845.685 - 2848.245] of the matter is it's, it's saving people tons of time.
 
-[47:28 - 47:32] It's a more accurate note taker than humans certainly are.
+[2848.835 - 2852.405] It's a more accurate note taker than humans certainly are.
 
-[47:32 - 47:35] It allows people to focus on the human being across the
+[2852.405 - 2855.565] It allows people to focus on the human being across the
 
-[47:35 - 47:37] screen from them in a meeting rather than
+[2855.565 - 2857.245] screen from them in a meeting rather than
 
-[47:37 - 47:38] focus on taking notes.
+[2857.295 - 2858.365] focus on taking notes.
 
-[47:38 - 47:42] It's like those things in my mind far outweigh the risks
+[2858.835 - 2862.485] It's like those things in my mind far outweigh the risks
 
-[47:42 - 47:44] as long as you're like being careful.
+[2862.585 - 2864.205] as long as you're like being careful.
 
-[47:44 - 47:47] Like if, you know, we haven't had a data breach,
+[2864.355 - 2867.885] Like if, you know, we haven't had a data breach,
 
-[47:47 - 47:49] but if I'm on the phone and we're talking about a data
+[2867.905 - 2869.845] but if I'm on the phone and we're talking about a data
 
-[47:49 - 47:51] breach with my ciso,
+[2869.845 - 2871.165] breach with my ciso,
 
-[47:51 - 47:54] I'm not gonna have granola recording, uh, the message there.
+[2871.705 - 2874.925] I'm not gonna have granola recording, uh, the message there.
 
-[47:54 - 47:57] Or if I do, I'm gonna immediately, I'm gonna take the notes,
+[2874.945 - 2877.965] Or if I do, I'm gonna immediately, I'm gonna take the notes,
 
-[47:58 - 48:00] maybe print them out or keep them in some physical form
+[2878.015 - 2880.725] maybe print them out or keep them in some physical form
 
-[48:01 - 48:03] and delete like the transcript of it from the servers.
+[2881.025 - 2883.365] and delete like the transcript of it from the servers.
 
-[48:03 - 48:07] Something like that. Yeah, this is an issue we've discussed,
+[2883.365 - 2887.165] Something like that. Yeah, this is an issue we've discussed,
 
-[48:07 - 48:08] perhaps not at length,
+[2887.395 - 2888.605] perhaps not at length,
 
-[48:08 - 48:10] but it's, it's come up
+[2888.665 - 2890.005] but it's, it's come up
 
-[48:10 - 48:13] where there are obvious discovery implications for anything
+[2890.135 - 2893.885] where there are obvious discovery implications for anything
 
-[48:13 - 48:15] that I'll use.
+[2893.995 - 2895.205] that I'll use.
 
-[48:15 - 48:17] Zoom AI as an example, just automatically saves
+[2895.205 - 2897.845] Zoom AI as an example, just automatically saves
 
-[48:17 - 48:21] and emails out to everybody where I master of the universe.
+[2897.845 - 2901.685] and emails out to everybody where I master of the universe.
 
-[48:21 - 48:26] I would make it so that you can ask it questions based on
+[2901.925 - 2906.525] I would make it so that you can ask it questions based on
 
-[48:26 - 48:28] what it's sort of stored.
+[2906.595 - 2908.645] what it's sort of stored.
 
-[48:29 - 48:31] You can get the answers and then you use those notes
+[2909.145 - 2911.445] You can get the answers and then you use those notes
 
-[48:31 - 48:35] yourself rather than just these AI summarized call
+[2911.725 - 2915.565] yourself rather than just these AI summarized call
 
-[48:35 - 48:37] transcripts, which are just there forever,
+[2915.565 - 2917.485] transcripts, which are just there forever,
 
-[48:37 - 48:40] but may maybe that'll be a feature one day
+[2917.705 - 2920.095] but may maybe that'll be a feature one day
 
-[48:40 - 48:41] and maybe it already is and I just
+[2920.095 - 2921.295] and maybe it already is and I just
 
-[48:41 - 48:42] haven't figured out how to use it.
+[2921.295 - 2922.455] haven't figured out how to use it.
 
-[48:42 - 48:44] But that, that's what I would prefer.
+[2922.555 - 2924.215] But that, that's what I would prefer.
 
 **[Speaker 2]**
 
 
-[48:44 - 48:46] I I'm gonna pivot a little bit to CLMs.
+[2924.695 - 2926.895] I I'm gonna pivot a little bit to CLMs.
 
-[48:47 - 48:51] So the question is largely around like AI tools
+[2927.115 - 2931.335] So the question is largely around like AI tools
 
-[48:51 - 48:54] and CLMs, um, and it's it
+[2931.555 - 2934.055] and CLMs, um, and it's it
 
-[48:54 - 48:56] and it's, is there, is there an easier way
+[2934.115 - 2936.895] and it's, is there, is there an easier way
 
-[48:56 - 48:58] to redline contracts, for example,
+[2936.895 - 2938.895] to redline contracts, for example,
 
-[48:59 - 49:03] utilizing like an AI word plugin versus going the full route
+[2939.005 - 2943.695] utilizing like an AI word plugin versus going the full route
 
-[49:03 - 49:05] of A CLM implementation?
+[2943.835 - 2945.575] of A CLM implementation?
 
-[49:06 - 49:09] And this is probably largely an opinion
+[2946.855 - 2949.275] And this is probably largely an opinion
 
-[49:09 - 49:11] and largely based on the size and scale
+[2949.455 - 2951.235] and largely based on the size and scale
 
-[49:11 - 49:12] and scope of your organization,
+[2951.295 - 2952.755] and scope of your organization,
 
-[49:13 - 49:17] but if either of you find, um, utilizing an AI tool, uh,
+[2953.295 - 2957.635] but if either of you find, um, utilizing an AI tool, uh,
 
-[49:17 - 49:21] to be maybe easier than that implementation
+[2957.895 - 2961.195] to be maybe easier than that implementation
 
-[49:21 - 49:22] or any insights there?
+[2961.215 - 2962.435] or any insights there?
 
 **[Speaker 3]**
 
 
-[49:23 - 49:24] Yeah, I definitely have an opinion
+[2963.145 - 2964.715] Yeah, I definitely have an opinion
 
-[49:24 - 49:26] and it's not overly positive.
+[2964.815 - 2966.395] and it's not overly positive.
 
-[49:26 - 49:29] Um, so we implemented a CLM solution.
+[2966.695 - 2969.555] Um, so we implemented a CLM solution.
 
-[49:30 - 49:32] The biggest one probably that you guys are all familiar
+[2970.215 - 2972.355] The biggest one probably that you guys are all familiar
 
-[49:32 - 49:35] with, um, coming up on two and a half years ago
+[2972.355 - 2975.935] with, um, coming up on two and a half years ago
 
-[49:35 - 49:38] and during that time had like a bake off between
+[2975.935 - 2978.735] and during that time had like a bake off between
 
-[49:39 - 49:40] three of the best ones.
+[2979.745 - 2980.975] three of the best ones.
 
-[49:40 - 49:44] The only one at that time that I found that was good at uh,
+[2980.995 - 2984.135] The only one at that time that I found that was good at uh,
 
-[49:44 - 49:46] like contract redlining was luminance,
+[2984.685 - 2986.935] like contract redlining was luminance,
 
-[49:47 - 49:49] but they were so early at all the other things
+[2987.075 - 2989.535] but they were so early at all the other things
 
-[49:49 - 49:50] that we didn't actually end up using them
+[2989.535 - 2990.935] that we didn't actually end up using them
 
-[49:51 - 49:54] and I didn't need a contract red liner at that point in time
+[2991.035 - 2994.045] and I didn't need a contract red liner at that point in time
 
-[49:54 - 49:55] and it wasn't up to speed.
+[2994.045 - 2995.205] and it wasn't up to speed.
 
-[49:55 - 49:58] Like it wasn't as good as the current ones are,
+[2995.675 - 2998.085] Like it wasn't as good as the current ones are,
 
-[49:58 - 49:59] like Ivo or GC ai.
+[2998.325 - 2999.685] like Ivo or GC ai.
 
-[50:00 - 50:04] Um, but like the large legacy CLM solutions I have found
+[3000.225 - 3004.725] Um, but like the large legacy CLM solutions I have found
 
-[50:04 - 50:05] to be very weak.
+[3004.825 - 3005.885] to be very weak.
 
-[50:06 - 50:08] Like you can, it almost seems like they're just bolting on
+[3006.035 - 3008.325] Like you can, it almost seems like they're just bolting on
 
-[50:08 - 50:10] AI so that they can market themselves as AI companies.
+[3008.505 - 3010.805] AI so that they can market themselves as AI companies.
 
-[50:11 - 50:13] Um, ironclad link squares these people
+[3011.465 - 3013.885] Um, ironclad link squares these people
 
-[50:13 - 50:15] and the redline tools aren't good.
+[3013.985 - 3015.325] and the redline tools aren't good.
 
-[50:15 - 50:17] If I was them, I would just acquire one
+[3015.985 - 3017.845] If I was them, I would just acquire one
 
-[50:17 - 50:19] of these startups honestly and integrate it.
+[3017.845 - 3019.645] of these startups honestly and integrate it.
 
-[50:19 - 50:22] Um, but uh, hope hopefully they get there
+[3019.985 - 3022.975] Um, but uh, hope hopefully they get there
 
-[50:22 - 50:24] because it'd certainly be easier to just have a one-stop
+[3022.975 - 3024.975] because it'd certainly be easier to just have a one-stop
 
-[50:24 - 50:26] shop where like all your contracts are
+[3024.975 - 3026.855] shop where like all your contracts are
 
-[50:26 - 50:28] negotiated and redlined.
+[3026.925 - 3028.165] negotiated and redlined.
 
-[50:28 - 50:31] I just haven't found the tools nearly as good
+[3028.645 - 3031.045] I just haven't found the tools nearly as good
 
-[50:31 - 50:33] as the third party products currently are.
+[3031.425 - 3033.165] as the third party products currently are.
 
-[50:33 - 50:37] Yeah, we don't dabble much in either of those areas.
+[3033.835 - 3037.165] Yeah, we don't dabble much in either of those areas.
 
-[50:37 - 50:40] We haven't found, we, we don't,
+[3037.465 - 3040.445] We haven't found, we, we don't,
 
-[50:40 - 50:42] we're not scaled in certain areas sufficiently
+[3040.445 - 3042.885] we're not scaled in certain areas sufficiently
 
-[50:42 - 50:44] to I think need CLM
+[3042.885 - 3044.525] to I think need CLM
 
-[50:44 - 50:46] and those areas, which it would be super helpful.
+[3044.525 - 3046.565] and those areas, which it would be super helpful.
 
-[50:46 - 50:50] It would be probably better for us to just find a way
+[3046.785 - 3050.005] It would be probably better for us to just find a way
 
-[50:50 - 50:53] to build the tool or hire contractors to do that for us.
+[3050.005 - 3053.405] to build the tool or hire contractors to do that for us.
 
-[50:53 - 50:56] So we're not in CLM redlining software.
+[3053.465 - 3056.605] So we're not in CLM redlining software.
 
-[50:56 - 50:59] I've experimented with, it has been eight or so months,
+[3056.715 - 3059.645] I've experimented with, it has been eight or so months,
 
-[50:59 - 51:03] but when I was sort of dipping my toes in the water there,
+[3059.705 - 3063.165] but when I was sort of dipping my toes in the water there,
 
-[51:03 - 51:05] I wasn't very impressed at what I saw.
+[3063.245 - 3065.245] I wasn't very impressed at what I saw.
 
-[51:05 - 51:06] I found that I had to,
+[3065.765 - 3066.805] I found that I had to,
 
-[51:07 - 51:11] at a very granular level review the agreements anyway in a
+[3067.145 - 3071.605] at a very granular level review the agreements anyway in a
 
-[51:11 - 51:14] way that it didn't really reduce the time
+[3071.605 - 3074.565] way that it didn't really reduce the time
 
-[51:14 - 51:15] spent per contract.
+[3074.565 - 3075.645] spent per contract.
 
-[51:15 - 51:18] I'm sure that is not always the case for everybody
+[3075.745 - 3078.045] I'm sure that is not always the case for everybody
 
-[51:18 - 51:20] and I'm sure the tools have gotten better, so I'll I'll need
+[3078.045 - 3080.445] and I'm sure the tools have gotten better, so I'll I'll need
 
-[51:20 - 51:22] to reevaluate that likely soon.
+[3080.445 - 3082.725] to reevaluate that likely soon.
 
 **[Speaker 2]**
 
 
-[51:24 - 51:25] Yeah, it's an interesting space
+[3084.245 - 3085.695] Yeah, it's an interesting space
 
-[51:25 - 51:29] for sure when every product has its own ai, right?
+[3085.715 - 3089.455] for sure when every product has its own ai, right?
 
-[51:29 - 51:33] Like, and also then there's the AI products
+[3089.685 - 3093.095] Like, and also then there's the AI products
 
-[51:33 - 51:35] that also are dedicated to that space
+[3093.095 - 3095.295] that also are dedicated to that space
 
-[51:35 - 51:38] and like trying to navigate through like who, who wins
+[3095.435 - 3098.935] and like trying to navigate through like who, who wins
 
-[51:38 - 51:40] that sort of arms race
+[3098.935 - 3100.135] that sort of arms race
 
-[51:40 - 51:43] and who's giving the best output is gonna be something
+[3100.155 - 3103.015] and who's giving the best output is gonna be something
 
-[51:43 - 51:44] that I think we navigate over the next few years.
+[3103.015 - 3104.975] that I think we navigate over the next few years.
 
-[51:45 - 51:49] Absolutely. Uh, we got something that's very,
+[3105.575 - 3109.015] Absolutely. Uh, we got something that's very,
 
-[51:49 - 51:52] very highly upvoted, so I have to ask it.
+[3109.125 - 3112.095] very highly upvoted, so I have to ask it.
 
-[51:52 - 51:55] Do the GCI users find much difference between using
+[3112.475 - 3115.815] Do the GCI users find much difference between using
 
-[51:55 - 51:58] that platform or just a paid GPT?
+[3115.815 - 3118.815] that platform or just a paid GPT?
 
-[51:59 - 52:01] Um, I think we covered a lot of this
+[3119.195 - 3121.455] Um, I think we covered a lot of this
 
-[52:01 - 52:03] and what's very unique about GPT
+[3121.475 - 3123.495] and what's very unique about GPT
 
-[52:03 - 52:07] and that it's, it's, you know, giving in, uh, GCI rather in
+[3123.595 - 3127.535] and that it's, it's, you know, giving in, uh, GCI rather in
 
-[52:07 - 52:12] that it's giving you, um, prompt, you know, recommendations
+[3127.535 - 3132.015] that it's giving you, um, prompt, you know, recommendations
 
-[52:12 - 52:15] and that it does have like, that we're built on for redline.
+[3132.155 - 3135.175] and that it does have like, that we're built on for redline.
 
-[52:15 - 52:17] So it sounds like there's a bit of uniqueness there,
+[3135.175 - 3137.135] So it sounds like there's a bit of uniqueness there,
 
-[52:17 - 52:19] but it was uploaded highly.
+[3137.235 - 3139.415] but it was uploaded highly.
 
-[52:19 - 52:22] Anything else to overlay on why you might pick a tool
+[3139.895 - 3142.615] Anything else to overlay on why you might pick a tool
 
-[52:22 - 52:26] that is tailor, uh, purpose built for, for legal?
+[3142.645 - 3146.415] that is tailor, uh, purpose built for, for legal?
 
 **[Speaker 3]**
 
 
-[52:27 - 52:30] Uh, GC AI is kind of just awesome.
+[3147.925 - 3150.745] Uh, GC AI is kind of just awesome.
 
-[52:31 - 52:34] So the precision and the responses is very impressive.
+[3151.405 - 3154.905] So the precision and the responses is very impressive.
 
-[52:35 - 52:38] Cecilia sort of demoed it to me herself
+[3155.385 - 3158.785] Cecilia sort of demoed it to me herself
 
-[52:39 - 52:42] and she was explaining to me that the types of, uh,
+[3159.085 - 3162.825] and she was explaining to me that the types of, uh,
 
-[52:42 - 52:46] like quotes and end quotes even like have to be specific
+[3162.855 - 3166.385] like quotes and end quotes even like have to be specific
 
-[52:46 - 52:48] or they consider that a miss in their internal testing.
+[3166.445 - 3168.745] or they consider that a miss in their internal testing.
 
-[52:49 - 52:51] It also, I'm, I'm speaking
+[3169.445 - 3171.465] It also, I'm, I'm speaking
 
-[52:51 - 52:53] to the one tool I use the most obviously,
+[3171.465 - 3173.065] to the one tool I use the most obviously,
 
-[52:53 - 52:55] but it also knows which parts of which prompt to send
+[3173.065 - 3175.865] but it also knows which parts of which prompt to send
 
-[52:55 - 52:59] to which underlying models, which is hugely helpful,
+[3175.885 - 3179.705] to which underlying models, which is hugely helpful,
 
-[52:59 - 53:04] particularly if you're less tech savvy such
+[3179.745 - 3184.505] particularly if you're less tech savvy such
 
-[53:04 - 53:07] as myself, where I'm, I'm not breaking apart tasks,
+[3184.505 - 3187.705] as myself, where I'm, I'm not breaking apart tasks,
 
-[53:07 - 53:10] sending them to different machines
+[3187.705 - 3190.065] sending them to different machines
 
-[53:10 - 53:11] and then aggregating that at the end.
+[3190.065 - 3191.505] and then aggregating that at the end.
 
-[53:11 - 53:15] So it's, it's really, it's a nice one stop shop if you can't
+[3191.525 - 3195.265] So it's, it's really, it's a nice one stop shop if you can't
 
-[53:15 - 53:18] be bothered to get too much into the AI weeds.
+[3195.265 - 3198.025] be bothered to get too much into the AI weeds.
 
 **[Speaker 2]**
 
 
-[53:18 - 53:19] Oh, that's impressive.
+[3198.325 - 3199.425] Oh, that's impressive.
 
-[53:19 - 53:21] Yeah, and, and for folks who may not know,
+[3199.425 - 3201.705] Yeah, and, and for folks who may not know,
 
-[53:21 - 53:25] like some certain like AI models are better than others,
+[3201.705 - 3205.325] like some certain like AI models are better than others,
 
-[53:25 - 53:28] like say at tests or doing contracts, right?
+[3205.395 - 3208.005] like say at tests or doing contracts, right?
 
-[53:28 - 53:31] Like, and so I I, if GCAI is doing
+[3208.075 - 3211.405] Like, and so I I, if GCAI is doing
 
-[53:31 - 53:33] that all in the background kind of automatically,
+[3211.405 - 3213.565] that all in the background kind of automatically,
 
-[53:33 - 53:36] like I think that that is a pretty good value add.
+[3213.595 - 3216.245] like I think that that is a pretty good value add.
 
-[53:36 - 53:39] Wow, that is, that is something I did not know.
+[3216.745 - 3219.165] Wow, that is, that is something I did not know.
 
-[53:39 - 53:41] Thank you Jason. All right, I think we're down
+[3219.165 - 3221.205] Thank you Jason. All right, I think we're down
 
-[53:41 - 53:43] to like the last one or two.
+[3221.205 - 3223.725] to like the last one or two.
 
-[53:44 - 53:47] Um, Alex, uh,
+[3224.625 - 3227.535] Um, Alex, uh,
 
-[53:48 - 53:53] can you talk us through, um, the like, uh,
+[3228.965 - 3233.625] can you talk us through, um, the like, uh,
 
-[53:55 - 53:57] AI replicating legal tasks.
+[3235.185 - 3237.405] AI replicating legal tasks.
 
-[53:57 - 53:59] So how do you think about the future
+[3237.585 - 3239.965] So how do you think about the future
 
-[54:00 - 54:03] of in-house legal work given the increased sophistication
+[3240.105 - 3243.725] of in-house legal work given the increased sophistication
 
-[54:03 - 54:05] of legal AI tools, for example,
+[3243.865 - 3245.645] of legal AI tools, for example,
 
-[54:05 - 54:07] what do you see it looking like in one year,
+[3245.755 - 3247.725] what do you see it looking like in one year,
 
-[54:07 - 54:08] two years, three years?
+[3247.865 - 3248.885] two years, three years?
 
 **[Speaker 3]**
 
 
-[54:09 - 54:14] Yeah, so I am an ai, uh, optimist.
+[3249.715 - 3254.165] Yeah, so I am an ai, uh, optimist.
 
-[54:14 - 54:15] You haven't already been able to tell.
+[3254.505 - 3255.885] You haven't already been able to tell.
 
-[54:16 - 54:18] There are, there are the doomers that think it's gonna like
+[3256.055 - 3258.645] There are, there are the doomers that think it's gonna like
 
-[54:19 - 54:21] end all legal practice or whatnot.
+[3259.265 - 3261.005] end all legal practice or whatnot.
 
-[54:21 - 54:24] I think it's just gonna really augment our legal practice
+[3261.725 - 3264.885] I think it's just gonna really augment our legal practice
 
-[54:24 - 54:26] and make us hopefully make our lives better.
+[3264.885 - 3266.885] and make us hopefully make our lives better.
 
-[54:27 - 54:31] Um, but more likely just make us be able to be
+[3267.425 - 3271.615] Um, but more likely just make us be able to be
 
-[54:32 - 54:33] more efficient, quicker
+[3272.325 - 3273.335] more efficient, quicker
 
-[54:33 - 54:36] and with cheaper services, especially in-house
+[3273.915 - 3276.375] and with cheaper services, especially in-house
 
-[54:36 - 54:37] that since we're not billing that helps.
+[3276.375 - 3277.895] that since we're not billing that helps.
 
-[54:38 - 54:42] Um, with that being said, like
+[3278.755 - 3282.045] Um, with that being said, like
 
-[54:42 - 54:45] G PT five has been on the back burner for a while now
+[3282.645 - 3285.845] G PT five has been on the back burner for a while now
 
-[54:46 - 54:48] and the rumors are that like, when that comes out,
+[3286.345 - 3288.605] and the rumors are that like, when that comes out,
 
-[54:49 - 54:52] it could like wipe the slight clean of a ton
+[3289.385 - 3292.325] it could like wipe the slight clean of a ton
 
-[54:52 - 54:54] of these startups that have started over the last 12
+[3292.325 - 3294.565] of these startups that have started over the last 12
 
-[54:54 - 54:57] to 18 months because it could be
+[3294.625 - 3297.615] to 18 months because it could be
 
-[54:57 - 55:00] so good at knowing user intent that like,
+[3297.635 - 3300.895] so good at knowing user intent that like,
 
-[55:01 - 55:02] you don't remotely have to be good at prompting.
+[3301.155 - 3302.855] you don't remotely have to be good at prompting.
 
-[55:02 - 55:06] You don't need any of these hacks or tweaks or models.
+[3302.855 - 3306.295] You don't need any of these hacks or tweaks or models.
 
-[55:06 - 55:08] It might just be so good at doing that right off the bat
+[3306.395 - 3308.295] It might just be so good at doing that right off the bat
 
-[55:08 - 55:10] that it knows this is a lawyer asking me a
+[3308.295 - 3310.815] that it knows this is a lawyer asking me a
 
-[55:10 - 55:11] question, I should act as a lawyer.
+[3310.895 - 3311.975] question, I should act as a lawyer.
 
-[55:12 - 55:13] I need to, you know,
+[3312.095 - 3313.415] I need to, you know,
 
-[55:13 - 55:15] keep all this con information confidential.
+[3313.645 - 3315.935] keep all this con information confidential.
 
-[55:15 - 55:18] That stuff, who knows what that actually looks like,
+[3315.935 - 3318.175] That stuff, who knows what that actually looks like,
 
-[55:18 - 55:20] but rumors are that that's the case.
+[3318.195 - 3320.215] but rumors are that that's the case.
 
-[55:20 - 55:22] So yeah, a year from now it could totally revolutionize it,
+[3320.235 - 3322.775] So yeah, a year from now it could totally revolutionize it,
 
-[55:22 - 55:25] but I think like a quick, an even if that doesn't happen,
+[3322.995 - 3325.935] but I think like a quick, an even if that doesn't happen,
 
-[55:26 - 55:29] a quick anecdote using like existing technology,
+[3326.095 - 3329.015] a quick anecdote using like existing technology,
 
-[55:29 - 55:33] it's like we two months ago faced, um, you know,
+[3329.685 - 3333.935] it's like we two months ago faced, um, you know,
 
-[55:33 - 55:36] like a pretty regular claim from a departing of employee
+[3333.935 - 3336.935] like a pretty regular claim from a departing of employee
 
-[55:37 - 55:41] that, uh, was like workplace discrimination type stuff
+[3337.805 - 3341.695] that, uh, was like workplace discrimination type stuff
 
-[55:41 - 55:43] basically to keep it as general as possible.
+[3341.695 - 3343.935] basically to keep it as general as possible.
 
-[55:44 - 55:47] And it was going through the EEOC resolution process
+[3344.635 - 3347.815] And it was going through the EEOC resolution process
 
-[55:48 - 55:50] and as part of that, we would've typically
+[3348.635 - 3350.455] and as part of that, we would've typically
 
-[55:50 - 55:51] before had like, you know,
+[3350.455 - 3351.695] before had like, you know,
 
-[55:51 - 55:54] either either leveraged panel counsel provided by an insure
+[3351.695 - 3354.655] either either leveraged panel counsel provided by an insure
 
-[55:54 - 55:56] or just regular outside counsel
+[3354.995 - 3356.335] or just regular outside counsel
 
-[55:56 - 55:59] because I'm certainly not like an employment law expert,
+[3356.565 - 3359.055] because I'm certainly not like an employment law expert,
 
-[56:00 - 56:03] but like using a workflow process, mixing some
+[3360.255 - 3363.675] but like using a workflow process, mixing some
 
-[56:03 - 56:06] of these different models, uh, allowed me
+[3363.675 - 3366.435] of these different models, uh, allowed me
 
-[56:06 - 56:09] to essentially like entirely redraft
+[3366.455 - 3369.075] to essentially like entirely redraft
 
-[56:09 - 56:13] and draft a, a very, very good responsive brief to the EOC
+[3369.075 - 3373.035] and draft a, a very, very good responsive brief to the EOC
 
-[56:13 - 56:16] in three hours, which like I had calculated would probably
+[3373.795 - 3376.735] in three hours, which like I had calculated would probably
 
-[56:16 - 56:20] have taken one, one worth before.
+[3376.735 - 3380.655] have taken one, one worth before.
 
-[56:23 - 56:26] Like I went to perplexity deep research function
+[3383.155 - 3386.525] Like I went to perplexity deep research function
 
-[56:26 - 56:28] and had it like drum up all the law in Texas
+[3386.525 - 3388.685] and had it like drum up all the law in Texas
 
-[56:28 - 56:31] for this specific claim and I quickly site checked it
+[3388.865 - 3391.645] for this specific claim and I quickly site checked it
 
-[56:31 - 56:34] and it was accurate and then I like exported that
+[3391.645 - 3394.165] and it was accurate and then I like exported that
 
-[56:34 - 56:37] as like a PDF and uploaded that to, uh, white Shoe
+[3394.505 - 3397.965] as like a PDF and uploaded that to, uh, white Shoe
 
-[56:37 - 56:39] and also chat GPT
+[3397.985 - 3399.245] and also chat GPT
 
-[56:39 - 56:42] and had like two drafts of a brief telling it to like act
+[3399.245 - 3402.525] and had like two drafts of a brief telling it to like act
 
-[56:42 - 56:45] as an employment law attorney in this area of law, law and o
+[3402.525 - 3405.805] as an employment law attorney in this area of law, law and o
 
-[56:45 - 56:48] and like telling it only to reference this case law so
+[3405.805 - 3408.885] and like telling it only to reference this case law so
 
-[56:48 - 56:50] that it's not going out making up sites.
+[3408.885 - 3410.285] that it's not going out making up sites.
 
-[56:50 - 56:53] It's like this is the, this is the base of knowledge I have
+[3410.315 - 3413.515] It's like this is the, this is the base of knowledge I have
 
-[56:53 - 56:55] to reference in order to craft this brief
+[3413.515 - 3415.155] to reference in order to craft this brief
 
-[56:55 - 56:57] and then told it to like, you know, use Iraq
+[3415.735 - 3417.915] and then told it to like, you know, use Iraq
 
-[56:58 - 56:59] and structure it like that.
+[3418.015 - 3419.595] and structure it like that.
 
-[56:59 - 57:02] Essentially within three hours I had like a pretty
+[3419.945 - 3422.635] Essentially within three hours I had like a pretty
 
-[57:02 - 57:05] incredible brief that would've taken a week to a week
+[3422.635 - 3425.865] incredible brief that would've taken a week to a week
 
-[57:05 - 57:08] and a half and probably thousands of dollars of
+[3425.865 - 3428.505] and a half and probably thousands of dollars of
 
-[57:08 - 57:09] outside counsel spent.
+[3428.505 - 3429.545] outside counsel spent.
 
-[57:10 - 57:12] Um, so like that is currently possible
+[3430.385 - 3432.965] Um, so like that is currently possible
 
-[57:13 - 57:14] and these tools are only gonna get better.
+[3433.025 - 3434.325] and these tools are only gonna get better.
 
-[57:15 - 57:16] I think that's good news for lawyers.
+[3435.265 - 3436.745] I think that's good news for lawyers.
 
 **[Speaker 2]**
 
 
-[57:17 - 57:19] That is so impressive.
+[3437.715 - 3439.365] That is so impressive.
 
-[57:19 - 57:20] Um, I wanna say
+[3439.705 - 3440.765] Um, I wanna say
 
-[57:20 - 57:23] that this conversation today has made it abundantly clear
+[3440.765 - 3443.965] that this conversation today has made it abundantly clear
 
-[57:24 - 57:25] that these tools are here to stay.
+[3444.075 - 3445.845] that these tools are here to stay.
 
-[57:26 - 57:28] Uh, prompting is no longer a niche skill.
+[3446.425 - 3448.965] Uh, prompting is no longer a niche skill.
 
-[57:29 - 57:32] All of these, uh, you know, concept tools, um,
+[3449.625 - 3452.925] All of these, uh, you know, concept tools, um,
 
-[57:32 - 57:34] skills are becoming table stakes.
+[3452.925 - 3454.645] skills are becoming table stakes.
 
-[57:34 - 57:38] And so I wanna give a huge thank you to Alex
+[3454.745 - 3458.205] And so I wanna give a huge thank you to Alex
 
-[57:38 - 57:40] and Jason for giving us their expertise.
+[3458.425 - 3460.885] and Jason for giving us their expertise.
 
-[57:40 - 57:43] There's a lot of takeaways for everyone to have.
+[3460.885 - 3463.165] There's a lot of takeaways for everyone to have.
 
-[57:43 - 57:45] We hope you're leaving, feeling inspired
+[3463.585 - 3465.685] We hope you're leaving, feeling inspired
 
-[57:45 - 57:48] and maybe you'll even try out a few new prompts.
+[3465.985 - 3468.445] and maybe you'll even try out a few new prompts.
 
-[57:48 - 57:49] Thank you everybody.
+[3468.735 - 3469.735] Thank you everybody.
 
 **[Speaker 1]**
 
 
-[57:50 - 57:54] Thanks Tommy, Jason, and Alex for, um, sharing your time
+[3470.995 - 3474.615] Thanks Tommy, Jason, and Alex for, um, sharing your time
 
-[57:54 - 57:56] and your expertise with our group today
+[3474.615 - 3476.095] and your expertise with our group today
 
-[57:56 - 57:59] and, uh, to launch rates for making this event possible.
+[3476.355 - 3479.175] and, uh, to launch rates for making this event possible.
 
-[57:59 - 58:01] Alright, with that everyone, thanks so much for joining
+[3479.175 - 3481.255] Alright, with that everyone, thanks so much for joining
 
-[58:01 - 58:02] and we hope to see you next time.
+[3481.435 - 3482.615] and we hope to see you next time.

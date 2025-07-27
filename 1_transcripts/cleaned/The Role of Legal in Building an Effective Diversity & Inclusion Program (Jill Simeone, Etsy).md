@@ -13,1426 +13,1426 @@
 **[Speaker 0.0]**
 
 
-[00:00 - 00:03] It is my pleasure to welcome Jill Simeon,
+[0.385 - 3.805] It is my pleasure to welcome Jill Simeon,
 
-[00:03 - 00:05] the general counsel of Etsy.
+[3.865 - 5.685] the general counsel of Etsy.
 
-[00:06 - 00:08] I've, um, had the pleasure of hearing her speak
+[6.275 - 8.325] I've, um, had the pleasure of hearing her speak
 
-[00:08 - 00:11] before, so I know that we're in for a real treat today,
+[8.325 - 11.085] before, so I know that we're in for a real treat today,
 
-[00:11 - 00:13] and she's speaking today on diversity
+[11.505 - 13.165] and she's speaking today on diversity
 
-[00:13 - 00:16] and inclusion, which in today's, um, political
+[13.505 - 16.485] and inclusion, which in today's, um, political
 
-[00:16 - 00:20] and legal climate, um, is definitely a hot topic for us
+[16.485 - 20.525] and legal climate, um, is definitely a hot topic for us
 
-[00:20 - 00:21] to be discussing.
+[20.585 - 21.805] to be discussing.
 
-[00:22 - 00:24] And, um, being a,
+[22.505 - 24.125] And, um, being a,
 
-[00:24 - 00:27] a leader in an organization in the general counsel role,
+[24.405 - 27.765] a leader in an organization in the general counsel role,
 
-[00:27 - 00:31] really now is not just something that we, um,
+[27.765 - 31.125] really now is not just something that we, um,
 
-[00:31 - 00:33] that we should be thinking about and being a leader on,
+[31.515 - 33.685] that we should be thinking about and being a leader on,
 
-[00:33 - 00:35] but really something that we must be thinking about
+[33.685 - 35.445] but really something that we must be thinking about
 
-[00:35 - 00:36] and being a leader on.
+[35.505 - 36.565] and being a leader on.
 
-[00:37 - 00:41] So, um, Jill's led the, the legal team, not just at Etsy,
+[37.265 - 41.365] So, um, Jill's led the, the legal team, not just at Etsy,
 
-[00:41 - 00:42] but before that, at some of the largest
+[41.425 - 42.965] but before that, at some of the largest
 
-[00:43 - 00:45] and most recognizable publicly traded companies,
+[43.105 - 45.805] and most recognizable publicly traded companies,
 
-[00:45 - 00:48] and she's going to be sharing her wisdom with us here today.
+[45.905 - 48.205] and she's going to be sharing her wisdom with us here today.
 
-[00:48 - 00:49] Thank you.
+[48.575 - 49.575] Thank you.
 
 **[Speaker 2.0]**
 
 
-[00:56 - 00:59] Hi, everybody. So I'm here before the wine, huh?
+[56.785 - 59.205] Hi, everybody. So I'm here before the wine, huh?
 
-[01:00 - 01:02] Um, are we up there? Yeah.
+[60.545 - 62.485] Um, are we up there? Yeah.
 
-[01:02 - 01:04] So first of all, thank you
+[62.905 - 64.205] So first of all, thank you
 
-[01:04 - 01:07] and thanks, tech juicy for inviting me.
+[64.625 - 67.005] and thanks, tech juicy for inviting me.
 
-[01:07 - 01:10] Um, so I think, uh, first of all, what's Etsy?
+[67.985 - 70.805] Um, so I think, uh, first of all, what's Etsy?
 
-[01:10 - 01:15] We are, um, a homegrown New York, uh,
+[70.805 - 75.125] We are, um, a homegrown New York, uh,
 
-[01:15 - 01:16] tech tech company.
+[75.195 - 76.405] tech tech company.
 
-[01:16 - 01:19] We are a marketplace for unique, um,
+[76.585 - 79.485] We are a marketplace for unique, um,
 
-[01:19 - 01:21] handcrafted vintage goods.
+[79.835 - 81.365] handcrafted vintage goods.
 
-[01:22 - 01:26] And, um, we have pretty unusual stats for a tech company.
+[82.105 - 86.485] And, um, we have pretty unusual stats for a tech company.
 
-[01:26 - 01:28] We have about 2 million active sellers.
+[86.985 - 88.965] We have about 2 million active sellers.
 
-[01:29 - 01:32] Um, more than 87% of them, um,
+[89.385 - 92.045] Um, more than 87% of them, um,
 
-[01:32 - 01:34] of our sellers identify as women.
+[92.425 - 94.405] of our sellers identify as women.
 
-[01:35 - 01:39] Um, we have a 50 50 board gender split, um,
+[95.145 - 99.805] Um, we have a 50 50 board gender split, um,
 
-[01:40 - 01:42] and the number of leaders in our tech, in our tech company,
+[100.025 - 102.485] and the number of leaders in our tech, in our tech company,
 
-[01:42 - 01:44] which is also a little bit unusual, who identifies women,
+[102.485 - 104.325] which is also a little bit unusual, who identifies women,
 
-[01:44 - 01:46] is a little over 52%.
+[104.425 - 106.285] is a little over 52%.
 
-[01:47 - 01:51] And so, uh, that has led to us being a company
+[107.945 - 111.085] And so, uh, that has led to us being a company
 
-[01:51 - 01:53] that's perceived and actually is pretty
+[111.085 - 113.165] that's perceived and actually is pretty
 
-[01:53 - 01:54] good on gender diversity.
+[113.165 - 114.445] good on gender diversity.
 
-[01:55 - 01:59] Um, we have, uh, a generous parental leave, uh, six months,
+[115.305 - 119.525] Um, we have, uh, a generous parental leave, uh, six months,
 
-[01:59 - 02:00] uh, of paid leave,
+[119.945 - 120.965] uh, of paid leave,
 
-[02:00 - 02:02] which I think is probably industry leading.
+[120.965 - 122.645] which I think is probably industry leading.
 
-[02:03 - 02:06] Um, we have, uh, gender neutral bathrooms.
+[123.185 - 126.085] Um, we have, uh, gender neutral bathrooms.
 
-[02:06 - 02:07] We were one of the first companies to do that.
+[126.085 - 127.645] We were one of the first companies to do that.
 
-[02:08 - 02:10] Um, we've done pay equity studies
+[128.305 - 130.365] Um, we've done pay equity studies
 
-[02:10 - 02:12] and we share the results with our board and publicly
+[130.425 - 132.965] and we share the results with our board and publicly
 
-[02:12 - 02:13] and with our employees.
+[132.965 - 133.965] and with our employees.
 
-[02:14 - 02:16] Um, we've done a lot of things
+[134.505 - 136.005] Um, we've done a lot of things
 
-[02:16 - 02:18] that really have focused on, uh, gender equity.
+[136.005 - 138.845] that really have focused on, uh, gender equity.
 
-[02:18 - 02:21] And as a result, um, we've really built a company
+[138.845 - 141.165] And as a result, um, we've really built a company
 
-[02:21 - 02:23] that is a pretty, um, gender balanced workplace.
+[141.165 - 143.925] that is a pretty, um, gender balanced workplace.
 
-[02:25 - 02:27] Um, with our parental leave, we got some notice
+[145.145 - 147.285] Um, with our parental leave, we got some notice
 
-[02:27 - 02:28] for a lot of notice for that.
+[147.345 - 148.565] for a lot of notice for that.
 
-[02:28 - 02:32] Um, we made it, um, applicable to both men and women.
+[148.985 - 152.085] Um, we made it, um, applicable to both men and women.
 
-[02:32 - 02:33] Um, and we wanted, we did that
+[152.545 - 153.725] Um, and we wanted, we did that
 
-[02:33 - 02:35] because we wanted to make sure that there wasn't a knock on
+[153.725 - 155.685] because we wanted to make sure that there wasn't a knock on
 
-[02:35 - 02:37] effect in women taking a leave
+[155.685 - 157.565] effect in women taking a leave
 
-[02:37 - 02:39] and then sort of falling behind in their careers.
+[157.785 - 159.645] and then sort of falling behind in their careers.
 
-[02:39 - 02:42] So both women and men both qualify for six months leave.
+[159.645 - 162.365] So both women and men both qualify for six months leave.
 
-[02:44 - 02:48] And as a result of this very intentional, um, uh,
+[164.225 - 168.805] And as a result of this very intentional, um, uh,
 
-[02:49 - 02:51] efforts in gender balance, having a brand
+[169.075 - 171.525] efforts in gender balance, having a brand
 
-[02:51 - 02:54] that certainly attracts women, brought in a lot of women,
+[171.525 - 174.005] that certainly attracts women, brought in a lot of women,
 
-[02:54 - 02:55] women tend to bring in other women.
+[174.095 - 175.765] women tend to bring in other women.
 
-[02:56 - 02:59] Um, we ended up with a tech company that has, um,
+[176.225 - 179.445] Um, we ended up with a tech company that has, um,
 
-[02:59 - 03:02] and has historically had a, uh,
+[179.785 - 182.125] and has historically had a, uh,
 
-[03:02 - 03:05] pretty impressive gender balanced even more women than men.
+[182.125 - 185.165] pretty impressive gender balanced even more women than men.
 
-[03:07 - 03:08] And even, I suppose you're asking,
+[187.105 - 188.605] And even, I suppose you're asking,
 
-[03:08 - 03:09] well, what about the tech roles?
+[188.605 - 189.685] well, what about the tech roles?
 
-[03:10 - 03:12] Um, even when you double click on the, on the,
+[190.025 - 192.365] Um, even when you double click on the, on the,
 
-[03:12 - 03:15] the tech groups within the company, you'll see
+[192.385 - 195.165] the tech groups within the company, you'll see
 
-[03:15 - 03:17] that there's a pretty high percentage of women there.
+[195.165 - 197.325] that there's a pretty high percentage of women there.
 
-[03:17 - 03:18] There's still further to go,
+[197.525 - 198.685] There's still further to go,
 
-[03:18 - 03:21] but we're certainly ahead of most of our peers.
+[198.985 - 201.125] but we're certainly ahead of most of our peers.
 
-[03:22 - 03:23] But when you dig in,
+[202.705 - 203.765] But when you dig in,
 
-[03:24 - 03:26] and this is one of the questions I asked when I first went
+[204.225 - 206.845] and this is one of the questions I asked when I first went
 
-[03:26 - 03:28] to Etsy in 2017.
+[206.845 - 208.125] to Etsy in 2017.
 
-[03:28 - 03:29] Well, what about everyone else?
+[208.635 - 209.885] Well, what about everyone else?
 
-[03:30 - 03:32] Another picture started to emerge,
+[210.835 - 212.405] Another picture started to emerge,
 
-[03:32 - 03:33] and we had to acknowledge
+[212.505 - 213.565] and we had to acknowledge
 
-[03:33 - 03:35] that while we were doing really great on gender balance
+[213.565 - 215.925] that while we were doing really great on gender balance
 
-[03:36 - 03:38] for a tech company, we weren't really doing
+[216.145 - 218.165] for a tech company, we weren't really doing
 
-[03:38 - 03:40] as well in attracting other groups of people
+[218.225 - 220.525] as well in attracting other groups of people
 
-[03:40 - 03:43] and really focusing on other protected classes.
+[220.865 - 223.045] and really focusing on other protected classes.
 
-[03:46 - 03:48] And so you can see here that there's a, there's a,
+[226.705 - 228.685] And so you can see here that there's a, there's a,
 
-[03:48 - 03:49] there's a big, there's a big gap
+[228.685 - 229.805] there's a big, there's a big gap
 
-[03:49 - 03:51] and a big, a long way to go for, um,
+[229.805 - 231.285] and a big, a long way to go for, um,
 
-[03:51 - 03:52] racial, racial diversity.
+[231.385 - 232.685] racial, racial diversity.
 
-[03:55 - 03:57] And so I wasn't the only one to notice this.
+[235.345 - 237.445] And so I wasn't the only one to notice this.
 
-[03:57 - 03:58] We started be some being suppressed
+[237.445 - 238.845] We started be some being suppressed
 
-[03:58 - 04:01] that Etsy's still a white man and women's world,
+[238.845 - 241.725] that Etsy's still a white man and women's world,
 
-[04:02 - 04:03] and it really was a company
+[242.465 - 243.725] and it really was a company
 
-[04:03 - 04:05] that had a lot of good intentions.
+[243.955 - 245.765] that had a lot of good intentions.
 
-[04:06 - 04:08] Um, we're a company where, um, people really, folk,
+[246.225 - 248.885] Um, we're a company where, um, people really, folk,
 
-[04:08 - 04:11] we did tons of unconscious bias training.
+[248.885 - 251.285] we did tons of unconscious bias training.
 
-[04:11 - 04:13] People were talking a lot about diversity.
+[251.465 - 253.525] People were talking a lot about diversity.
 
-[04:14 - 04:17] People were, um, we were hiring consultants,
+[254.065 - 257.325] People were, um, we were hiring consultants,
 
-[04:17 - 04:20] we were doing studies, and yet we weren't moving the needle.
+[257.345 - 260.205] we were doing studies, and yet we weren't moving the needle.
 
-[04:20 - 04:21] And so the question really was,
+[260.425 - 261.925] And so the question really was,
 
-[04:22 - 04:24] you have a lot of good intentions.
+[262.665 - 264.005] you have a lot of good intentions.
 
-[04:24 - 04:25] People are activated.
+[264.025 - 265.405] People are activated.
 
-[04:25 - 04:27] We weren't debating whether there were virtues of diversity,
+[265.425 - 267.565] We weren't debating whether there were virtues of diversity,
 
-[04:27 - 04:30] whether the diversity was important part of, of our values
+[267.565 - 270.965] whether the diversity was important part of, of our values
 
-[04:31 - 04:32] and important part of the strength of our company,
+[271.185 - 272.965] and important part of the strength of our company,
 
-[04:33 - 04:34] and yet we weren't moving the needle.
+[273.545 - 274.725] and yet we weren't moving the needle.
 
-[04:34 - 04:36] And so the question is, what do you do?
+[274.745 - 276.725] And so the question is, what do you do?
 
-[04:37 - 04:39] How do you, how do you get, how do you get to action?
+[277.145 - 279.565] How do you, how do you get, how do you get to action?
 
-[04:40 - 04:41] And so, at the same time,
+[280.265 - 281.365] And so, at the same time,
 
-[04:41 - 04:44] and this was around 2 20 17, I arrived in January.
+[281.465 - 284.005] and this was around 2 20 17, I arrived in January.
 
-[04:45 - 04:49] Um, s**t happened, uh, Etsy. Etsy had activists.
+[285.145 - 289.925] Um, s**t happened, uh, Etsy. Etsy had activists.
 
-[04:50 - 04:54] And the prevailing narrative then, uh, unfortunately, was
+[290.425 - 294.045] And the prevailing narrative then, uh, unfortunately, was
 
-[04:54 - 04:56] that Etsy had to choose between being a progressive company
+[294.045 - 296.565] that Etsy had to choose between being a progressive company
 
-[04:57 - 04:58] and being a profitable company.
+[297.025 - 298.485] and being a profitable company.
 
-[04:59 - 05:02] And the prevailing attitude was that we needed to stop
+[299.385 - 302.125] And the prevailing attitude was that we needed to stop
 
-[05:02 - 05:03] with the artisanal snacks,
+[302.125 - 303.325] with the artisanal snacks,
 
-[05:03 - 05:05] and we needed to stop, you know, looming
+[303.505 - 305.165] and we needed to stop, you know, looming
 
-[05:05 - 05:07] and having, you know, quirky Halloween parties.
+[305.165 - 307.565] and having, you know, quirky Halloween parties.
 
-[05:07 - 05:09] And we needed to really focus on the bottom line.
+[307.665 - 309.685] And we needed to really focus on the bottom line.
 
-[05:10 - 05:11] And it was really an either or choice.
+[310.025 - 311.765] And it was really an either or choice.
 
-[05:15 - 05:16] And you can, I love deal breaker.
+[315.545 - 316.765] And you can, I love deal breaker.
 
-[05:19 - 05:22] And the, the, the hope of, uh, of deal breaker,
+[319.025 - 322.365] And the, the, the hope of, uh, of deal breaker,
 
-[05:22 - 05:23] and I think others, was that we,
+[322.385 - 323.765] and I think others, was that we,
 
-[05:23 - 05:25] we had made the choice when we were
+[323.865 - 325.165] we had made the choice when we were
 
-[05:25 - 05:26] gonna turn to the dark side.
+[325.165 - 326.325] gonna turn to the dark side.
 
-[05:26 - 05:28] And I love this. Now that they're done trying to do good
+[326.345 - 328.965] And I love this. Now that they're done trying to do good
 
-[05:29 - 05:31] or whatever, Etsy has some actual value.
+[329.025 - 331.965] or whatever, Etsy has some actual value.
 
-[05:33 - 05:37] Um, the good news is that what we realized,
+[333.345 - 337.405] Um, the good news is that what we realized,
 
-[05:37 - 05:38] we had a new CEO
+[337.425 - 338.525] we had a new CEO
 
-[05:38 - 05:42] and he really, um, was very focused on us, uh, figuring out
+[338.705 - 342.805] and he really, um, was very focused on us, uh, figuring out
 
-[05:42 - 05:44] how to be a profitable company.
+[342.805 - 344.005] how to be a profitable company.
 
-[05:44 - 05:46] But he also firmly believed that the values
+[344.065 - 346.245] But he also firmly believed that the values
 
-[05:46 - 05:48] of Etsy were part of what made us great.
+[346.265 - 348.165] of Etsy were part of what made us great.
 
-[05:48 - 05:50] Um, and so that we weren't throwing out the baby
+[348.545 - 350.325] Um, and so that we weren't throwing out the baby
 
-[05:50 - 05:51] with the bath water, and
+[350.325 - 351.605] with the bath water, and
 
-[05:51 - 05:53] that we were really focusing on our business.
+[351.605 - 353.885] that we were really focusing on our business.
 
-[05:53 - 05:56] And a core component of our business was the fact
+[353.885 - 356.365] And a core component of our business was the fact
 
-[05:56 - 05:57] that we were a good, good company, and we didn't have
+[356.365 - 357.925] that we were a good, good company, and we didn't have
 
-[05:57 - 06:00] to choose between being a company that does good
+[357.925 - 360.165] to choose between being a company that does good
 
-[06:00 - 06:01] and being a company that was successful.
+[360.185 - 361.885] and being a company that was successful.
 
-[06:04 - 06:06] And so, at that point, at that, at that sort
+[364.065 - 366.245] And so, at that point, at that, at that sort
 
-[06:06 - 06:08] of pivotal moment, we had to say, you know,
+[366.245 - 368.765] of pivotal moment, we had to say, you know,
 
-[06:08 - 06:10] what does building a diverse workplace
+[368.765 - 370.205] what does building a diverse workplace
 
-[06:10 - 06:11] culture mean for Etsy?
+[370.205 - 371.285] culture mean for Etsy?
 
-[06:11 - 06:12] What is Etsy all about?
+[371.395 - 372.485] What is Etsy all about?
 
-[06:13 - 06:15] And so this began a larger process in the company.
+[373.065 - 375.725] And so this began a larger process in the company.
 
-[06:17 - 06:18] We came up with a new mission,
+[377.145 - 378.325] We came up with a new mission,
 
-[06:18 - 06:21] and we, our new mission is, is to keep commerce human.
+[378.705 - 381.485] and we, our new mission is, is to keep commerce human.
 
-[06:22 - 06:23] And what does that really mean? It means
+[382.145 - 383.485] And what does that really mean? It means
 
-[06:23 - 06:25] that we're a company that's really about human connections.
+[383.485 - 385.525] that we're a company that's really about human connections.
 
-[06:25 - 06:27] And if anyone's ever bought anything on Etsy, you know,
+[385.525 - 387.485] And if anyone's ever bought anything on Etsy, you know,
 
-[06:27 - 06:31] that you're buying from like some quirky Mary Sue in Kansas
+[387.485 - 391.365] that you're buying from like some quirky Mary Sue in Kansas
 
-[06:31 - 06:33] City, and she's gonna, you know, send it with a little note
+[391.435 - 393.845] City, and she's gonna, you know, send it with a little note
 
-[06:34 - 06:35] and maybe a little piece of candy.
+[394.045 - 395.245] and maybe a little piece of candy.
 
-[06:35 - 06:39] And that's like a very human thing in today's modern world.
+[395.665 - 399.085] And that's like a very human thing in today's modern world.
 
-[06:39 - 06:42] Um, I had a friend this past year who, um,
+[399.545 - 402.005] Um, I had a friend this past year who, um,
 
-[06:42 - 06:43] passed away from with breast cancer.
+[402.005 - 403.765] passed away from with breast cancer.
 
-[06:44 - 06:46] I wanted to get something that was very personal
+[404.365 - 406.245] I wanted to get something that was very personal
 
-[06:46 - 06:48] for her family that was related to some fabric.
+[406.425 - 408.325] for her family that was related to some fabric.
 
-[06:48 - 06:51] She designed. I sent the fabric to, um, this woman.
+[408.385 - 411.365] She designed. I sent the fabric to, um, this woman.
 
-[06:51 - 06:53] She designed these very personal and beautiful things.
+[411.385 - 413.845] She designed these very personal and beautiful things.
 
-[06:54 - 06:55] She shared her story of her loss
+[414.105 - 415.725] She shared her story of her loss
 
-[06:55 - 06:57] for a friend with, um, cancer.
+[415.865 - 417.085] for a friend with, um, cancer.
 
-[06:57 - 06:59] And it was the most incredible, um,
+[417.625 - 419.565] And it was the most incredible, um,
 
-[06:59 - 07:01] e-commerce experience I've ever had.
+[419.575 - 421.485] e-commerce experience I've ever had.
 
-[07:01 - 07:04] Um, this is Etsy. Etsy is about the people.
+[421.905 - 424.125] Um, this is Etsy. Etsy is about the people.
 
-[07:04 - 07:05] It's not just about our sellers,
+[424.235 - 425.485] It's not just about our sellers,
 
-[07:05 - 07:07] it's about our employees, it's about our vendors.
+[425.485 - 427.605] it's about our employees, it's about our vendors.
 
-[07:07 - 07:10] It's about the entire ecosystem that we're trying to create.
+[427.635 - 430.085] It's about the entire ecosystem that we're trying to create.
 
-[07:10 - 07:12] So how does that translate?
+[430.985 - 432.365] So how does that translate?
 
-[07:14 - 07:16] And so from there, we built some guiding principles
+[434.025 - 436.205] And so from there, we built some guiding principles
 
-[07:16 - 07:19] and, you know, commit to our craft.
+[436.985 - 439.205] and, you know, commit to our craft.
 
-[07:19 - 07:21] Yes, okay, sure, there's a pun 'cause we're Etsy.
+[439.305 - 441.245] Yes, okay, sure, there's a pun 'cause we're Etsy.
 
-[07:21 - 07:23] But really we're talking about talent
+[441.625 - 443.245] But really we're talking about talent
 
-[07:23 - 07:25] and we're talking about valuing people based on their
+[443.305 - 445.525] and we're talking about valuing people based on their
 
-[07:25 - 07:28] performance, not on perceptions, not on, you know, oh,
+[445.525 - 448.125] performance, not on perceptions, not on, you know, oh,
 
-[07:28 - 07:31] you went to my college, but really focusing on talent
+[448.125 - 451.725] you went to my college, but really focusing on talent
 
-[07:31 - 07:33] and performance, minimizing waste.
+[451.785 - 453.965] and performance, minimizing waste.
 
-[07:34 - 07:36] You'll see in a minute we developed an impact goal
+[454.345 - 456.365] You'll see in a minute we developed an impact goal
 
-[07:36 - 07:39] that was really valuing, um, our, our resources,
+[456.365 - 459.325] that was really valuing, um, our, our resources,
 
-[07:39 - 07:42] embracing differences that goes directly to diversity.
+[459.955 - 462.405] embracing differences that goes directly to diversity.
 
-[07:42 - 07:44] Um, digging deeper, leading with optimism.
+[462.825 - 464.965] Um, digging deeper, leading with optimism.
 
-[07:44 - 07:46] And these guiding principles became
+[464.965 - 466.525] And these guiding principles became
 
-[07:46 - 07:48] how we start talking about things
+[466.585 - 468.045] how we start talking about things
 
-[07:48 - 07:50] and thinking about how we show up at work,
+[468.225 - 470.405] and thinking about how we show up at work,
 
-[07:50 - 07:53] how we treat others, how we value ourselves,
+[470.745 - 473.245] how we treat others, how we value ourselves,
 
-[07:53 - 07:55] and how we make for an equitable workplace.
+[473.345 - 475.325] and how we make for an equitable workplace.
 
-[07:58 - 08:00] Now, as we were building our business goals, one
+[478.005 - 480.305] Now, as we were building our business goals, one
 
-[08:00 - 08:02] of the things our new CEO Josh Silverman said was really,
+[480.305 - 482.545] of the things our new CEO Josh Silverman said was really,
 
-[08:02 - 08:06] we had to, um, we had to focus on fewer things.
+[482.545 - 486.625] we had to, um, we had to focus on fewer things.
 
-[08:07 - 08:09] When he arrived also in 2017,
+[487.135 - 489.265] When he arrived also in 2017,
 
-[08:09 - 08:11] we were doing 20,000 really great things.
+[489.365 - 491.265] we were doing 20,000 really great things.
 
-[08:11 - 08:13] And he said, let's pick 10.
+[491.765 - 493.545] And he said, let's pick 10.
 
-[08:14 - 08:16] What are the most important things to move the needle?
+[494.015 - 496.025] What are the most important things to move the needle?
 
-[08:16 - 08:17] And let's do those things really
+[496.205 - 497.505] And let's do those things really
 
-[08:17 - 08:19] well, and let's measure them.
+[497.535 - 499.225] well, and let's measure them.
 
-[08:19 - 08:21] Let's set KPIs, measure our success,
+[499.235 - 501.585] Let's set KPIs, measure our success,
 
-[08:22 - 08:23] and then we will figure out how
+[502.245 - 503.705] and then we will figure out how
 
-[08:23 - 08:25] to move the needle with 10 things.
+[503.705 - 505.025] to move the needle with 10 things.
 
-[08:25 - 08:28] And that's a hard decision with our impact and social goals.
+[505.205 - 508.985] And that's a hard decision with our impact and social goals.
 
-[08:29 - 08:30] Before 2017, we also,
+[509.045 - 510.625] Before 2017, we also,
 
-[08:30 - 08:32] we were doing a lot of really great things.
+[510.625 - 512.025] we were doing a lot of really great things.
 
-[08:32 - 08:33] We had a million speakers come in.
+[512.025 - 513.545] We had a million speakers come in.
 
-[08:33 - 08:37] We had initiatives, we had, um, lots of, lots of workshops,
+[513.685 - 517.585] We had initiatives, we had, um, lots of, lots of workshops,
 
-[08:37 - 08:38] but we weren't moving the needle.
+[517.765 - 518.945] but we weren't moving the needle.
 
-[08:39 - 08:41] And so also with our impact initiatives,
+[519.045 - 521.145] And so also with our impact initiatives,
 
-[08:41 - 08:43] we decide let's focus on the key things.
+[521.145 - 523.105] we decide let's focus on the key things.
 
-[08:43 - 08:45] What are the most important impact initiatives
+[523.415 - 525.585] What are the most important impact initiatives
 
-[08:45 - 08:46] we can do as Etsy?
+[525.585 - 526.625] we can do as Etsy?
 
-[08:47 - 08:49] And how do we make it not a silo over there,
+[527.125 - 529.305] And how do we make it not a silo over there,
 
-[08:49 - 08:52] but how do we integrate it into our culture so
+[529.645 - 532.625] but how do we integrate it into our culture so
 
-[08:52 - 08:53] that everybody owns these things?
+[532.625 - 533.825] that everybody owns these things?
 
-[08:54 - 08:56] And so we picked three, we wanted
+[534.325 - 536.565] And so we picked three, we wanted
 
-[08:56 - 08:58] to focus on economic impact.
+[536.565 - 538.045] to focus on economic impact.
 
-[08:58 - 08:59] And let's face it, that's our day job.
+[538.225 - 539.765] And let's face it, that's our day job.
 
-[09:00 - 09:03] We provide economic security for 2 million women.
+[540.145 - 543.085] We provide economic security for 2 million women.
 
-[09:03 - 09:04] Most of our businesses are women.
+[543.085 - 544.365] Most of our businesses are women.
 
-[09:04 - 09:07] Their, their businesses are one, and it changes their lives.
+[544.575 - 547.405] Their, their businesses are one, and it changes their lives.
 
-[09:08 - 09:11] We, um, focus on social impact, which is diversity.
+[548.345 - 551.325] We, um, focus on social impact, which is diversity.
 
-[09:11 - 09:13] And in terms of that, we're talking about employees.
+[551.745 - 553.525] And in terms of that, we're talking about employees.
 
-[09:13 - 09:15] We're talking about our brand, we're talking about vendors,
+[553.685 - 555.925] We're talking about our brand, we're talking about vendors,
 
-[09:16 - 09:18] we're talking about our whole Etsy ecosystem.
+[556.295 - 558.245] we're talking about our whole Etsy ecosystem.
 
-[09:18 - 09:21] And then we're talking about ecological impact.
+[558.625 - 561.045] And then we're talking about ecological impact.
 
-[09:21 - 09:23] And that was really what's our carbon footprint
+[561.545 - 563.485] And that was really what's our carbon footprint
 
-[09:23 - 09:25] and what can we do to make it smaller?
+[563.825 - 565.685] and what can we do to make it smaller?
 
-[09:26 - 09:27] Now, I could sit here and
+[566.345 - 567.245] Now, I could sit here and
 
-[09:27 - 09:28] talk to you about all three of these topics.
+[567.245 - 568.365] talk to you about all three of these topics.
 
-[09:28 - 09:31] That's not my topic today. Um, that's for another day.
+[568.365 - 571.165] That's not my topic today. Um, that's for another day.
 
-[09:31 - 09:34] But we, if you wanna look in our, our k we've, we, our 10 K,
+[571.185 - 574.845] But we, if you wanna look in our, our k we've, we, our 10 K,
 
-[09:35 - 09:36] um, we report on all of these
+[575.265 - 576.925] um, we report on all of these
 
-[09:37 - 09:39] and we've really made some goals, um, some,
+[577.145 - 579.125] and we've really made some goals, um, some,
 
-[09:39 - 09:40] some progress on our goals.
+[579.195 - 580.325] some progress on our goals.
 
-[09:44 - 09:46] So really what we're talking about, when you take three
+[584.145 - 586.365] So really what we're talking about, when you take three
 
-[09:46 - 09:49] impact goals and you say they're not separate from your
+[586.905 - 589.325] impact goals and you say they're not separate from your
 
-[09:49 - 09:51] business, when you say they're part
+[589.565 - 591.245] business, when you say they're part
 
-[09:51 - 09:53] of your overall business initiative,
+[591.265 - 593.205] of your overall business initiative,
 
-[09:53 - 09:57] then you're talking about integrating impact,
+[593.675 - 597.485] then you're talking about integrating impact,
 
-[09:57 - 09:59] social impact into your business model.
+[597.485 - 599.805] social impact into your business model.
 
-[10:00 - 10:02] And what we are viewing it as is a flywheel.
+[600.265 - 602.445] And what we are viewing it as is a flywheel.
 
-[10:02 - 10:04] Because if we don't have a diverse workplace,
+[602.445 - 604.605] Because if we don't have a diverse workplace,
 
-[10:04 - 10:07] if we're not hiring vendors that support our values,
+[604.825 - 607.085] if we're not hiring vendors that support our values,
 
-[10:07 - 10:10] if we're, if we're, if we're polluting all over the place,
+[607.705 - 610.085] if we're, if we're, if we're polluting all over the place,
 
-[10:10 - 10:12] if we're not rewarding fairly
+[610.385 - 612.205] if we're not rewarding fairly
 
-[10:12 - 10:14] and equitably, then we're not creating a business
+[612.305 - 614.925] and equitably, then we're not creating a business
 
-[10:14 - 10:16] that's sustainable.
+[614.925 - 616.045] that's sustainable.
 
-[10:16 - 10:19] And by putting them together, everybody owns diversity.
+[616.905 - 619.805] And by putting them together, everybody owns diversity.
 
-[10:19 - 10:22] Everybody owns building an equitable workplace.
+[619.915 - 622.285] Everybody owns building an equitable workplace.
 
-[10:22 - 10:24] And then you start creating a flywheel.
+[622.705 - 624.685] And then you start creating a flywheel.
 
-[10:25 - 10:27] And this is what we saw with women when I started.
+[625.025 - 627.005] And this is what we saw with women when I started.
 
-[10:27 - 10:29] We saw really great talented women coming
+[627.305 - 629.565] We saw really great talented women coming
 
-[10:29 - 10:31] to Etsy naturally because of our brand.
+[629.565 - 631.645] to Etsy naturally because of our brand.
 
-[10:31 - 10:33] And we saw them inviting and,
+[631.985 - 633.445] And we saw them inviting and,
 
-[10:33 - 10:35] and bringing on other talented women.
+[633.465 - 635.205] and bringing on other talented women.
 
-[10:35 - 10:38] And we saw them building a workplace
+[635.385 - 638.005] And we saw them building a workplace
 
-[10:38 - 10:39] that was equitable based on gender,
+[638.005 - 639.765] that was equitable based on gender,
 
-[10:39 - 10:41] and it created a flywheel in which
+[639.865 - 641.565] and it created a flywheel in which
 
-[10:41 - 10:42] that was really successful.
+[641.565 - 642.685] that was really successful.
 
-[10:43 - 10:44] And so what we realized is that we needed
+[643.225 - 644.685] And so what we realized is that we needed
 
-[10:44 - 10:46] to create a flywheel for everybody,
+[644.685 - 646.765] to create a flywheel for everybody,
 
-[10:47 - 10:49] and we needed to create a flywheel in which we were really
+[647.345 - 649.685] and we needed to create a flywheel in which we were really
 
-[10:49 - 10:52] addressing with data how to make Etsy a more diverse
+[649.685 - 652.925] addressing with data how to make Etsy a more diverse
 
-[10:52 - 10:53] and inclusive workplace.
+[652.925 - 653.925] and inclusive workplace.
 
-[10:57 - 10:59] So this is Etsy's, uh, diversity goal
+[657.105 - 659.765] So this is Etsy's, uh, diversity goal
 
-[10:59 - 11:01] to enable equitable access
+[659.985 - 661.405] to enable equitable access
 
-[11:01 - 11:03] to the opportunities that we create.
+[661.405 - 663.165] to the opportunities that we create.
 
-[11:04 - 11:05] It's a pretty broad goal.
+[664.195 - 665.405] It's a pretty broad goal.
 
-[11:05 - 11:09] And we decided that was really our overarching longer term
+[665.705 - 669.525] And we decided that was really our overarching longer term
 
-[11:09 - 11:12] goal, but specifically, we set three sub goals.
+[669.595 - 672.565] goal, but specifically, we set three sub goals.
 
-[11:13 - 11:14] I don't know if you can see that,
+[673.085 - 674.085] I don't know if you can see that,
 
-[11:14 - 11:15] but, um, they're around employees,
+[674.145 - 675.925] but, um, they're around employees,
 
-[11:15 - 11:17] vendors, and the marketplace.
+[675.925 - 677.205] vendors, and the marketplace.
 
-[11:17 - 11:20] And they're really specific goals for employees.
+[677.785 - 680.765] And they're really specific goals for employees.
 
-[11:20 - 11:22] We wanted to double the percentage of black, black
+[680.765 - 682.765] We wanted to double the percentage of black, black
 
-[11:22 - 11:27] and Latinx employees and NCS workforce by 2023 for vendors.
+[682.765 - 687.085] and Latinx employees and NCS workforce by 2023 for vendors.
 
-[11:27 - 11:29] We wanted to focus more on, um, equitable
+[687.185 - 689.885] We wanted to focus more on, um, equitable
 
-[11:29 - 11:30] and sustainable vendors.
+[689.885 - 690.965] and sustainable vendors.
 
-[11:31 - 11:33] Um, and we didn't even have a real,
+[691.545 - 693.645] Um, and we didn't even have a real,
 
-[11:33 - 11:35] I would say a real vendor management system.
+[693.845 - 695.485] I would say a real vendor management system.
 
-[11:35 - 11:37] So there's a lot of infrastructure that would have to happen
+[695.505 - 697.285] So there's a lot of infrastructure that would have to happen
 
-[11:37 - 11:38] to have that to, to get us there.
+[697.425 - 698.765] to have that to, to get us there.
 
-[11:39 - 11:41] Um, and in our marketplace, we wanted
+[699.425 - 701.205] Um, and in our marketplace, we wanted
 
-[11:41 - 11:42] to be more inclusive and welcoming.
+[701.205 - 702.725] to be more inclusive and welcoming.
 
-[11:43 - 11:44] I can't tell you every time I walk into a room
+[703.325 - 704.765] I can't tell you every time I walk into a room
 
-[11:44 - 11:46] and say, I am from Etsy, the women at the table
+[704.765 - 706.765] and say, I am from Etsy, the women at the table
 
-[11:46 - 11:47] say, oh, I love Etsy.
+[706.865 - 707.885] say, oh, I love Etsy.
 
-[11:47 - 11:49] And the men say, oh, my wife likes Etsy.
+[707.885 - 709.605] And the men say, oh, my wife likes Etsy.
 
-[11:50 - 11:52] There's a way for our, there's a way
+[710.635 - 712.045] There's a way for our, there's a way
 
-[11:52 - 11:53] to go on our brand there.
+[712.045 - 713.045] to go on our brand there.
 
-[11:53 - 11:55] Um, and so that was something
+[713.625 - 715.525] Um, and so that was something
 
-[11:55 - 11:57] that's something we've been very consciously focusing on.
+[715.525 - 717.445] that's something we've been very consciously focusing on.
 
-[12:00 - 12:02] So we're all lawyers. And I guess the question is,
+[720.335 - 722.355] So we're all lawyers. And I guess the question is,
 
-[12:02 - 12:03] what's legal supposed to do about all of this?
+[722.455 - 723.995] what's legal supposed to do about all of this?
 
-[12:04 - 12:05] That sounds like a, like a, a pretty big remit.
+[724.025 - 725.995] That sounds like a, like a, a pretty big remit.
 
-[12:06 - 12:08] And the answer is that, um, I
+[726.295 - 728.035] And the answer is that, um, I
 
-[12:08 - 12:09] and my team have been really involved
+[728.035 - 729.795] and my team have been really involved
 
-[12:09 - 12:10] in this entire process.
+[729.795 - 730.915] in this entire process.
 
-[12:12 - 12:14] Um, we've been very involved in advising the business
+[732.095 - 734.995] Um, we've been very involved in advising the business
 
-[12:14 - 12:17] and helping them integrate, um, diversity
+[734.995 - 737.635] and helping them integrate, um, diversity
 
-[12:17 - 12:20] and inclusion into how we do our business every day.
+[737.815 - 740.715] and inclusion into how we do our business every day.
 
-[12:21 - 12:23] And so what we did is we went
+[741.975 - 743.915] And so what we did is we went
 
-[12:23 - 12:26] and we looked at the data, uh, we looked at the data
+[743.915 - 746.915] and we looked at the data, uh, we looked at the data
 
-[12:27 - 12:29] for our, our, our from hr.
+[747.015 - 749.635] for our, our, our from hr.
 
-[12:29 - 12:32] We looked at the data in our advertising,
+[749.695 - 752.035] We looked at the data in our advertising,
 
-[12:32 - 12:34] we looked at the data in pictures on our website,
+[752.255 - 754.995] we looked at the data in pictures on our website,
 
-[12:35 - 12:36] and we said, where are we falling off?
+[755.015 - 756.835] and we said, where are we falling off?
 
-[12:37 - 12:40] How do we begin to address this holistically?
+[757.575 - 760.115] How do we begin to address this holistically?
 
-[12:40 - 12:42] And we started to ask these five questions.
+[760.735 - 762.555] And we started to ask these five questions.
 
-[12:44 - 12:49] There are questions around recruiting, hiring, retaining,
+[764.885 - 769.075] There are questions around recruiting, hiring, retaining,
 
-[12:49 - 12:51] promoting, and measuring.
+[769.465 - 771.355] promoting, and measuring.
 
-[12:51 - 12:53] And I'll go through these one by one.
+[771.655 - 773.075] And I'll go through these one by one.
 
-[12:56 - 12:58] How do you attract a diverse set
+[776.705 - 778.645] How do you attract a diverse set
 
-[12:58 - 13:00] of candidates into your pipeline?
+[778.645 - 780.445] of candidates into your pipeline?
 
-[13:01 - 13:02] One of the things we had to acknowledge was
+[781.225 - 782.725] One of the things we had to acknowledge was
 
-[13:02 - 13:04] that our pipeline was unequal.
+[782.725 - 784.925] that our pipeline was unequal.
 
-[13:04 - 13:06] We were attracting tons and tons of women.
+[784.925 - 786.365] We were attracting tons and tons of women.
 
-[13:07 - 13:08] Um, some of our teams are all women.
+[787.105 - 788.925] Um, some of our teams are all women.
 
-[13:09 - 13:11] Some of our teams are almost all men.
+[789.355 - 791.125] Some of our teams are almost all men.
 
-[13:11 - 13:14] And we weren't really focusing on attracting different ages.
+[791.585 - 794.845] And we weren't really focusing on attracting different ages.
 
-[13:14 - 13:17] We weren't really foc attract, um, focusing on attracting,
+[794.845 - 797.485] We weren't really foc attract, um, focusing on attracting,
 
-[13:17 - 13:19] um, people from different, um,
+[797.745 - 799.085] um, people from different, um,
 
-[13:19 - 13:20] racial and ethnic backgrounds.
+[799.305 - 800.805] racial and ethnic backgrounds.
 
-[13:21 - 13:22] And we were realizing they were falling out
+[801.025 - 802.365] And we were realizing they were falling out
 
-[13:22 - 13:23] of the pipeline at different points
+[802.365 - 803.605] of the pipeline at different points
 
-[13:23 - 13:24] in the recruiting process.
+[803.665 - 804.805] in the recruiting process.
 
-[13:25 - 13:27] So how do we recruit more diversely?
+[805.425 - 807.565] So how do we recruit more diversely?
 
-[13:27 - 13:28] And we looked at the data
+[807.825 - 808.885] And we looked at the data
 
-[13:29 - 13:33] and we were able to set up, um, areas
+[809.145 - 813.205] and we were able to set up, um, areas
 
-[13:33 - 13:34] of focus for different groups.
+[813.305 - 814.485] of focus for different groups.
 
-[13:35 - 13:37] So where do you focus? It's gonna vary from person
+[815.265 - 817.285] So where do you focus? It's gonna vary from person
 
-[13:37 - 13:38] to person, from company to company.
+[817.305 - 818.685] to person, from company to company.
 
-[13:38 - 13:40] It might even vary team to team.
+[818.945 - 820.365] It might even vary team to team.
 
-[13:40 - 13:42] But you can look at your recruiting data
+[820.665 - 822.205] But you can look at your recruiting data
 
-[13:42 - 13:43] and say, where are groups falling off
+[822.225 - 823.885] and say, where are groups falling off
 
-[13:44 - 13:47] and how can we focus our recruiting specifically
+[824.105 - 827.245] and how can we focus our recruiting specifically
 
-[13:48 - 13:49] to target different groups?
+[828.065 - 829.165] to target different groups?
 
-[13:50 - 13:52] We reviewed our recruiting materials.
+[830.465 - 832.125] We reviewed our recruiting materials.
 
-[13:52 - 13:55] We realized, like the first picture I opened up,
+[832.345 - 835.165] We realized, like the first picture I opened up,
 
-[13:55 - 13:57] you saw there's a picture of people crafting in hands.
+[835.165 - 837.005] you saw there's a picture of people crafting in hands.
 
-[13:57 - 14:00] We realized a lot of our pictures, the hands were all white.
+[837.265 - 840.045] We realized a lot of our pictures, the hands were all white.
 
-[14:00 - 14:02] What is that? That sense? A really strong message about
+[840.435 - 842.405] What is that? That sense? A really strong message about
 
-[14:02 - 14:03] who etsy's for.
+[842.405 - 843.445] who etsy's for.
 
-[14:03 - 14:05] So we started looking at our recruiting materials,
+[843.945 - 845.885] So we started looking at our recruiting materials,
 
-[14:05 - 14:08] and we wanted to reflect the diversity of, of the culture.
+[845.885 - 848.805] and we wanted to reflect the diversity of, of the culture.
 
-[14:08 - 14:13] We, we, we wanted to build who's going to job fairs?
+[848.945 - 853.085] We, we, we wanted to build who's going to job fairs?
 
-[14:13 - 14:14] We started asking that question,
+[853.705 - 854.965] We started asking that question,
 
-[14:14 - 14:16] and we realized that the same two, um,
+[854.985 - 856.845] and we realized that the same two, um,
 
-[14:17 - 14:19] people from HR were going to all the job fairs.
+[857.145 - 859.285] people from HR were going to all the job fairs.
 
-[14:19 - 14:22] They didn't represent, they didn't represent diversity, um,
+[859.285 - 862.525] They didn't represent, they didn't represent diversity, um,
 
-[14:22 - 14:24] but they also didn't represent the diversity
+[862.705 - 864.045] but they also didn't represent the diversity
 
-[14:24 - 14:26] of the work in our, in our, in our company.
+[864.105 - 866.445] of the work in our, in our, in our company.
 
-[14:26 - 14:28] And so we started inviting people from different areas,
+[866.705 - 868.725] And so we started inviting people from different areas,
 
-[14:28 - 14:30] people, people who are engineers, people in hr,
+[868.725 - 870.965] people, people who are engineers, people in hr,
 
-[14:31 - 14:32] people in marketing.
+[871.305 - 872.405] people in marketing.
 
-[14:32 - 14:34] And we started presenting a more diverse
+[872.625 - 874.365] And we started presenting a more diverse
 
-[14:34 - 14:35] portfolio of our employees.
+[874.365 - 875.725] portfolio of our employees.
 
-[14:36 - 14:39] How diverse is your brand? What are your ads look like?
+[876.505 - 879.445] How diverse is your brand? What are your ads look like?
 
-[14:39 - 14:42] Who is in them? We have employee resource groups.
+[879.505 - 882.725] Who is in them? We have employee resource groups.
 
-[14:43 - 14:44] We had, we, we turned to them
+[883.225 - 884.365] We had, we, we turned to them
 
-[14:44 - 14:46] and we said, how do you think we should diver, uh,
+[884.365 - 886.965] and we said, how do you think we should diver, uh,
 
-[14:46 - 14:48] diversify our employee population?
+[886.995 - 888.885] diversify our employee population?
 
-[14:48 - 14:50] They had a lot of great ideas.
+[888.995 - 890.125] They had a lot of great ideas.
 
-[14:50 - 14:52] They started attending job fairs.
+[890.555 - 892.245] They started attending job fairs.
 
-[14:52 - 14:55] One of the little caveats with that is that you need
+[892.745 - 895.685] One of the little caveats with that is that you need
 
-[14:55 - 14:58] to be really, really conscious about not relying too much on
+[895.685 - 898.725] to be really, really conscious about not relying too much on
 
-[14:58 - 15:01] your ERGs because they have a full-time job
+[898.725 - 901.445] your ERGs because they have a full-time job
 
-[15:01 - 15:03] and they really wanna be on the track of being an engineer.
+[901.445 - 903.405] and they really wanna be on the track of being an engineer.
 
-[15:03 - 15:05] They don't wanna become a, a second shift
+[903.405 - 905.365] They don't wanna become a, a second shift
 
-[15:06 - 15:07] HR person and a recruiter.
+[906.065 - 907.405] HR person and a recruiter.
 
-[15:07 - 15:10] Um, and so when we, when we engage our ERGs
+[907.825 - 910.645] Um, and so when we, when we engage our ERGs
 
-[15:10 - 15:13] to help us recruit, we really focus on making sure
+[910.645 - 913.125] to help us recruit, we really focus on making sure
 
-[15:13 - 15:14] that their managers on board with that
+[913.125 - 914.765] that their managers on board with that
 
-[15:14 - 15:17] and that they get extra recognition, maybe a little bonus,
+[914.905 - 917.245] and that they get extra recognition, maybe a little bonus,
 
-[15:17 - 15:19] things like that, so that they are rewarded
+[917.245 - 919.285] things like that, so that they are rewarded
 
-[15:19 - 15:21] and they are steamed for that contribution.
+[919.505 - 921.525] and they are steamed for that contribution.
 
-[15:22 - 15:26] We offer referral bonuses and we measure, measure, measure.
+[922.385 - 926.405] We offer referral bonuses and we measure, measure, measure.
 
-[15:26 - 15:30] There is weekly reporting on diversity, hiring statistics,
+[926.405 - 930.125] There is weekly reporting on diversity, hiring statistics,
 
-[15:30 - 15:32] um, to the executive team.
+[930.705 - 932.405] um, to the executive team.
 
-[15:32 - 15:35] That's a lot of focus. And when you measure
+[932.625 - 935.085] That's a lot of focus. And when you measure
 
-[15:35 - 15:36] something, it moves.
+[935.085 - 936.165] something, it moves.
 
-[15:38 - 15:40] So I don't, there's a great ad here,
+[938.625 - 940.205] So I don't, there's a great ad here,
 
-[15:40 - 15:42] which I think it's got PDF and you can't see,
+[940.205 - 942.445] which I think it's got PDF and you can't see,
 
-[15:43 - 15:45] but if you Google it, you'll notice we're gonna have a,
+[943.585 - 945.525] but if you Google it, you'll notice we're gonna have a,
 
-[15:45 - 15:50] we have a big, no, we have a big,
+[945.525 - 950.095] we have a big, no, we have a big,
 
-[15:50 - 15:53] uh, fall and winter holiday ad campaign.
+[950.315 - 953.775] uh, fall and winter holiday ad campaign.
 
-[15:54 - 15:56] And what we did for the first time this year was
+[954.275 - 956.415] And what we did for the first time this year was
 
-[15:56 - 15:59] that we sent, um, people from our diversity
+[956.415 - 959.655] that we sent, um, people from our diversity
 
-[15:59 - 16:02] and inclusion team in HR along to the photo shoot,
+[959.715 - 962.535] and inclusion team in HR along to the photo shoot,
 
-[16:03 - 16:04] and they helped, um,
+[963.355 - 964.735] and they helped, um,
 
-[16:05 - 16:07] pick a more diverse portfolio of actors.
+[965.125 - 967.775] pick a more diverse portfolio of actors.
 
-[16:08 - 16:10] Um, they said like, this setting doesn't seem realistic.
+[968.235 - 970.575] Um, they said like, this setting doesn't seem realistic.
 
-[16:10 - 16:11] This setting seems more realistic.
+[970.575 - 971.895] This setting seems more realistic.
 
-[16:12 - 16:13] And they were there in advising
+[972.235 - 973.535] And they were there in advising
 
-[16:13 - 16:15] and making sure that people felt represented.
+[973.635 - 975.495] and making sure that people felt represented.
 
-[16:15 - 16:19] And the results of the ads are really great hiring,
+[975.515 - 979.495] And the results of the ads are really great hiring,
 
-[16:19 - 16:21] how you ensure that hiring is fair,
+[979.755 - 981.455] how you ensure that hiring is fair,
 
-[16:21 - 16:23] consistent, and inclusive.
+[981.905 - 983.615] consistent, and inclusive.
 
-[16:26 - 16:28] Um, this was a big challenge
+[986.285 - 988.025] Um, this was a big challenge
 
-[16:28 - 16:29] because we'd done a lot of, as I mentioned
+[988.025 - 989.705] because we'd done a lot of, as I mentioned
 
-[16:29 - 16:31] before, we'd done a lot of unconscious bias training.
+[989.705 - 991.745] before, we'd done a lot of unconscious bias training.
 
-[16:32 - 16:34] People were very activated, people were very aware
+[992.165 - 994.625] People were very activated, people were very aware
 
-[16:34 - 16:37] of biases, and yet the numbers for hiring were not moving.
+[994.625 - 997.945] of biases, and yet the numbers for hiring were not moving.
 
-[16:38 - 16:39] Um, and so we, they said,
+[998.565 - 999.705] Um, and so we, they said,
 
-[16:39 - 16:40] well, we just, we just don't know what to do.
+[999.705 - 1000.825] well, we just, we just don't know what to do.
 
-[16:40 - 16:42] How do we, how, what are the tactics?
+[1000.925 - 1002.705] How do we, how, what are the tactics?
 
-[16:43 - 16:45] And so we worked with, um, our employment council,
+[1003.165 - 1005.705] And so we worked with, um, our employment council,
 
-[16:45 - 16:50] and we really, we built a skills rubric for every open rec.
+[1005.805 - 1010.505] and we really, we built a skills rubric for every open rec.
 
-[16:51 - 16:53] And we said, when you go into the interview,
+[1011.445 - 1013.705] And we said, when you go into the interview,
 
-[16:54 - 16:56] we should not be talking about, oh, you're in that sorority.
+[1014.005 - 1016.545] we should not be talking about, oh, you're in that sorority.
 
-[16:56 - 16:57] So am I. Or Oh my gosh,
+[1016.605 - 1017.825] So am I. Or Oh my gosh,
 
-[16:57 - 16:58] you live right near my brother-In-law.
+[1017.825 - 1018.985] you live right near my brother-In-law.
 
-[16:59 - 17:00] We, those are the things that are bias.
+[1019.045 - 1020.745] We, those are the things that are bias.
 
-[17:01 - 17:03] And when people are relating to people they're interviewing
+[1021.525 - 1023.785] And when people are relating to people they're interviewing
 
-[17:03 - 17:06] with through, um, on the basis of things
+[1023.785 - 1026.025] with through, um, on the basis of things
 
-[17:06 - 17:09] that are not skills, that are not requirements for the job,
+[1026.025 - 1029.145] that are not skills, that are not requirements for the job,
 
-[17:09 - 17:10] the result is
+[1029.685 - 1030.865] the result is
 
-[17:10 - 17:11] that you're getting a biased
+[1030.865 - 1031.825] that you're getting a biased
 
-[17:11 - 17:13] influence on the hiring process.
+[1031.825 - 1033.465] influence on the hiring process.
 
-[17:14 - 17:16] When you stick to the skills required for the job,
+[1034.055 - 1036.345] When you stick to the skills required for the job,
 
-[17:16 - 17:18] everybody's getting more or less the same questions
+[1036.455 - 1038.425] everybody's getting more or less the same questions
 
-[17:18 - 17:22] and you're pulling from the entire population of, of,
+[1038.965 - 1042.785] and you're pulling from the entire population of, of,
 
-[17:22 - 17:24] of relevant candidates.
+[1042.965 - 1044.225] of relevant candidates.
 
-[17:24 - 17:27] And you're having a really unbiased process to hire.
+[1044.325 - 1047.505] And you're having a really unbiased process to hire.
 
-[17:28 - 17:30] Um, so we train teams on how to interview.
+[1048.775 - 1050.915] Um, so we train teams on how to interview.
 
-[17:31 - 17:34] We calibrate our hiring decisions to make sure that people
+[1051.615 - 1054.315] We calibrate our hiring decisions to make sure that people
 
-[17:34 - 17:35] who are getting hired for similar jobs
+[1054.315 - 1055.635] who are getting hired for similar jobs
 
-[17:35 - 17:37] are getting similar comp.
+[1055.855 - 1057.035] are getting similar comp.
 
-[17:38 - 17:39] That's a really important thing
+[1058.575 - 1059.915] That's a really important thing
 
-[17:39 - 17:43] because you don't want then somebody to be, you have, uh,
+[1059.915 - 1063.035] because you don't want then somebody to be, you have, uh,
 
-[17:43 - 17:44] hired somebody, you bring them in
+[1063.525 - 1064.875] hired somebody, you bring them in
 
-[17:44 - 17:46] and then they talk to their peer
+[1064.875 - 1066.035] and then they talk to their peer
 
-[17:46 - 17:48] and they realize, oh my gosh, I have a very different comp.
+[1066.215 - 1068.395] and they realize, oh my gosh, I have a very different comp.
 
-[17:49 - 17:51] And sometimes it happens. It happens unconsciously.
+[1069.185 - 1071.925] And sometimes it happens. It happens unconsciously.
 
-[17:52 - 17:54] And if you're not paying attention to it, it leads
+[1072.065 - 1074.325] And if you're not paying attention to it, it leads
 
-[17:54 - 17:57] to somebody leaving the Mansfield Rooney Rule.
+[1074.325 - 1077.405] to somebody leaving the Mansfield Rooney Rule.
 
-[17:57 - 18:00] I don't know. Does anybody have people using that? Yes. No.
+[1077.445 - 1080.325] I don't know. Does anybody have people using that? Yes. No.
 
-[18:00 - 18:04] Yeah, we, um, the Rooney Rule was from the NFL.
+[1080.915 - 1084.485] Yeah, we, um, the Rooney Rule was from the NFL.
 
-[18:04 - 18:06] It, it suggested that you bring in, uh,
+[1084.485 - 1086.365] It, it suggested that you bring in, uh,
 
-[18:06 - 18:08] one diverse candidate to every panel.
+[1086.385 - 1088.245] one diverse candidate to every panel.
 
-[18:08 - 18:10] Um, the Mansfield rule is,
+[1088.625 - 1090.125] Um, the Mansfield rule is,
 
-[18:10 - 18:13] is targeted specifically towards lawyers saying bring in two
+[1090.185 - 1093.045] is targeted specifically towards lawyers saying bring in two
 
-[18:13 - 18:17] or more diverse candidates, um, to every interview panel,
+[1093.045 - 1097.205] or more diverse candidates, um, to every interview panel,
 
-[18:17 - 18:19] um, so that you are more likely to consider them.
+[1097.465 - 1099.925] um, so that you are more likely to consider them.
 
-[18:19 - 18:22] It, it makes you conscious of bringing in a diverse pool.
+[1099.925 - 1102.325] It, it makes you conscious of bringing in a diverse pool.
 
-[18:22 - 18:25] We've been doing this. One of the challenges with this, and,
+[1102.895 - 1105.085] We've been doing this. One of the challenges with this, and,
 
-[18:25 - 18:27] and that we've talking about it with the legal team is
+[1105.085 - 1107.485] and that we've talking about it with the legal team is
 
-[18:27 - 18:29] that people often don't self-identify.
+[1107.485 - 1109.485] that people often don't self-identify.
 
-[18:29 - 18:32] And so we had a situation where people were guessing
+[1109.945 - 1112.325] And so we had a situation where people were guessing
 
-[18:32 - 18:33] what people's backgrounds were,
+[1112.325 - 1113.445] what people's backgrounds were,
 
-[18:33 - 18:35] which is not really a great way of targeting diversity.
+[1113.445 - 1115.805] which is not really a great way of targeting diversity.
 
-[18:35 - 18:38] And then HR is keeping like a secret list, not good.
+[1115.905 - 1118.925] And then HR is keeping like a secret list, not good.
 
-[18:39 - 18:43] Um, so what we did was we started talking more
+[1119.385 - 1123.085] Um, so what we did was we started talking more
 
-[18:43 - 18:45] to the candidates about why we're collecting this data.
+[1123.085 - 1125.245] to the candidates about why we're collecting this data.
 
-[18:45 - 18:46] We're collecting it for good reasons.
+[1125.245 - 1126.485] We're collecting it for good reasons.
 
-[18:46 - 18:48] We, these are our diversity goals.
+[1126.745 - 1128.205] We, these are our diversity goals.
 
-[18:48 - 18:50] We're interested in building a diverse workforce.
+[1128.205 - 1130.205] We're interested in building a diverse workforce.
 
-[18:50 - 18:53] And when you do that, then you start to unlock this problem
+[1130.625 - 1133.605] And when you do that, then you start to unlock this problem
 
-[18:53 - 18:57] of, of people disclosing, um, hiring panel.
+[1133.825 - 1137.845] of, of people disclosing, um, hiring panel.
 
-[18:57 - 18:59] We also realized we were, we would go
+[1137.865 - 1139.365] We also realized we were, we would go
 
-[18:59 - 19:02] and we'd have, we'd be bringing in a diverse can, uh, panel
+[1139.365 - 1142.365] and we'd have, we'd be bringing in a diverse can, uh, panel
 
-[19:02 - 19:04] of candidates, and then we'd look
+[1142.365 - 1144.085] of candidates, and then we'd look
 
-[19:04 - 19:06] and it would be, you know, five, uh,
+[1144.105 - 1146.245] and it would be, you know, five, uh,
 
-[19:06 - 19:07] white guy engineers on the hiring panel.
+[1146.245 - 1147.925] white guy engineers on the hiring panel.
 
-[19:07 - 19:09] We're like, that doesn't even reflect our company.
+[1147.925 - 1149.405] We're like, that doesn't even reflect our company.
 
-[19:09 - 19:11] But it happened, you know, accidentally.
+[1149.505 - 1151.125] But it happened, you know, accidentally.
 
-[19:11 - 19:14] So we're trying to be more conscious about the
+[1151.505 - 1154.245] So we're trying to be more conscious about the
 
-[19:14 - 19:15] diversity of our panels.
+[1154.245 - 1155.405] diversity of our panels.
 
-[19:16 - 19:18] Um, we also work with HR
+[1156.825 - 1158.845] Um, we also work with HR
 
-[19:18 - 19:20] to make it a more hospitable process.
+[1158.845 - 1160.485] to make it a more hospitable process.
 
-[19:20 - 19:22] We make sure that they're aware of what's going on,
+[1160.745 - 1162.645] We make sure that they're aware of what's going on,
 
-[19:22 - 19:24] that they're aware that there's a regular
+[1162.645 - 1164.005] that they're aware that there's a regular
 
-[19:24 - 19:25] process, that they're part of it.
+[1164.005 - 1165.405] process, that they're part of it.
 
-[19:25 - 19:28] Um, and we also maintain an internal pipeline.
+[1165.865 - 1168.645] Um, and we also maintain an internal pipeline.
 
-[19:28 - 19:29] This person was really great.
+[1168.645 - 1169.765] This person was really great.
 
-[19:29 - 19:32] This is a really great candidate, not for this role,
+[1169.765 - 1172.245] This is a really great candidate, not for this role,
 
-[19:32 - 19:35] but we're conscious about just not letting them drop into
+[1172.665 - 1175.165] but we're conscious about just not letting them drop into
 
-[19:35 - 19:37] the endless bucket of like, oh, not this role.
+[1175.165 - 1177.125] the endless bucket of like, oh, not this role.
 
-[19:37 - 19:38] Maybe never. Um,
+[1177.125 - 1178.445] Maybe never. Um,
 
-[19:38 - 19:40] but really when we find a great candidate referring them
+[1178.545 - 1180.885] but really when we find a great candidate referring them
 
-[19:40 - 19:45] for other roles, retaining,
+[1180.885 - 1185.405] for other roles, retaining,
 
-[19:47 - 19:49] Um, we run, we, we do an annual,
+[1187.185 - 1189.485] Um, we run, we, we do an annual,
 
-[19:49 - 19:51] do people here do engagement surveys?
+[1189.585 - 1191.165] do people here do engagement surveys?
 
-[19:52 - 19:54] Yeah, we do a, an engagement survey.
+[1192.355 - 1194.125] Yeah, we do a, an engagement survey.
 
-[19:54 - 19:56] And that's really great for uncovering hotspots.
+[1194.225 - 1196.125] And that's really great for uncovering hotspots.
 
-[19:56 - 19:58] We discover that, oh my gosh, there's a perception
+[1196.125 - 1198.205] We discover that, oh my gosh, there's a perception
 
-[19:58 - 20:00] of unfairness on the X team.
+[1198.205 - 1200.205] of unfairness on the X team.
 
-[20:00 - 20:03] That's something that we really wanna address, or so
+[1200.465 - 1203.085] That's something that we really wanna address, or so
 
-[20:03 - 20:06] and so is a, a manager who is, you know, showing
+[1203.085 - 1206.285] and so is a, a manager who is, you know, showing
 
-[20:06 - 20:07] what appears to be a lot of bias.
+[1206.285 - 1207.525] what appears to be a lot of bias.
 
-[20:08 - 20:11] Um, we do comp surveys to make sure that comp is equitable.
+[1208.265 - 1211.805] Um, we do comp surveys to make sure that comp is equitable.
 
-[20:12 - 20:15] When we do, um, we have set up a mentorship program.
+[1212.035 - 1215.325] When we do, um, we have set up a mentorship program.
 
-[20:15 - 20:17] We focus on the, we've built a vendor,
+[1215.825 - 1217.765] We focus on the, we've built a vendor,
 
-[20:18 - 20:19] um, screening program.
+[1218.185 - 1219.565] um, screening program.
 
-[20:20 - 20:21] So we're not only screening them to make sure
+[1220.025 - 1221.605] So we're not only screening them to make sure
 
-[20:21 - 20:23] that they're not like, you know, drug traffickers
+[1221.605 - 1223.525] that they're not like, you know, drug traffickers
 
-[20:23 - 20:26] or terrorists, but we also ask them like, do you, do you do,
+[1223.525 - 1226.445] or terrorists, but we also ask them like, do you, do you do,
 
-[20:27 - 20:29] um, do you hire diverse, um, employees?
+[1227.225 - 1229.805] um, do you hire diverse, um, employees?
 
-[20:29 - 20:31] Do you train them on sexual harassment?
+[1229.825 - 1231.365] Do you train them on sexual harassment?
 
-[20:31 - 20:33] We wanna make sure that we're working with good vendors.
+[1231.365 - 1233.325] We wanna make sure that we're working with good vendors.
 
-[20:34 - 20:37] Um, we have set up and funded employee resource groups,
+[1234.305 - 1237.165] Um, we have set up and funded employee resource groups,
 
-[20:37 - 20:38] and as I said before, we're making sure
+[1237.165 - 1238.485] and as I said before, we're making sure
 
-[20:38 - 20:39] that we're not overly taxing them.
+[1238.485 - 1239.925] that we're not overly taxing them.
 
-[20:40 - 20:42] Um, we maintain anti-harassment
+[1240.545 - 1242.885] Um, we maintain anti-harassment
 
-[20:42 - 20:45] and non-discrimination policies and training, um,
+[1242.885 - 1245.605] and non-discrimination policies and training, um,
 
-[20:45 - 20:49] and we train managers to handle, uh, sensitive issues.
+[1245.785 - 1249.325] and we train managers to handle, uh, sensitive issues.
 
-[20:49 - 20:50] This has been really interesting.
+[1249.755 - 1250.925] This has been really interesting.
 
-[20:51 - 20:52] We found that the online training
+[1251.025 - 1252.405] We found that the online training
 
-[20:52 - 20:53] didn't really work with managers.
+[1252.405 - 1253.645] didn't really work with managers.
 
-[20:53 - 20:55] 'cause people would come and say, we have a lot
+[1253.845 - 1255.285] 'cause people would come and say, we have a lot
 
-[20:55 - 20:56] of really young managers.
+[1255.285 - 1256.365] of really young managers.
 
-[20:56 - 20:58] And their friend would be like, oh my gosh,
+[1256.905 - 1258.365] And their friend would be like, oh my gosh,
 
-[20:58 - 21:00] I was at the bar last night with like a bunch of, you know,
+[1258.485 - 1260.605] I was at the bar last night with like a bunch of, you know,
 
-[21:00 - 21:02] engineers, and someone was like a little bit handsy
+[1260.765 - 1262.365] engineers, and someone was like a little bit handsy
 
-[21:02 - 21:05] and they would not see that as a report of harassment.
+[1262.425 - 1265.965] and they would not see that as a report of harassment.
 
-[21:06 - 21:08] And they felt like that was their friend,
+[1266.665 - 1268.405] And they felt like that was their friend,
 
-[21:08 - 21:09] even though they're now managing them.
+[1268.405 - 1269.645] even though they're now managing them.
 
-[21:09 - 21:13] And so we really had to train a workforce of young managers
+[1269.785 - 1273.725] And so we really had to train a workforce of young managers
 
-[21:13 - 21:16] to understand when something is a report of harassment
+[1273.725 - 1276.445] to understand when something is a report of harassment
 
-[21:16 - 21:21] or other, other situation and find and, uh, promote.
+[1276.445 - 1281.085] or other, other situation and find and, uh, promote.
 
-[21:21 - 21:23] How do you ensure that promotion processes are fair,
+[1281.105 - 1283.165] How do you ensure that promotion processes are fair,
 
-[21:23 - 21:24] consistent, inclusive?
+[1283.445 - 1284.445] consistent, inclusive?
 
-[21:25 - 21:26] Uh, we've recently completely
+[1285.105 - 1286.485] Uh, we've recently completely
 
-[21:26 - 21:28] overhauled our promotion process.
+[1286.575 - 1288.205] overhauled our promotion process.
 
-[21:28 - 21:32] We do calibrations across the entire, um, org.
+[1288.825 - 1292.085] We do calibrations across the entire, um, org.
 
-[21:32 - 21:37] Um, we, um, talk about diversity, inclusion and promotions.
+[1292.665 - 1297.085] Um, we, um, talk about diversity, inclusion and promotions.
 
-[21:37 - 21:39] We make sure that our promotions don't end up unconsciously
+[1297.085 - 1299.885] We make sure that our promotions don't end up unconsciously
 
-[21:39 - 21:41] having biases in them.
+[1299.885 - 1301.125] having biases in them.
 
-[21:41 - 21:43] We are really focused on paper performance.
+[1301.625 - 1303.925] We are really focused on paper performance.
 
-[21:43 - 21:46] Every role has metrics. Are people meeting them?
+[1303.935 - 1306.125] Every role has metrics. Are people meeting them?
 
-[21:46 - 21:50] They set goals. Um, when I say calibration, everybody who's,
+[1306.125 - 1310.245] They set goals. Um, when I say calibration, everybody who's,
 
-[21:50 - 21:53] um, like an M five across the entire org,
+[1310.265 - 1313.885] um, like an M five across the entire org,
 
-[21:54 - 21:55] they get calibrated
+[1314.155 - 1315.165] they get calibrated
 
-[21:55 - 21:56] to make sure they're getting paid fairly,
+[1315.165 - 1316.405] to make sure they're getting paid fairly,
 
-[21:56 - 22:00] not necessarily the same pay from one, one job, uh, group
+[1316.705 - 1320.045] not necessarily the same pay from one, one job, uh, group
 
-[22:00 - 22:02] to another, but within that job group,
+[1320.065 - 1322.005] to another, but within that job group,
 
-[22:02 - 22:03] are they being paid fairly?
+[1322.025 - 1323.285] are they being paid fairly?
 
-[22:04 - 22:06] Um, you should also think about considering a,
+[1324.225 - 1326.845] Um, you should also think about considering a,
 
-[22:06 - 22:08] a formal sponsorship program.
+[1326.925 - 1328.205] a formal sponsorship program.
 
-[22:08 - 22:10] I know a lot of times in law firms they have that,
+[1328.685 - 1330.325] I know a lot of times in law firms they have that,
 
-[22:10 - 22:11] but oftentimes in companies you don't.
+[1330.325 - 1331.965] but oftentimes in companies you don't.
 
-[22:12 - 22:15] And we've created, um, a lot of ways for their, um,
+[1332.385 - 1335.165] And we've created, um, a lot of ways for their, um,
 
-[22:15 - 22:17] employees to find informal sponsorship within the company.
+[1335.405 - 1337.565] employees to find informal sponsorship within the company.
 
-[22:19 - 22:21] And finally, measuring,
+[1339.885 - 1341.025] And finally, measuring,
 
-[22:21 - 22:23] measuring has really been the key to all of this.
+[1341.025 - 1343.025] measuring has really been the key to all of this.
 
-[22:24 - 22:27] Um, we have set all
+[1344.365 - 1347.785] Um, we have set all
 
-[22:27 - 22:30] of our impact goals, um, publicly.
+[1347.785 - 1350.065] of our impact goals, um, publicly.
 
-[22:30 - 22:31] We've shared them with all of our employees.
+[1350.235 - 1351.865] We've shared them with all of our employees.
 
-[22:32 - 22:33] We've shared them with the board.
+[1352.115 - 1353.305] We've shared them with the board.
 
-[22:33 - 22:37] And then this past year, we took the step of having a, uh,
+[1353.525 - 1357.785] And then this past year, we took the step of having a, uh,
 
-[22:37 - 22:39] integrated annual report.
+[1357.785 - 1359.265] integrated annual report.
 
-[22:40 - 22:43] This means that we have put all our goals into our 10 k,
+[1360.015 - 1363.545] This means that we have put all our goals into our 10 k,
 
-[22:43 - 22:44] our filing with the SEC.
+[1363.545 - 1364.785] our filing with the SEC.
 
-[22:45 - 22:47] Now, before we did that, I said, you know, listen,
+[1365.285 - 1367.065] Now, before we did that, I said, you know, listen,
 
-[22:47 - 22:50] I'm not going to be endorsing this if we are not
+[1367.205 - 1370.105] I'm not going to be endorsing this if we are not
 
-[22:50 - 22:51] sure that these numbers are real.
+[1370.105 - 1371.225] sure that these numbers are real.
 
-[22:51 - 22:53] And so we hired KPMG to help us audit our numbers.
+[1371.565 - 1373.905] And so we hired KPMG to help us audit our numbers.
 
-[22:54 - 22:58] Um, and we, we disclose all of our stats.
+[1374.565 - 1378.425] Um, and we, we disclose all of our stats.
 
-[22:59 - 23:02] Um, and let me tell you, everybody feels ownership of that,
+[1379.005 - 1382.505] Um, and let me tell you, everybody feels ownership of that,
 
-[23:02 - 23:03] just like they feel ownership.
+[1382.505 - 1383.625] just like they feel ownership.
 
-[23:03 - 23:05] And when I said that this was really integrated
+[1383.625 - 1385.265] And when I said that this was really integrated
 
-[23:05 - 23:07] with our business and part of the flywheel,
+[1385.265 - 1387.065] with our business and part of the flywheel,
 
-[23:07 - 23:09] people feel ownership of this as part
+[1387.445 - 1389.745] people feel ownership of this as part
 
-[23:09 - 23:10] of the results of the company.
+[1389.745 - 1390.785] of the results of the company.
 
-[23:10 - 23:12] Everybody owns diversity.
+[1390.935 - 1392.305] Everybody owns diversity.
 
-[23:13 - 23:16] Um, so that may not be for everybody.
+[1393.565 - 1396.185] Um, so that may not be for everybody.
 
-[23:16 - 23:18] I know a lot of people are not part of public companies,
+[1396.305 - 1398.505] I know a lot of people are not part of public companies,
 
-[23:18 - 23:20] but there's a lots, there are lots of ways
+[1398.505 - 1400.225] but there's a lots, there are lots of ways
 
-[23:20 - 23:22] of creating accountability,
+[1400.645 - 1402.025] of creating accountability,
 
-[23:22 - 23:24] shared accountability and disclosing it.
+[1402.365 - 1404.665] shared accountability and disclosing it.
 
-[23:25 - 23:26] And I think if you don't say it out loud
+[1405.085 - 1406.865] And I think if you don't say it out loud
 
-[23:27 - 23:29] and you don't commit to reasonable goals
+[1407.085 - 1409.225] and you don't commit to reasonable goals
 
-[23:29 - 23:31] and you don't measure, you don't get progress.
+[1409.285 - 1411.385] and you don't measure, you don't get progress.
 
-[23:33 - 23:36] So as I said, we, we put, um, all
+[1413.495 - 1416.435] So as I said, we, we put, um, all
 
-[23:36 - 23:38] of this data into our integrator report.
+[1416.435 - 1418.115] of this data into our integrator report.
 
-[23:38 - 23:39] I think you should go check it out.
+[1418.395 - 1419.555] I think you should go check it out.
 
-[23:39 - 23:42] Um, it's, if you go onto a website, you can just look
+[1419.935 - 1422.475] Um, it's, if you go onto a website, you can just look
 
-[23:42 - 23:43] for the 2018 annual report.
+[1422.475 - 1423.835] for the 2018 annual report.
 
-[23:44 - 23:46] It's really unusual. There aren't companies
+[1424.065 - 1426.245] It's really unusual. There aren't companies
 
-[23:46 - 23:47] that are doing this, um,
+[1426.245 - 1427.485] that are doing this, um,
 
-[23:47 - 23:50] unless they've like, you know, killed every penguin in the,
+[1427.485 - 1430.645] unless they've like, you know, killed every penguin in the,
 
-[23:50 - 23:51] the southern hemisphere.
+[1430.645 - 1431.645] the southern hemisphere.
 
-[23:51 - 23:53] Uh, usually that's when they feel pressured
+[1431.905 - 1433.685] Uh, usually that's when they feel pressured
 
-[23:53 - 23:56] to like make some sort of a environmental commitment.
+[1433.685 - 1436.085] to like make some sort of a environmental commitment.
 
-[23:56 - 23:59] Um, I would love to see more companies looking at their
+[1436.385 - 1439.165] Um, I would love to see more companies looking at their
 
-[23:59 - 24:01] impact goals and realizing that being, uh,
+[1439.225 - 1441.965] impact goals and realizing that being, uh,
 
-[24:01 - 24:04] a good company is being a good corporate citizen,
+[1441.965 - 1444.685] a good company is being a good corporate citizen,
 
-[24:05 - 24:06] and that you could do this at any size
+[1445.065 - 1446.565] and that you could do this at any size
 
-[24:06 - 24:10] and it makes you, um, viewed as a
+[1446.905 - 1450.645] and it makes you, um, viewed as a
 
-[24:11 - 24:12] positive corporate citizen, your investors,
+[1451.325 - 1452.765] positive corporate citizen, your investors,
 
-[24:12 - 24:14] your shareholders alike, given,
+[1452.795 - 1454.445] your shareholders alike, given,
 
-[24:14 - 24:16] given the larger environment that we're in.
+[1454.575 - 1456.965] given the larger environment that we're in.
 
-[24:17 - 24:20] Um, I think there is a real support for companies
+[1457.305 - 1460.325] Um, I think there is a real support for companies
 
-[24:20 - 24:22] that are concerned with being good corporate citizens
+[1460.325 - 1462.845] that are concerned with being good corporate citizens
 
-[24:23 - 24:25] and not just, you know, greenwashing,
+[1463.345 - 1465.085] and not just, you know, greenwashing,
 
-[24:25 - 24:26] not just putting out fake intentions,
+[1465.085 - 1466.885] not just putting out fake intentions,
 
-[24:27 - 24:28] but really measuring and moving the needle.
+[1467.065 - 1468.645] but really measuring and moving the needle.
 
-[24:30 - 24:34] And so I guess my key takeaways here are, um,
+[1470.305 - 1474.005] And so I guess my key takeaways here are, um,
 
-[24:34 - 24:37] ask hard questions, uh, dig into the data.
+[1474.345 - 1477.045] ask hard questions, uh, dig into the data.
 
-[24:37 - 24:39] Um, we really found out that where we were,
+[1477.705 - 1479.725] Um, we really found out that where we were,
 
-[24:39 - 24:41] where we were dropping off
+[1479.725 - 1481.005] where we were dropping off
 
-[24:41 - 24:43] and unsuccessful was very obvious once we looked at the
+[1481.005 - 1483.725] and unsuccessful was very obvious once we looked at the
 
-[24:43 - 24:44] numbers and looked at the data.
+[1483.725 - 1484.805] numbers and looked at the data.
 
-[24:45 - 24:49] Um, we built a culture that really, uh, supported diversity
+[1485.545 - 1489.405] Um, we built a culture that really, uh, supported diversity
 
-[24:49 - 24:51] and, and also viewed it as part
+[1489.585 - 1491.805] and, and also viewed it as part
 
-[24:51 - 24:53] of the success of the company.
+[1491.825 - 1493.205] of the success of the company.
 
-[24:53 - 24:56] Having a diverse workforce, having diverse vendors, um,
+[1493.345 - 1496.565] Having a diverse workforce, having diverse vendors, um,
 
-[24:56 - 25:00] supporting our diverse community was really who we are.
+[1496.655 - 1500.245] supporting our diverse community was really who we are.
 
-[25:01 - 25:05] And then finally, divine, uh, define a lifecycle program for
+[1501.265 - 1505.605] And then finally, divine, uh, define a lifecycle program for
 
-[25:06 - 25:08] bringing, um, people into your workforce and your community.
+[1506.285 - 1508.965] bringing, um, people into your workforce and your community.
 
-[25:09 - 25:11] Don't look at it as, as piecemeal, um,
+[1509.175 - 1511.325] Don't look at it as, as piecemeal, um,
 
-[25:11 - 25:13] but really keep, uh, on track of it from,
+[1511.385 - 1513.885] but really keep, uh, on track of it from,
 
-[25:14 - 25:16] from the initial part of trying
+[1514.475 - 1516.125] from the initial part of trying
 
-[25:16 - 25:17] to bring people into the company through
+[1516.125 - 1517.765] to bring people into the company through
 
-[25:18 - 25:19] the whole time that they're there.
+[1518.005 - 1519.085] the whole time that they're there.
 
-[25:20 - 25:23] All of this was not done in a year or a week or an hour.
+[1520.665 - 1523.445] All of this was not done in a year or a week or an hour.
 
-[25:23 - 25:25] All of this has been done over several years,
+[1523.585 - 1525.285] All of this has been done over several years,
 
-[25:25 - 25:28] and it can be scaled to different sizes, but by measuring
+[1525.585 - 1528.845] and it can be scaled to different sizes, but by measuring
 
-[25:29 - 25:31] and reporting and getting people on board,
+[1529.185 - 1531.165] and reporting and getting people on board,
 
-[25:31 - 25:32] you can really move the needle.
+[1531.225 - 1532.285] you can really move the needle.
 
-[25:32 - 25:33] Thank you.
+[1532.655 - 1533.655] Thank you.
 
 **[Speaker 5.0]**
 
 
-[25:40 - 25:43] I think we have time for one question before happy hour
+[1540.005 - 1543.045] I think we have time for one question before happy hour
 
 **[Speaker 2.0]**
 
 
-[25:45 - 25:46] In between you and the wine,
+[1545.465 - 1546.605] In between you and the wine,
 
 **[Speaker 4.0]**
 
 
-[25:54 - 25:58] Um, this really goes to kind of discussions of diversity
+[1554.025 - 1558.525] Um, this really goes to kind of discussions of diversity
 
-[25:58 - 26:01] among your employees, um, either employee forums
+[1558.655 - 1561.565] among your employees, um, either employee forums
 
-[26:01 - 26:03] or engagement groups.
+[1561.825 - 1563.565] or engagement groups.
 
-[26:04 - 26:06] How comfortable are you letting employees kind
+[1564.465 - 1566.845] How comfortable are you letting employees kind
 
-[26:06 - 26:08] of self moderate those conversations?
+[1566.845 - 1568.485] of self moderate those conversations?
 
-[26:08 - 26:12] Or how do you put guardrails in place that ensure
+[1568.505 - 1572.405] Or how do you put guardrails in place that ensure
 
-[26:12 - 26:16] that those conversations remain positive, um,
+[1572.405 - 1576.325] that those conversations remain positive, um,
 
-[26:16 - 26:19] and not just causing additional issues
+[1576.505 - 1579.485] and not just causing additional issues
 
-[26:19 - 26:20] for, for you as the company?
+[1579.545 - 1580.885] for, for you as the company?
 
 **[Speaker 2.0]**
 
 
-[26:22 - 26:24] Yeah, so we have a lot of different ways
+[1582.635 - 1584.445] Yeah, so we have a lot of different ways
 
-[26:24 - 26:26] that we talk about, um, diversity,
+[1584.445 - 1586.685] that we talk about, um, diversity,
 
-[26:26 - 26:28] but also our broader impact goals.
+[1586.785 - 1588.205] but also our broader impact goals.
 
-[26:28 - 26:30] Um, we report on them, um,
+[1588.545 - 1590.325] Um, we report on them, um,
 
-[26:30 - 26:33] quarterly at our our town hall meeting.
+[1590.715 - 1593.725] quarterly at our our town hall meeting.
 
-[26:34 - 26:36] Um, and we have a lot of broad people
+[1594.465 - 1596.805] Um, and we have a lot of broad people
 
-[26:37 - 26:38] involved in different parts of it reporting,
+[1597.365 - 1598.925] involved in different parts of it reporting,
 
-[26:39 - 26:40] and there's a q and a there.
+[1599.025 - 1600.445] and there's a q and a there.
 
-[26:40 - 26:45] Um, we, we provide, um, disclosure on our impact report, um,
+[1600.985 - 1605.925] Um, we, we provide, um, disclosure on our impact report, um,
 
-[26:46 - 26:49] after our, um, engagement survey when topics come up,
+[1606.135 - 1609.685] after our, um, engagement survey when topics come up,
 
-[26:49 - 26:51] we create round tables where people can talk.
+[1609.685 - 1611.805] we create round tables where people can talk.
 
-[26:51 - 26:53] If we feel like if it's a hotspot,
+[1611.945 - 1613.405] If we feel like if it's a hotspot,
 
-[26:53 - 26:54] we will have those moderated
+[1613.505 - 1614.805] we will have those moderated
 
-[26:54 - 26:57] or facilitated, um, not by senior management,
+[1614.805 - 1617.925] or facilitated, um, not by senior management,
 
-[26:57 - 26:59] but by people in the company who are trusted.
+[1617.925 - 1619.445] but by people in the company who are trusted.
 
-[26:59 - 27:01] And we talk to them about how to facilitate it.
+[1619.465 - 1621.605] And we talk to them about how to facilitate it.
 
-[27:02 - 27:05] Um, but we also, what we have come up with is a charter
+[1622.225 - 1625.885] Um, but we also, what we have come up with is a charter
 
-[27:05 - 27:10] of mindful communication, which really is a way of
+[1625.945 - 1630.045] of mindful communication, which really is a way of
 
-[27:10 - 27:12] reframing sometimes questions get asked
+[1630.605 - 1632.085] reframing sometimes questions get asked
 
-[27:12 - 27:13] that are not asked in a really nice way,
+[1632.085 - 1633.525] that are not asked in a really nice way,
 
-[27:13 - 27:15] but if you peel it back, there's a
+[1633.785 - 1635.085] but if you peel it back, there's a
 
-[27:15 - 27:16] really legitimate question there.
+[1635.085 - 1636.125] really legitimate question there.
 
-[27:16 - 27:18] And so by putting up, whenever we have our q
+[1636.585 - 1638.965] And so by putting up, whenever we have our q
 
-[27:18 - 27:20] and a, the charter of mindful communication,
+[1638.965 - 1640.725] and a, the charter of mindful communication,
 
-[27:20 - 27:24] which is like read the room, um, ask, ask questions
+[1640.725 - 1644.125] which is like read the room, um, ask, ask questions
 
-[27:24 - 27:27] that you really want answered, assume best intentions, it's,
+[1644.125 - 1647.005] that you really want answered, assume best intentions, it's,
 
-[27:27 - 27:28] it's, you know, a few basics.
+[1647.005 - 1648.165] it's, you know, a few basics.
 
-[27:28 - 27:32] Um, by doing that, um, people tend to reframe questions
+[1648.385 - 1652.365] Um, by doing that, um, people tend to reframe questions
 
-[27:32 - 27:34] that could start off as hostile into construction,
+[1652.365 - 1654.845] that could start off as hostile into construction,
 
-[27:35 - 27:36] constructive questions, um,
+[1655.245 - 1656.725] constructive questions, um,
 
-[27:36 - 27:38] and other people in the room will call them out on
+[1656.865 - 1658.925] and other people in the room will call them out on
 
-[27:38 - 27:40] it and say, reframe that.
+[1658.925 - 1660.005] it and say, reframe that.
 
-[27:40 - 27:42] Um, and it'll get reframed
+[1660.425 - 1662.085] Um, and it'll get reframed
 
-[27:42 - 27:44] and it leads to a, I think, a pretty healthy dialogue.
+[1662.085 - 1664.485] and it leads to a, I think, a pretty healthy dialogue.
 
-[27:44 - 27:47] What I think is really important is not shutting out avenues
+[1664.915 - 1667.885] What I think is really important is not shutting out avenues
 
-[27:47 - 27:49] where these conversations happen,
+[1667.885 - 1669.125] where these conversations happen,
 
-[27:49 - 27:50] because they'll go underground.
+[1669.155 - 1670.525] because they'll go underground.
 
-[27:50 - 27:53] And I think it's really important to have your, your, um,
+[1670.985 - 1673.725] And I think it's really important to have your, your, um,
 
-[27:54 - 27:56] your finger on the pulse of people's concerns.
+[1674.235 - 1676.765] your finger on the pulse of people's concerns.
 
-[27:57 - 28:01] If there is, um, inequity that's half bubbling up somewhere,
+[1677.265 - 1681.085] If there is, um, inequity that's half bubbling up somewhere,
 
-[28:01 - 28:03] or if people are perceiving that something is unfair,
+[1681.145 - 1683.245] or if people are perceiving that something is unfair,
 
-[28:03 - 28:05] and if you're not open to listening
+[1683.665 - 1685.125] and if you're not open to listening
 
-[28:05 - 28:06] to it, it doesn't go away.
+[1685.125 - 1686.205] to it, it doesn't go away.
 
-[28:06 - 28:09] It gets buried. And then that's when you have, um, you know,
+[1686.785 - 1689.605] It gets buried. And then that's when you have, um, you know,
 
-[28:09 - 28:10] I think you end up with a workforce
+[1689.805 - 1690.805] I think you end up with a workforce
 
-[28:10 - 28:12] that doesn't really feel like you're, it's a,
+[1690.805 - 1692.205] that doesn't really feel like you're, it's a,
 
-[28:12 - 28:14] it's a fair place to work, huh?
+[1692.205 - 1694.045] it's a fair place to work, huh?
 
-[28:14 - 28:16] It used to be. Just Thank you.
+[1694.585 - 1696.325] It used to be. Just Thank you.
 
 **[Speaker 0.0]**
 
 
-[28:22 - 28:23] If you have the opportunity to speak
+[1702.025 - 1703.645] If you have the opportunity to speak
 
-[28:23 - 28:25] with Jill Moore later, um, make sure to ask her
+[1703.645 - 1705.805] with Jill Moore later, um, make sure to ask her
 
-[28:25 - 28:28] for some funny stories about things like, um, refusing
+[1705.805 - 1708.805] for some funny stories about things like, um, refusing
 
-[28:28 - 28:32] to sell Wiccan potions and, um, fake urine.
+[1708.865 - 1712.245] to sell Wiccan potions and, um, fake urine.
 
-[28:35 - 28:38] Um, um, one of my very first responsibilities
+[1715.425 - 1718.605] Um, um, one of my very first responsibilities
 
-[28:38 - 28:41] as a GC almost eight years ago, uh, was actually
+[1718.705 - 1721.805] as a GC almost eight years ago, uh, was actually
 
-[28:41 - 28:44] to help facilitate the transition of one
+[1721.945 - 1724.485] to help facilitate the transition of one
 
-[28:44 - 28:47] of our male engineers, um, from male to female.
+[1724.485 - 1727.405] of our male engineers, um, from male to female.
 
-[28:48 - 28:49] And, um, this was kind of
+[1728.145 - 1729.525] And, um, this was kind of
 
-[28:49 - 28:52] before, it was a more common thing to happen in workplaces,
+[1729.525 - 1732.565] before, it was a more common thing to happen in workplaces,
 
-[28:53 - 28:56] and it was tough to take a leadership role in those kinds
+[1733.025 - 1736.165] and it was tough to take a leadership role in those kinds
 
-[28:56 - 28:58] of conversations, really, um,
+[1736.165 - 1738.565] of conversations, really, um,
 
-[28:59 - 29:01] intense conversations across the organization.
+[1739.515 - 1741.925] intense conversations across the organization.
 
-[29:02 - 29:04] But they are honestly some
+[1742.505 - 1744.085] But they are honestly some
 
-[29:04 - 29:06] of the most memorable conversations of my life.
+[1744.085 - 1746.205] of the most memorable conversations of my life.
 
-[29:06 - 29:09] Like really intense conversations about what does it mean
+[1746.315 - 1749.005] Like really intense conversations about what does it mean
 
-[29:09 - 29:11] to be a man and what does it mean to be a woman.
+[1749.005 - 1751.125] to be a man and what does it mean to be a woman.
 
-[29:11 - 29:15] Um, and I would just really encourage you to lean in to the,
+[1751.865 - 1755.605] Um, and I would just really encourage you to lean in to the,
 
-[29:15 - 29:17] to the leadership role in, um,
+[1755.865 - 1757.765] to the leadership role in, um,
 
-[29:17 - 29:20] facilitating conversations about diversity
+[1757.845 - 1760.325] facilitating conversations about diversity
 
-[29:20 - 29:22] and inclusion in your organizations.
+[1760.465 - 1762.245] and inclusion in your organizations.
 
-[29:23 - 29:26] So we're now gonna have a quick networking break.
+[1763.945 - 1766.645] So we're now gonna have a quick networking break.
 
-[29:27 - 29:30] I understand we'll be followed by some closing remarks from,
+[1767.165 - 1770.285] I understand we'll be followed by some closing remarks from,
 
-[29:30 - 29:31] um, Kieran and Greg
+[1770.345 - 1771.365] um, Kieran and Greg
 
-[29:31 - 29:34] before we go downstairs for the closing bell this afternoon.
+[1771.365 - 1774.005] before we go downstairs for the closing bell this afternoon.
 
-[29:34 - 29:36] And I just wanted to say thank you so much
+[1774.465 - 1776.525] And I just wanted to say thank you so much
 
-[29:36 - 29:38] for letting me spend the day with you today.
+[1776.585 - 1778.365] for letting me spend the day with you today.
