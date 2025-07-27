@@ -32,11 +32,12 @@ Always use UV to run Python scripts:
 # Run any Python script
 uv run python script_name.py
 
-# Examples:
-uv run python transcripts/clean_transcripts.py
-uv run python chunks/generate_chunks.py
-uv run python embeddings/generate_embeddings.py
-uv run python evaluation/evaluate_chunks.py
+# Examples by stage:
+uv run python 1_transcripts/clean_transcripts.py
+uv run python 2_chunks/generate_chunks.py
+uv run python 3_database/generate_embeddings.py
+uv run python 4_labelled_dataset/generate_labels.py
+uv run python 5_evaluation/evaluate_chunks.py
 ```
 
 ## Important Tool Usage
@@ -47,7 +48,46 @@ Always use the `perplexity_ask` tool for web searches instead of other search me
 
 ## Project Architecture
 
-[to be determined]
+### File Organization Structure
+
+The project follows a numbered folder structure where each stage of the pipeline has its own directory. Each folder contains:
+- Raw data files (input)
+- Python scripts for processing
+- Results/output files
+
+```
+chunking-expt/
+├── 0_util/              # Utility functions and shared modules
+│   ├── metrics.py       # Evaluation metrics
+│   └── [other utils]
+├── 1_transcripts/       # Transcript processing stage
+│   ├── raw/             # Raw transcript files (CSVs)
+│   ├── cleaned/         # Cleaned transcript outputs
+│   └── clean_transcripts.py  # Processing script
+├── 2_chunks/            # Chunking stage
+│   ├── raw/             # Input transcripts
+│   ├── chunks/          # Generated chunks output
+│   └── generate_chunks.py    # Chunking script
+├── 3_database/          # Database and embeddings stage
+│   ├── embeddings/      # Generated embeddings
+│   ├── db/              # Vector database files
+│   └── generate_embeddings.py # Embedding script
+├── 4_labelled_dataset/  # Labelled data for evaluation
+│   ├── questions/       # Question-answer pairs
+│   ├── ground_truth/    # Ground truth mappings
+│   └── generate_labels.py    # Labelling script
+└── 5_evaluation/        # Evaluation stage
+    ├── results/         # Evaluation results
+    ├── reports/         # Generated reports
+    └── evaluate_chunks.py    # Evaluation script
+```
+
+### Folder Organization Principles
+
+1. **Numbered Folders**: Each folder is numbered (0-5) to indicate the pipeline order
+2. **Self-Contained**: Each folder contains all inputs, scripts, and outputs for that stage
+3. **Clear Separation**: Raw data, scripts, and results are clearly separated within each folder
+4. **Progressive Pipeline**: Output from one stage becomes input for the next stage
 
 ## General Evaluation Architecture Patterns
 
