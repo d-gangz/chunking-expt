@@ -1,12 +1,17 @@
 ## Relevant Files
 
 - `/3_database/db_fixed_chunks.py` - Main script for embedding generation and database insertion
-- `/3_database/db_fixed_chunks.test.py` - Unit tests for the main database script
 - `/3_database/hybrid_search.py` - Hybrid search implementation with vector and keyword search
-- `/3_database/hybrid_search.test.py` - Unit tests for hybrid search functionality
-- `/3_database/supabase_setup.py` - Supabase client initialization and configuration
-- `/3_database/batch_operations.py` - Batch processing utilities for efficient data insertion
+- `/3_database/supabase_setup.py` - Database setup script for creating tables and indexes
 - `/3_database/embedding_utils.py` - Utilities for OpenAI embedding generation with retry logic
+- `/3_database/enable_pgvector.sql` - SQL script to enable pgvector extension
+- `/3_database/check_pgvector.py` - Script to verify pgvector extension is enabled
+- `/3_database/verify_setup.py` - Database setup verification script
+- `/3_database/hybrid_search_function.sql` - SQL function for hybrid search with RRF
+- `/3_database/test_database_setup.py` - Comprehensive database setup testing
+- `/3_database/run_embedding_pipeline.py` - Pipeline runner with safety checks and cost estimation
+- `/3_database/test_hybrid_search.py` - Test suite for hybrid search functionality
+- `/3_database/quick_validation.py` - Quick validation checks for data integrity
 - `/.env` - Environment variables (OPENAI_API_KEY, SUPABASE_CONNECTION_STRING already present)
 - `/2_chunks/fixed_chunks/chunks/all_chunks_combined.json` - Input data file with chunks
 
@@ -35,8 +40,8 @@
 
 ## Tasks
 
-- [ ] 1.0 Environment Setup and Dependencies
-  - [ ] 1.1 Install required Python packages using uv:
+- [x] 1.0 Environment Setup and Dependencies
+  - [x] 1.1 Install required Python packages using uv:
     ```bash
     uv pip install openai
     uv pip install psycopg2-binary
@@ -45,12 +50,12 @@
     uv pip install tqdm
     uv pip install tiktoken
     ```
-  - [ ] 1.2 Verify .env file contains:
+  - [x] 1.2 Verify .env file contains:
     ```
     OPENAI_API_KEY=your-api-key
     SUPABASE_CONNECTION_STRING=postgresql://postgres:[password]@[host]:[port]/postgres
     ```
-  - [ ] 1.3 Create embedding_utils.py with OpenAI embedding utilities:
+  - [x] 1.3 Create embedding_utils.py with OpenAI embedding utilities:
     ```python
     # Key functions to implement:
     # - create_embeddings_with_retry(): Handle rate limits with exponential backoff
@@ -58,13 +63,13 @@
     # - count_tokens(): Use tiktoken to count tokens before API calls
     # - estimate_cost(): Calculate embedding costs ($0.13/1M tokens)
     ```
-- [ ] 2.0 Database Schema Setup
-  - [ ] 2.1 Guide user to enable pgvector extension in Supabase:
+- [x] 2.0 Database Schema Setup
+  - [x] 2.1 Guide user to enable pgvector extension in Supabase:
     ```
     Instructions: Go to Supabase Dashboard → SQL Editor → Run:
     CREATE EXTENSION IF NOT EXISTS vector;
     ```
-  - [ ] 2.2 Create supabase_setup.py with the following table schema:
+  - [x] 2.2 Create supabase_setup.py with the following table schema:
     ```sql
     CREATE TABLE IF NOT EXISTS fixed_chunks (
         id SERIAL PRIMARY KEY,
@@ -78,7 +83,7 @@
         created_at TIMESTAMP DEFAULT NOW()
     );
     ```
-  - [ ] 2.3 Execute SQL to create indexes:
+  - [x] 2.3 Execute SQL to create indexes:
 
     ```sql
     -- HNSW index for vector search (cosine similarity)
@@ -97,9 +102,9 @@
     ON fixed_chunks (title);
     ```
 
-  - [ ] 2.4 Verify table and indexes using psycopg2 connection test
-- [ ] 3.0 Data Processing Implementation
-  - [ ] 3.1 Implement db_fixed_chunks.py with ChunkEmbedder class:
+  - [x] 2.4 Verify table and indexes using psycopg2 connection test
+- [x] 3.0 Data Processing Implementation
+  - [x] 3.1 Implement db_fixed_chunks.py with ChunkEmbedder class:
     ```python
     class ChunkEmbedder:
         def __init__(self):
@@ -107,23 +112,23 @@
             # Set dimensions=1024 for embeddings
             # Set batch_size=100 for optimal throughput
     ```
-  - [ ] 3.2 Add chunk loading from JSON (exclude 'chunk_id' field as specified)
-  - [ ] 3.3 Implement batch embedding generation:
+  - [x] 3.2 Add chunk loading from JSON (exclude 'chunk_id' field as specified)
+  - [x] 3.3 Implement batch embedding generation:
     ```python
     def generate_embeddings(self, texts: List[str]) -> List[List[float]]:
         # Use OpenAI API: model="text-embedding-3-large", dimensions=1024
         # Process in batches of 100
         # Implement retry logic: wait 5, 10, 20 seconds on rate limit (error 429)
     ```
-  - [ ] 3.4 Create batch insertion with psycopg2.extras.execute_batch:
+  - [x] 3.4 Create batch insertion with psycopg2.extras.execute_batch:
     ```python
     # Use execute_batch for efficient multi-row inserts
     # Batch size: 100 rows per transaction
     # Add proper rollback on errors
     ```
-  - [ ] 3.5 Add progress tracking with tqdm and checkpoint file for resume capability
-- [ ] 4.0 Hybrid Search Implementation
-  - [ ] 4.1 Create RRF-based hybrid search SQL function in Supabase:
+  - [x] 3.5 Add progress tracking with tqdm and checkpoint file for resume capability
+- [x] 4.0 Hybrid Search Implementation
+  - [x] 4.1 Create RRF-based hybrid search SQL function in Supabase:
     ```sql
     CREATE OR REPLACE FUNCTION hybrid_search_fixed_chunks(
         query_text text,
@@ -191,7 +196,7 @@
     END;
     $$;
     ```
-  - [ ] 4.2 Implement hybrid_search.py using psycopg2 with connection string:
+  - [x] 4.2 Implement hybrid_search.py using psycopg2 with connection string:
 
     ```python
     import psycopg2
@@ -211,7 +216,7 @@
             return response.data[0].embedding
     ```
 
-  - [ ] 4.3 Add main search method using direct SQL function call:
+  - [x] 4.3 Add main search method using direct SQL function call:
     ```python
     def search(self, query: str, match_count: int = 20, rrf_k: int = 60) -> List[Dict]:
         # Generate query embedding
@@ -233,7 +238,7 @@
             cur.close()
             conn.close()
     ```
-  - [ ] 4.4 Add example usage and error handling:
+  - [x] 4.4 Add example usage and error handling:
     ```python
     if __name__ == "__main__":
         searcher = HybridSearch()
@@ -247,19 +252,19 @@
             print(f"Title: {result['title']} ({result['cue_start']:.1f}s - {result['cue_end']:.1f}s)")
             print(f"Text preview: {result['text'][:200]}...")
     ```
-- [ ] 5.0 Testing and Validation
-  - [ ] 5.1 Verify database setup:
+- [x] 5.0 Testing and Validation
+  - [x] 5.1 Verify database setup:
     - Check pgvector extension is enabled
     - Confirm fixed_chunks table exists with correct schema
     - Verify all indexes are created (HNSW, GIN, B-tree)
-  - [ ] 5.2 Run the full embedding pipeline:
+  - [x] 5.2 Run the full embedding pipeline:
     - Execute db_fixed_chunks.py on all_chunks_combined.json
     - Monitor for any errors during embedding generation
     - Confirm all chunks are successfully inserted into database
-  - [ ] 5.3 Test hybrid search functionality:
+  - [x] 5.3 Test hybrid search functionality:
     - Run a few sample queries using hybrid_search.py
     - Verify search returns results with reasonable scores
     - Check that search completes within 5 seconds
-  - [ ] 5.4 Quick validation checks:
+  - [x] 5.4 Quick validation checks:
     - Query database to confirm row count matches input chunks
     - Spot check a few embeddings to ensure they have 1024 dimensions
