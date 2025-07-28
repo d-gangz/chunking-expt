@@ -139,7 +139,7 @@ def main():
     
     try:
         # Check if database has data
-        from scripts.db_fixed_chunks import ChunkEmbedder
+        from db_fixed_chunks import ChunkEmbedder
         embedder = ChunkEmbedder()
         chunk_count = embedder.get_chunk_count()
         

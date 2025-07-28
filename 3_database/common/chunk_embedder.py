@@ -10,7 +10,12 @@ from psycopg2.extras import execute_batch
 from typing import List, Dict, Optional
 from tqdm import tqdm
 from dotenv import load_dotenv
-from .embedding_utils import EmbeddingGenerator
+
+# Handle both module and script execution
+try:
+    from .embedding_utils import EmbeddingGenerator
+except ImportError:
+    from embedding_utils import EmbeddingGenerator
 
 load_dotenv()
 
@@ -23,6 +28,10 @@ class ChunkEmbedder:
             table_name: Name of the database table (e.g., "fixed_chunks", "tool_chunks")
             batch_size: Number of chunks to process in each batch (default: 100)
         """
+        # Validate table name to prevent SQL injection
+        if not table_name.replace('_', '').isalnum():
+            raise ValueError(f"Invalid table name: {table_name}. Only alphanumeric characters and underscores allowed.")
+        
         self.table_name = table_name
         self.embedding_generator = EmbeddingGenerator(
             model="text-embedding-3-large",
