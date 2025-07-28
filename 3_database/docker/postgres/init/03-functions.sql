@@ -1,7 +1,7 @@
 -- Hybrid search function for fixed_chunks using Reciprocal Rank Fusion (RRF)
 -- This function combines vector similarity search and full-text search
 -- 
--- To create this function, run this SQL in your Supabase Dashboard SQL Editor
+-- Note: For other chunking strategies, use the generic template and replace table name
 
 CREATE OR REPLACE FUNCTION hybrid_search_fixed_chunks(
     query_text text,
@@ -58,10 +58,10 @@ BEGIN
         COALESCE(s.title, f.title) AS title,
         COALESCE(s.cue_start, f.cue_start) AS cue_start,
         COALESCE(s.cue_end, f.cue_end) AS cue_end,
-        COALESCE(s.similarity, 0) AS similarity_score,
-        COALESCE(f.rank_score, 0) AS fts_score,
-        COALESCE(1.0 / (rrf_k + s.rank), 0) +
-        COALESCE(1.0 / (rrf_k + f.rank), 0) AS hybrid_score
+        COALESCE(s.similarity, 0)::float AS similarity_score,
+        COALESCE(f.rank_score, 0)::float AS fts_score,
+        (COALESCE(1.0 / (rrf_k + s.rank), 0) +
+        COALESCE(1.0 / (rrf_k + f.rank), 0))::float AS hybrid_score
     FROM semantic_search s
     FULL OUTER JOIN fts_search f ON s.id = f.id
     ORDER BY hybrid_score DESC

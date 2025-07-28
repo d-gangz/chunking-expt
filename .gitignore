@@ -40,3 +40,12 @@ build/
 generate-tasks.md
 process-task.md
 create-prd.md
+
+# Database
+*_embedding_checkpoint.json
+*.log
+pg_log/
+
+# Docker volumes (if accidentally created locally)
+postgres_data/
+chunking-expt-postgres-data/
