@@ -46,11 +46,16 @@ uv run python 5_evaluation/evaluate_chunks.py
 
 Always use the `perplexity_ask` tool for web searches instead of other search methods. This provides more accurate and up-to-date information.
 
+### Web links
+
+If user provide web links, always use `WebFetch` to fetch the contents.
+
 ## Project Architecture
 
 ### File Organization Structure
 
 The project follows a numbered folder structure where each stage of the pipeline has its own directory. Each folder contains:
+
 - Raw data files (input)
 - Python scripts for processing
 - Results/output files
