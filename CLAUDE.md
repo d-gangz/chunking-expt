@@ -44,7 +44,7 @@ uv run python 5_evaluation/evaluate_chunks.py
 
 ### Web Searches
 
-Always use the `perplexity_ask` tool for web searches instead of other search methods. This provides more accurate and up-to-date information.
+Always use the `WebSearch` tool for web searches instead of other search methods. This provides more accurate and up-to-date information.
 
 ### Web links
 
