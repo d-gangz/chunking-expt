@@ -56,8 +56,9 @@ def main():
     """Main function to retrieve and save raw chunks."""
     chunks = retrieve_raw_chunks()
     
-    # Save raw data
-    output_path = "/Users/gang/suite-work/chunking-expt/4_labelled_dataset/fixed_chunks/raw_chunks_from_db.json"
+    # Save raw data in the same directory as this script
+    from pathlib import Path
+    output_path = Path(__file__).parent / "raw_chunks_from_db.json"
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(chunks, f, indent=2)
     
