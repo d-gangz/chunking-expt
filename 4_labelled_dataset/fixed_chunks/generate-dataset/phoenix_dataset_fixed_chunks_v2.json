@@ -1,0 +1,3098 @@
+{
+  "metadata": {
+    "generated_at": "2025-07-31T15:28:11.889010",
+    "chunking_method": "fixed_chunks",
+    "matching_strategy": "quote_start_only",
+    "total_entries": 90,
+    "mapping_stats": {
+      "total_questions": 90,
+      "questions_with_mappings": 90,
+      "total_chunks_mapped": 312,
+      "questions_without_mappings": []
+    },
+    "phoenix_format": {
+      "description": "Phoenix-compatible retrieval evaluation dataset (v2 - quote starts only)",
+      "fields": {
+        "query": "The question/input text",
+        "expected": "Array of chunk IDs where quotes BEGIN",
+        "question_id": "Unique identifier for the question",
+        "difficulty": "Question difficulty level",
+        "metadata": "Additional information for analysis"
+      }
+    }
+  },
+  "data": [
+    {
+      "query": "Why is transparency important in legal and business settings?",
+      "expected": [
+        132,
+        133,
+        162,
+        163
+      ],
+      "question_id": "q_001",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Across legal and business contexts, fostering a culture of transparency and trust is repeatedly cited as foundational to ethical conduct, effective compliance, and organizational resilience. Leaders emphasize that transparency not only builds internal trust but also enables organizations to navigate regulatory ambiguity and ethical dilemmas with greater confidence.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 132,
+            "quote_preview": "One is trust through transparency. Um, and so I think when we think about being transparent, um, tha..."
+          },
+          {
+            "chunk_id": 133,
+            "quote_preview": "One is trust through transparency. Um, and so I think when we think about being transparent, um, tha..."
+          },
+          {
+            "chunk_id": 162,
+            "quote_preview": "We built a culture that really, uh, supported diversity and, and also viewed it as part of the succe..."
+          },
+          {
+            "chunk_id": 163,
+            "quote_preview": "We built a culture that really, uh, supported diversity and, and also viewed it as part of the succe..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How does cultivating a culture of transparency contribute to organizational compliance and resilience?",
+      "expected": [
+        132,
+        133,
+        162,
+        163
+      ],
+      "question_id": "q_002",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Across legal and business contexts, fostering a culture of transparency and trust is repeatedly cited as foundational to ethical conduct, effective compliance, and organizational resilience. Leaders emphasize that transparency not only builds internal trust but also enables organizations to navigate regulatory ambiguity and ethical dilemmas with greater confidence.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 132,
+            "quote_preview": "One is trust through transparency. Um, and so I think when we think about being transparent, um, tha..."
+          },
+          {
+            "chunk_id": 133,
+            "quote_preview": "One is trust through transparency. Um, and so I think when we think about being transparent, um, tha..."
+          },
+          {
+            "chunk_id": 162,
+            "quote_preview": "We built a culture that really, uh, supported diversity and, and also viewed it as part of the succe..."
+          },
+          {
+            "chunk_id": 163,
+            "quote_preview": "We built a culture that really, uh, supported diversity and, and also viewed it as part of the succe..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways can leadership-driven transparency help organizations address both regulatory uncertainty and ethical challenges while strengthening internal trust?",
+      "expected": [
+        132,
+        133,
+        162,
+        163
+      ],
+      "question_id": "q_003",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Across legal and business contexts, fostering a culture of transparency and trust is repeatedly cited as foundational to ethical conduct, effective compliance, and organizational resilience. Leaders emphasize that transparency not only builds internal trust but also enables organizations to navigate regulatory ambiguity and ethical dilemmas with greater confidence.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 132,
+            "quote_preview": "One is trust through transparency. Um, and so I think when we think about being transparent, um, tha..."
+          },
+          {
+            "chunk_id": 133,
+            "quote_preview": "One is trust through transparency. Um, and so I think when we think about being transparent, um, tha..."
+          },
+          {
+            "chunk_id": 162,
+            "quote_preview": "We built a culture that really, uh, supported diversity and, and also viewed it as part of the succe..."
+          },
+          {
+            "chunk_id": 163,
+            "quote_preview": "We built a culture that really, uh, supported diversity and, and also viewed it as part of the succe..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What challenge do legal professionals face when their ethical standards differ from their organization's risk culture?",
+      "expected": [
+        120,
+        121,
+        143,
+        144
+      ],
+      "question_id": "q_004",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal professionals across industries face the challenge of balancing their own ethical standards with the risk appetite and culture of their organizations, especially in rapidly evolving or ambiguous regulatory environments. This tension requires both self-awareness and the courage to escalate or even exit when alignment cannot be achieved.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 120,
+            "quote_preview": "You have to assess your own standards and your own comfort level in terms of what you're willing to ..."
+          },
+          {
+            "chunk_id": 121,
+            "quote_preview": "You have to assess your own standards and your own comfort level in terms of what you're willing to ..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "Make sure that if your appetite for risk doesn't align with the company, then you either find an alt..."
+          },
+          {
+            "chunk_id": 144,
+            "quote_preview": "Make sure that if your appetite for risk doesn't align with the company, then you either find an alt..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How should legal counsel navigate conflicts between personal ethics and organizational risk tolerance in uncertain regulatory landscapes?",
+      "expected": [
+        120,
+        121,
+        143,
+        144
+      ],
+      "question_id": "q_005",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal professionals across industries face the challenge of balancing their own ethical standards with the risk appetite and culture of their organizations, especially in rapidly evolving or ambiguous regulatory environments. This tension requires both self-awareness and the courage to escalate or even exit when alignment cannot be achieved.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 120,
+            "quote_preview": "You have to assess your own standards and your own comfort level in terms of what you're willing to ..."
+          },
+          {
+            "chunk_id": 121,
+            "quote_preview": "You have to assess your own standards and your own comfort level in terms of what you're willing to ..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "Make sure that if your appetite for risk doesn't align with the company, then you either find an alt..."
+          },
+          {
+            "chunk_id": 144,
+            "quote_preview": "Make sure that if your appetite for risk doesn't align with the company, then you either find an alt..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways might evolving compliance environments test a lawyer\u2019s ability to reconcile internal values with external business pressures, and what actions might be necessary if alignment proves impossible?",
+      "expected": [
+        120,
+        121,
+        143,
+        144
+      ],
+      "question_id": "q_006",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal professionals across industries face the challenge of balancing their own ethical standards with the risk appetite and culture of their organizations, especially in rapidly evolving or ambiguous regulatory environments. This tension requires both self-awareness and the courage to escalate or even exit when alignment cannot be achieved.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 120,
+            "quote_preview": "You have to assess your own standards and your own comfort level in terms of what you're willing to ..."
+          },
+          {
+            "chunk_id": 121,
+            "quote_preview": "You have to assess your own standards and your own comfort level in terms of what you're willing to ..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "Make sure that if your appetite for risk doesn't align with the company, then you either find an alt..."
+          },
+          {
+            "chunk_id": 144,
+            "quote_preview": "Make sure that if your appetite for risk doesn't align with the company, then you either find an alt..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How is AI changing the legal profession, and what precautions should be taken?",
+      "expected": [
+        25,
+        26
+      ],
+      "question_id": "q_007",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The integration of AI into legal workflows is transforming the profession, but experts caution that AI should be treated as a co-intelligence or junior associate\u2014useful for efficiency and idea generation, but always requiring human oversight and verification, especially given the risks of hallucinated outputs and data privacy concerns.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 25,
+            "quote_preview": "I'd say first like, treat AI as a co intelligence. Um, he projects that like within five years human..."
+          },
+          {
+            "chunk_id": 26,
+            "quote_preview": "I'd say first like, treat AI as a co intelligence. Um, he projects that like within five years human..."
+          }
+        ],
+        "total_chunks_mapped": 2
+      }
+    },
+    {
+      "query": "In what ways should legal teams position AI tools within their workflow to balance efficiency with risk management?",
+      "expected": [
+        25,
+        26
+      ],
+      "question_id": "q_008",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The integration of AI into legal workflows is transforming the profession, but experts caution that AI should be treated as a co-intelligence or junior associate\u2014useful for efficiency and idea generation, but always requiring human oversight and verification, especially given the risks of hallucinated outputs and data privacy concerns.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 25,
+            "quote_preview": "I'd say first like, treat AI as a co intelligence. Um, he projects that like within five years human..."
+          },
+          {
+            "chunk_id": 26,
+            "quote_preview": "I'd say first like, treat AI as a co intelligence. Um, he projects that like within five years human..."
+          }
+        ],
+        "total_chunks_mapped": 2
+      }
+    },
+    {
+      "query": "Considering the dual benefits and risks of AI in legal practice, how might firms structure oversight protocols to address issues like hallucinated outputs and data privacy while leveraging AI for idea generation?",
+      "expected": [
+        25,
+        26
+      ],
+      "question_id": "q_009",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The integration of AI into legal workflows is transforming the profession, but experts caution that AI should be treated as a co-intelligence or junior associate\u2014useful for efficiency and idea generation, but always requiring human oversight and verification, especially given the risks of hallucinated outputs and data privacy concerns.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 25,
+            "quote_preview": "I'd say first like, treat AI as a co intelligence. Um, he projects that like within five years human..."
+          },
+          {
+            "chunk_id": 26,
+            "quote_preview": "I'd say first like, treat AI as a co intelligence. Um, he projects that like within five years human..."
+          }
+        ],
+        "total_chunks_mapped": 2
+      }
+    },
+    {
+      "query": "How should board governance change as a company grows?",
+      "expected": [
+        68,
+        69,
+        78,
+        79
+      ],
+      "question_id": "q_010",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Effective board governance evolves with company maturity, requiring a shift from founder/investor-driven boards to more independent, diverse, and strategically skilled boards as organizations approach public company status or major inflection points. Early planning, clear competency matrices, and staged transitions are critical to avoid last-minute scrambles and to meet regulatory and investor expectations.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 68,
+            "quote_preview": "You start out as a, a newly formed company with a founder, two founders, they're on the board, and, ..."
+          },
+          {
+            "chunk_id": 69,
+            "quote_preview": "You start out as a, a newly formed company with a founder, two founders, they're on the board, and, ..."
+          },
+          {
+            "chunk_id": 78,
+            "quote_preview": "For a lot of you, you are later stage private companies and, uh, the preparation for going public ne..."
+          },
+          {
+            "chunk_id": 79,
+            "quote_preview": "For a lot of you, you are later stage private companies and, uh, the preparation for going public ne..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What steps can organizations take to ensure their board composition aligns with public company readiness and stakeholder expectations?",
+      "expected": [
+        68,
+        69,
+        78,
+        79
+      ],
+      "question_id": "q_011",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Effective board governance evolves with company maturity, requiring a shift from founder/investor-driven boards to more independent, diverse, and strategically skilled boards as organizations approach public company status or major inflection points. Early planning, clear competency matrices, and staged transitions are critical to avoid last-minute scrambles and to meet regulatory and investor expectations.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 68,
+            "quote_preview": "You start out as a, a newly formed company with a founder, two founders, they're on the board, and, ..."
+          },
+          {
+            "chunk_id": 69,
+            "quote_preview": "You start out as a, a newly formed company with a founder, two founders, they're on the board, and, ..."
+          },
+          {
+            "chunk_id": 78,
+            "quote_preview": "For a lot of you, you are later stage private companies and, uh, the preparation for going public ne..."
+          },
+          {
+            "chunk_id": 79,
+            "quote_preview": "For a lot of you, you are later stage private companies and, uh, the preparation for going public ne..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways does proactive board evolution, including competency mapping and staged transitions, mitigate risks associated with late-stage governance restructuring before an IPO or major milestone?",
+      "expected": [
+        68,
+        69,
+        78,
+        79
+      ],
+      "question_id": "q_012",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Effective board governance evolves with company maturity, requiring a shift from founder/investor-driven boards to more independent, diverse, and strategically skilled boards as organizations approach public company status or major inflection points. Early planning, clear competency matrices, and staged transitions are critical to avoid last-minute scrambles and to meet regulatory and investor expectations.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 68,
+            "quote_preview": "You start out as a, a newly formed company with a founder, two founders, they're on the board, and, ..."
+          },
+          {
+            "chunk_id": 69,
+            "quote_preview": "You start out as a, a newly formed company with a founder, two founders, they're on the board, and, ..."
+          },
+          {
+            "chunk_id": 78,
+            "quote_preview": "For a lot of you, you are later stage private companies and, uh, the preparation for going public ne..."
+          },
+          {
+            "chunk_id": 79,
+            "quote_preview": "For a lot of you, you are later stage private companies and, uh, the preparation for going public ne..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "Why is communication important when managing employee equity?",
+      "expected": [
+        40,
+        41,
+        45,
+        46
+      ],
+      "question_id": "q_013",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Communication and education are essential in managing employee equity, especially during periods of market volatility or IPO preparation. Companies that proactively educate employees about equity, 409A valuations, and liquidity options foster trust and reduce confusion, while those that neglect communication risk employee dissatisfaction and misaligned expectations.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 40,
+            "quote_preview": "The thing from The General Counsel see that you all face and realizes when the 49a goes up. Everyone..."
+          },
+          {
+            "chunk_id": 41,
+            "quote_preview": "The thing from The General Counsel see that you all face and realizes when the 49a goes up. Everyone..."
+          },
+          {
+            "chunk_id": 45,
+            "quote_preview": "So we had three sets of trainings that we did and we offered them repeatedly like Ad nauseam, so we ..."
+          },
+          {
+            "chunk_id": 46,
+            "quote_preview": "So we had three sets of trainings that we did and we offered them repeatedly like Ad nauseam, so we ..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How can proactive education about 409A valuations and liquidity options impact employee sentiment during IPO preparation?",
+      "expected": [
+        40,
+        41,
+        45,
+        46
+      ],
+      "question_id": "q_014",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Communication and education are essential in managing employee equity, especially during periods of market volatility or IPO preparation. Companies that proactively educate employees about equity, 409A valuations, and liquidity options foster trust and reduce confusion, while those that neglect communication risk employee dissatisfaction and misaligned expectations.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 40,
+            "quote_preview": "The thing from The General Counsel see that you all face and realizes when the 49a goes up. Everyone..."
+          },
+          {
+            "chunk_id": 41,
+            "quote_preview": "The thing from The General Counsel see that you all face and realizes when the 49a goes up. Everyone..."
+          },
+          {
+            "chunk_id": 45,
+            "quote_preview": "So we had three sets of trainings that we did and we offered them repeatedly like Ad nauseam, so we ..."
+          },
+          {
+            "chunk_id": 46,
+            "quote_preview": "So we had three sets of trainings that we did and we offered them repeatedly like Ad nauseam, so we ..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways might insufficient communication around equity compensation contribute to organizational challenges during periods of market uncertainty?",
+      "expected": [
+        40,
+        41,
+        45,
+        46
+      ],
+      "question_id": "q_015",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Communication and education are essential in managing employee equity, especially during periods of market volatility or IPO preparation. Companies that proactively educate employees about equity, 409A valuations, and liquidity options foster trust and reduce confusion, while those that neglect communication risk employee dissatisfaction and misaligned expectations.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 40,
+            "quote_preview": "The thing from The General Counsel see that you all face and realizes when the 49a goes up. Everyone..."
+          },
+          {
+            "chunk_id": 41,
+            "quote_preview": "The thing from The General Counsel see that you all face and realizes when the 49a goes up. Everyone..."
+          },
+          {
+            "chunk_id": 45,
+            "quote_preview": "So we had three sets of trainings that we did and we offered them repeatedly like Ad nauseam, so we ..."
+          },
+          {
+            "chunk_id": 46,
+            "quote_preview": "So we had three sets of trainings that we did and we offered them repeatedly like Ad nauseam, so we ..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What makes diversity and inclusion initiatives most effective in organizations?",
+      "expected": [
+        151,
+        152,
+        160,
+        161
+      ],
+      "question_id": "q_016",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Diversity and inclusion initiatives are most effective when integrated into core business strategy, measured with clear KPIs, and owned by all levels of the organization\u2014not siloed as HR or legal projects. Data-driven approaches, public accountability, and leadership buy-in are key to moving beyond good intentions to real progress.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 151,
+            "quote_preview": "So really what we're talking about, when you take three impact goals and you say they're not separat..."
+          },
+          {
+            "chunk_id": 152,
+            "quote_preview": "So really what we're talking about, when you take three impact goals and you say they're not separat..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How can companies ensure their D&I efforts drive measurable business outcomes rather than remain isolated HR programs?",
+      "expected": [
+        151,
+        152,
+        160,
+        161
+      ],
+      "question_id": "q_017",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Diversity and inclusion initiatives are most effective when integrated into core business strategy, measured with clear KPIs, and owned by all levels of the organization\u2014not siloed as HR or legal projects. Data-driven approaches, public accountability, and leadership buy-in are key to moving beyond good intentions to real progress.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 151,
+            "quote_preview": "So really what we're talking about, when you take three impact goals and you say they're not separat..."
+          },
+          {
+            "chunk_id": 152,
+            "quote_preview": "So really what we're talking about, when you take three impact goals and you say they're not separat..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways do leadership engagement, data-driven metrics, and cross-functional ownership contribute to the transformation of diversity and inclusion from aspirational goals to tangible organizational change?",
+      "expected": [
+        151,
+        152,
+        160,
+        161
+      ],
+      "question_id": "q_018",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Diversity and inclusion initiatives are most effective when integrated into core business strategy, measured with clear KPIs, and owned by all levels of the organization\u2014not siloed as HR or legal projects. Data-driven approaches, public accountability, and leadership buy-in are key to moving beyond good intentions to real progress.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 151,
+            "quote_preview": "So really what we're talking about, when you take three impact goals and you say they're not separat..."
+          },
+          {
+            "chunk_id": 152,
+            "quote_preview": "So really what we're talking about, when you take three impact goals and you say they're not separat..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What roles do legal and compliance leaders play in organizations?",
+      "expected": [
+        134,
+        135,
+        137,
+        138
+      ],
+      "question_id": "q_019",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal and compliance leaders must often act as both ethical beacons and pragmatic business partners, using real-world examples and relatable language to drive home the importance of ethical conduct and regulatory compliance across the organization. This dual role is especially critical in high-growth or high-risk sectors.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 134,
+            "quote_preview": "A couple very practical suggestions. Once, one, I'd give the same scared straight compliance present..."
+          },
+          {
+            "chunk_id": 135,
+            "quote_preview": "A couple very practical suggestions. Once, one, I'd give the same scared straight compliance present..."
+          },
+          {
+            "chunk_id": 137,
+            "quote_preview": "But I think the other thing to, um, move to the, to the front of the conversation and, and to keep i..."
+          },
+          {
+            "chunk_id": 138,
+            "quote_preview": "But I think the other thing to, um, move to the, to the front of the conversation and, and to keep i..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How can legal and compliance leaders effectively promote ethical conduct and compliance in high-growth or high-risk industries?",
+      "expected": [
+        134,
+        135,
+        137,
+        138
+      ],
+      "question_id": "q_020",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal and compliance leaders must often act as both ethical beacons and pragmatic business partners, using real-world examples and relatable language to drive home the importance of ethical conduct and regulatory compliance across the organization. This dual role is especially critical in high-growth or high-risk sectors.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 134,
+            "quote_preview": "A couple very practical suggestions. Once, one, I'd give the same scared straight compliance present..."
+          },
+          {
+            "chunk_id": 135,
+            "quote_preview": "A couple very practical suggestions. Once, one, I'd give the same scared straight compliance present..."
+          },
+          {
+            "chunk_id": 137,
+            "quote_preview": "But I think the other thing to, um, move to the, to the front of the conversation and, and to keep i..."
+          },
+          {
+            "chunk_id": 138,
+            "quote_preview": "But I think the other thing to, um, move to the, to the front of the conversation and, and to keep i..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways does the dual responsibility of being both an ethical guide and a business partner influence the communication strategies of compliance leaders, particularly in rapidly expanding or risk-prone sectors?",
+      "expected": [
+        134,
+        135,
+        137,
+        138
+      ],
+      "question_id": "q_021",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal and compliance leaders must often act as both ethical beacons and pragmatic business partners, using real-world examples and relatable language to drive home the importance of ethical conduct and regulatory compliance across the organization. This dual role is especially critical in high-growth or high-risk sectors.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 134,
+            "quote_preview": "A couple very practical suggestions. Once, one, I'd give the same scared straight compliance present..."
+          },
+          {
+            "chunk_id": 135,
+            "quote_preview": "A couple very practical suggestions. Once, one, I'd give the same scared straight compliance present..."
+          },
+          {
+            "chunk_id": 137,
+            "quote_preview": "But I think the other thing to, um, move to the, to the front of the conversation and, and to keep i..."
+          },
+          {
+            "chunk_id": 138,
+            "quote_preview": "But I think the other thing to, um, move to the, to the front of the conversation and, and to keep i..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How is AI changing the way legal professionals work?",
+      "expected": [
+        2,
+        3,
+        4
+      ],
+      "question_id": "q_022",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The rise of AI in legal practice is driving a shift from traditional legal research and drafting to prompt engineering, critical evaluation of outputs, and tool selection. Legal teams are increasingly expected to develop prompt libraries, leverage specialized legal AI tools, and maintain a 'trust but verify' approach to all AI-generated work.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 4,
+            "quote_preview": "The framework I think about for creating prompts is entirely stolen from, um, a book that came out l..."
+          },
+          {
+            "chunk_id": 2,
+            "quote_preview": "Trust but verify Trust, but verify..."
+          },
+          {
+            "chunk_id": 3,
+            "quote_preview": "Trust but verify Trust, but verify..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "What new competencies are legal teams expected to develop as AI becomes more prevalent in legal practice?",
+      "expected": [
+        2,
+        3,
+        4
+      ],
+      "question_id": "q_023",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The rise of AI in legal practice is driving a shift from traditional legal research and drafting to prompt engineering, critical evaluation of outputs, and tool selection. Legal teams are increasingly expected to develop prompt libraries, leverage specialized legal AI tools, and maintain a 'trust but verify' approach to all AI-generated work.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 4,
+            "quote_preview": "The framework I think about for creating prompts is entirely stolen from, um, a book that came out l..."
+          },
+          {
+            "chunk_id": 2,
+            "quote_preview": "Trust but verify Trust, but verify..."
+          },
+          {
+            "chunk_id": 3,
+            "quote_preview": "Trust but verify Trust, but verify..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "In what ways does the integration of AI tools necessitate a shift in both workflow and quality assurance strategies for legal departments?",
+      "expected": [
+        2,
+        3,
+        4
+      ],
+      "question_id": "q_024",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The rise of AI in legal practice is driving a shift from traditional legal research and drafting to prompt engineering, critical evaluation of outputs, and tool selection. Legal teams are increasingly expected to develop prompt libraries, leverage specialized legal AI tools, and maintain a 'trust but verify' approach to all AI-generated work.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 4,
+            "quote_preview": "The framework I think about for creating prompts is entirely stolen from, um, a book that came out l..."
+          },
+          {
+            "chunk_id": 2,
+            "quote_preview": "Trust but verify Trust, but verify..."
+          },
+          {
+            "chunk_id": 3,
+            "quote_preview": "Trust but verify Trust, but verify..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "Why is it important for companies to align their values and mission with legal and ethical decisions?",
+      "expected": [
+        131,
+        132,
+        149,
+        150
+      ],
+      "question_id": "q_025",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders repeatedly stress the importance of aligning company values, mission, and North Star with legal and ethical decision-making, especially in ambiguous or unregulated areas. This alignment not only guides internal conduct but also strengthens external credibility and stakeholder trust.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 131,
+            "quote_preview": "I think your primary job as GC is what is the ethos of the company? Mm-Hmm. Like a hundred percent y..."
+          },
+          {
+            "chunk_id": 132,
+            "quote_preview": "I think your primary job as GC is what is the ethos of the company? Mm-Hmm. Like a hundred percent y..."
+          },
+          {
+            "chunk_id": 149,
+            "quote_preview": "And what does that really mean? It means that we're a company that's really about human connections...."
+          },
+          {
+            "chunk_id": 150,
+            "quote_preview": "And what does that really mean? It means that we're a company that's really about human connections...."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How does integrating a company's North Star into legal and ethical frameworks impact stakeholder trust and organizational credibility?",
+      "expected": [
+        131,
+        132,
+        149,
+        150
+      ],
+      "question_id": "q_026",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders repeatedly stress the importance of aligning company values, mission, and North Star with legal and ethical decision-making, especially in ambiguous or unregulated areas. This alignment not only guides internal conduct but also strengthens external credibility and stakeholder trust.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 131,
+            "quote_preview": "I think your primary job as GC is what is the ethos of the company? Mm-Hmm. Like a hundred percent y..."
+          },
+          {
+            "chunk_id": 132,
+            "quote_preview": "I think your primary job as GC is what is the ethos of the company? Mm-Hmm. Like a hundred percent y..."
+          },
+          {
+            "chunk_id": 149,
+            "quote_preview": "And what does that really mean? It means that we're a company that's really about human connections...."
+          },
+          {
+            "chunk_id": 150,
+            "quote_preview": "And what does that really mean? It means that we're a company that's really about human connections...."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In situations lacking clear regulation, what role does the alignment of internal guiding principles with decision-making play in shaping both internal behavior and external perceptions?",
+      "expected": [
+        131,
+        132,
+        149,
+        150
+      ],
+      "question_id": "q_027",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders repeatedly stress the importance of aligning company values, mission, and North Star with legal and ethical decision-making, especially in ambiguous or unregulated areas. This alignment not only guides internal conduct but also strengthens external credibility and stakeholder trust.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 131,
+            "quote_preview": "I think your primary job as GC is what is the ethos of the company? Mm-Hmm. Like a hundred percent y..."
+          },
+          {
+            "chunk_id": 132,
+            "quote_preview": "I think your primary job as GC is what is the ethos of the company? Mm-Hmm. Like a hundred percent y..."
+          },
+          {
+            "chunk_id": 149,
+            "quote_preview": "And what does that really mean? It means that we're a company that's really about human connections...."
+          },
+          {
+            "chunk_id": 150,
+            "quote_preview": "And what does that really mean? It means that we're a company that's really about human connections...."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What should a company focus on when transitioning from private to public status?",
+      "expected": [
+        53,
+        54,
+        96
+      ],
+      "question_id": "q_028",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The transition from private to public company status requires not only technical legal and financial preparation but also a cultural shift in governance, information flow, and board composition. Early adoption of public company practices, such as formal delegation of authority and secure board portals, can smooth this transition and reduce risk.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 53,
+            "quote_preview": "I think the form effort tonight, just a couple things. One, well, I have some questions that I can p..."
+          },
+          {
+            "chunk_id": 54,
+            "quote_preview": "I think the form effort tonight, just a couple things. One, well, I have some questions that I can p..."
+          },
+          {
+            "chunk_id": 96,
+            "quote_preview": "Yeah, so Meredith, I I have a couple thoughts. I mean they're, in terms of which one to use, I think..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "How can early implementation of public company governance practices mitigate risks during an IPO process?",
+      "expected": [
+        53,
+        54,
+        96
+      ],
+      "question_id": "q_029",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The transition from private to public company status requires not only technical legal and financial preparation but also a cultural shift in governance, information flow, and board composition. Early adoption of public company practices, such as formal delegation of authority and secure board portals, can smooth this transition and reduce risk.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 53,
+            "quote_preview": "I think the form effort tonight, just a couple things. One, well, I have some questions that I can p..."
+          },
+          {
+            "chunk_id": 54,
+            "quote_preview": "I think the form effort tonight, just a couple things. One, well, I have some questions that I can p..."
+          },
+          {
+            "chunk_id": 96,
+            "quote_preview": "Yeah, so Meredith, I I have a couple thoughts. I mean they're, in terms of which one to use, I think..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "In what ways do changes in board structure and information management contribute to a smoother private-to-public transition, and why is cultural adaptation important?",
+      "expected": [
+        53,
+        54,
+        96
+      ],
+      "question_id": "q_030",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The transition from private to public company status requires not only technical legal and financial preparation but also a cultural shift in governance, information flow, and board composition. Early adoption of public company practices, such as formal delegation of authority and secure board portals, can smooth this transition and reduce risk.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 53,
+            "quote_preview": "I think the form effort tonight, just a couple things. One, well, I have some questions that I can p..."
+          },
+          {
+            "chunk_id": 54,
+            "quote_preview": "I think the form effort tonight, just a couple things. One, well, I have some questions that I can p..."
+          },
+          {
+            "chunk_id": 96,
+            "quote_preview": "Yeah, so Meredith, I I have a couple thoughts. I mean they're, in terms of which one to use, I think..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "What are some best practices for using AI in legal departments?",
+      "expected": [
+        14,
+        15,
+        29,
+        30
+      ],
+      "question_id": "q_031",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Guardrails and best practices for AI use in legal departments are evolving, but common themes include anonymizing sensitive data, using enterprise accounts with strong InfoSec protections, and maintaining human review for privileged or high-risk matters. The risk of inadvertent data exposure or privilege waiver is a persistent concern.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 14,
+            "quote_preview": "one of the guardrails that my team, uh, is a bare minimum is that if we're using a public tool like ..."
+          },
+          {
+            "chunk_id": 15,
+            "quote_preview": "one of the guardrails that my team, uh, is a bare minimum is that if we're using a public tool like ..."
+          },
+          {
+            "chunk_id": 29,
+            "quote_preview": "Yeah, the easy answer is I don't get comfortable and I haven't, we, we've honestly been trying to re..."
+          },
+          {
+            "chunk_id": 30,
+            "quote_preview": "Yeah, the easy answer is I don't get comfortable and I haven't, we, we've honestly been trying to re..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How can legal teams mitigate risks like data exposure and privilege waiver when implementing AI tools?",
+      "expected": [
+        14,
+        15,
+        29,
+        30
+      ],
+      "question_id": "q_032",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Guardrails and best practices for AI use in legal departments are evolving, but common themes include anonymizing sensitive data, using enterprise accounts with strong InfoSec protections, and maintaining human review for privileged or high-risk matters. The risk of inadvertent data exposure or privilege waiver is a persistent concern.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 14,
+            "quote_preview": "one of the guardrails that my team, uh, is a bare minimum is that if we're using a public tool like ..."
+          },
+          {
+            "chunk_id": 15,
+            "quote_preview": "one of the guardrails that my team, uh, is a bare minimum is that if we're using a public tool like ..."
+          },
+          {
+            "chunk_id": 29,
+            "quote_preview": "Yeah, the easy answer is I don't get comfortable and I haven't, we, we've honestly been trying to re..."
+          },
+          {
+            "chunk_id": 30,
+            "quote_preview": "Yeah, the easy answer is I don't get comfortable and I haven't, we, we've honestly been trying to re..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In the context of evolving AI governance, what safeguards should legal departments prioritize to balance innovation with confidentiality and compliance concerns?",
+      "expected": [
+        14,
+        15,
+        29,
+        30
+      ],
+      "question_id": "q_033",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Guardrails and best practices for AI use in legal departments are evolving, but common themes include anonymizing sensitive data, using enterprise accounts with strong InfoSec protections, and maintaining human review for privileged or high-risk matters. The risk of inadvertent data exposure or privilege waiver is a persistent concern.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 14,
+            "quote_preview": "one of the guardrails that my team, uh, is a bare minimum is that if we're using a public tool like ..."
+          },
+          {
+            "chunk_id": 15,
+            "quote_preview": "one of the guardrails that my team, uh, is a bare minimum is that if we're using a public tool like ..."
+          },
+          {
+            "chunk_id": 29,
+            "quote_preview": "Yeah, the easy answer is I don't get comfortable and I haven't, we, we've honestly been trying to re..."
+          },
+          {
+            "chunk_id": 30,
+            "quote_preview": "Yeah, the easy answer is I don't get comfortable and I haven't, we, we've honestly been trying to re..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "Why is trust important in legal and business relationships?",
+      "expected": [
+        115,
+        142,
+        143
+      ],
+      "question_id": "q_034",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Building and maintaining trust with business partners and clients is a recurring theme in both legal ethics and business success. Trust is not only foundational for effective legal advice but also for ensuring that information flows freely, enabling proactive risk management and ethical decision-making.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 115,
+            "quote_preview": "I think that from my perspective, the most important thing I do when I start a new role, um, is real..."
+          },
+          {
+            "chunk_id": 142,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "How does establishing trust facilitate proactive risk management and ethical decision-making in professional settings?",
+      "expected": [
+        115,
+        142,
+        143
+      ],
+      "question_id": "q_035",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Building and maintaining trust with business partners and clients is a recurring theme in both legal ethics and business success. Trust is not only foundational for effective legal advice but also for ensuring that information flows freely, enabling proactive risk management and ethical decision-making.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 115,
+            "quote_preview": "I think that from my perspective, the most important thing I do when I start a new role, um, is real..."
+          },
+          {
+            "chunk_id": 142,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "In what ways does the interplay between legal ethics and business success hinge on the cultivation of trust to support open communication and effective counsel?",
+      "expected": [
+        115,
+        142,
+        143
+      ],
+      "question_id": "q_036",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Building and maintaining trust with business partners and clients is a recurring theme in both legal ethics and business success. Trust is not only foundational for effective legal advice but also for ensuring that information flows freely, enabling proactive risk management and ethical decision-making.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 115,
+            "quote_preview": "I think that from my perspective, the most important thing I do when I start a new role, um, is real..."
+          },
+          {
+            "chunk_id": 142,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "How should legal and compliance leaders handle situations where there are no clear rules?",
+      "expected": [
+        125,
+        126,
+        127
+      ],
+      "question_id": "q_037",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal and compliance leaders must be comfortable with ambiguity and the absence of clear rules, especially in emerging industries. In such cases, a proactive, risk-based approach\u2014grounded in precedent, external counsel input, and internal values\u2014enables organizations to justify their positions to regulators and stakeholders.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 125,
+            "quote_preview": "I think the first thing I always do is assess a spectrum of risk. You know, like with respect to loo..."
+          },
+          {
+            "chunk_id": 126,
+            "quote_preview": "I think the first thing I always do is assess a spectrum of risk. You know, like with respect to loo..."
+          },
+          {
+            "chunk_id": 126,
+            "quote_preview": "That's really tough, particularly with crypto, and again, areas of emerging technologies that are ri..."
+          },
+          {
+            "chunk_id": 127,
+            "quote_preview": "That's really tough, particularly with crypto, and again, areas of emerging technologies that are ri..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "What strategies can legal teams use to navigate regulatory uncertainty in emerging sectors?",
+      "expected": [
+        125,
+        126,
+        127
+      ],
+      "question_id": "q_038",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal and compliance leaders must be comfortable with ambiguity and the absence of clear rules, especially in emerging industries. In such cases, a proactive, risk-based approach\u2014grounded in precedent, external counsel input, and internal values\u2014enables organizations to justify their positions to regulators and stakeholders.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 125,
+            "quote_preview": "I think the first thing I always do is assess a spectrum of risk. You know, like with respect to loo..."
+          },
+          {
+            "chunk_id": 126,
+            "quote_preview": "I think the first thing I always do is assess a spectrum of risk. You know, like with respect to loo..."
+          },
+          {
+            "chunk_id": 126,
+            "quote_preview": "That's really tough, particularly with crypto, and again, areas of emerging technologies that are ri..."
+          },
+          {
+            "chunk_id": 127,
+            "quote_preview": "That's really tough, particularly with crypto, and again, areas of emerging technologies that are ri..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "In the context of evolving industries, how can organizations defend their compliance decisions to external parties when formal guidelines are lacking?",
+      "expected": [
+        125,
+        126,
+        127
+      ],
+      "question_id": "q_039",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal and compliance leaders must be comfortable with ambiguity and the absence of clear rules, especially in emerging industries. In such cases, a proactive, risk-based approach\u2014grounded in precedent, external counsel input, and internal values\u2014enables organizations to justify their positions to regulators and stakeholders.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 125,
+            "quote_preview": "I think the first thing I always do is assess a spectrum of risk. You know, like with respect to loo..."
+          },
+          {
+            "chunk_id": 126,
+            "quote_preview": "I think the first thing I always do is assess a spectrum of risk. You know, like with respect to loo..."
+          },
+          {
+            "chunk_id": 126,
+            "quote_preview": "That's really tough, particularly with crypto, and again, areas of emerging technologies that are ri..."
+          },
+          {
+            "chunk_id": 127,
+            "quote_preview": "That's really tough, particularly with crypto, and again, areas of emerging technologies that are ri..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "What makes a DEI program effective?",
+      "expected": [
+        153,
+        154,
+        160,
+        161
+      ],
+      "question_id": "q_040",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The most effective diversity, equity, and inclusion (DEI) programs are those that are data-driven, regularly measured, and tied to business outcomes. Legal teams play a crucial role in ensuring that DEI efforts are not only compliant but also embedded in recruiting, retention, promotion, and vendor management processes.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 153,
+            "quote_preview": "We looked at the data for our, our, our from hr. We looked at the data in our advertising, we looked..."
+          },
+          {
+            "chunk_id": 154,
+            "quote_preview": "We looked at the data for our, our, our from hr. We looked at the data in our advertising, we looked..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "Measuring, measuring has really been the key to all of this. Um, we have set all of our impact goals..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "Measuring, measuring has really been the key to all of this. Um, we have set all of our impact goals..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How can legal teams integrate DEI initiatives into core business processes to drive measurable outcomes?",
+      "expected": [
+        153,
+        154,
+        160,
+        161
+      ],
+      "question_id": "q_041",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The most effective diversity, equity, and inclusion (DEI) programs are those that are data-driven, regularly measured, and tied to business outcomes. Legal teams play a crucial role in ensuring that DEI efforts are not only compliant but also embedded in recruiting, retention, promotion, and vendor management processes.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 153,
+            "quote_preview": "We looked at the data for our, our, our from hr. We looked at the data in our advertising, we looked..."
+          },
+          {
+            "chunk_id": 154,
+            "quote_preview": "We looked at the data for our, our, our from hr. We looked at the data in our advertising, we looked..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "Measuring, measuring has really been the key to all of this. Um, we have set all of our impact goals..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "Measuring, measuring has really been the key to all of this. Um, we have set all of our impact goals..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways does leveraging data and legal oversight enhance the impact of DEI strategies across recruitment, retention, and vendor relationships?",
+      "expected": [
+        153,
+        154,
+        160,
+        161
+      ],
+      "question_id": "q_042",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The most effective diversity, equity, and inclusion (DEI) programs are those that are data-driven, regularly measured, and tied to business outcomes. Legal teams play a crucial role in ensuring that DEI efforts are not only compliant but also embedded in recruiting, retention, promotion, and vendor management processes.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 153,
+            "quote_preview": "We looked at the data for our, our, our from hr. We looked at the data in our advertising, we looked..."
+          },
+          {
+            "chunk_id": 154,
+            "quote_preview": "We looked at the data for our, our, our from hr. We looked at the data in our advertising, we looked..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "Measuring, measuring has really been the key to all of this. Um, we have set all of our impact goals..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "Measuring, measuring has really been the key to all of this. Um, we have set all of our impact goals..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "Why should legal professionals be careful not to exceed their expertise?",
+      "expected": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "question_id": "q_043",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal professionals must be vigilant about the risks of overstepping their expertise, especially when operating as solo GCs or in-house generalists. Recognizing the limits of one's knowledge and seeking outside counsel or specialized resources is not only prudent but also an ethical imperative.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 120,
+            "quote_preview": "So you have to assess your own standards and your own comfort level in terms of what you're willing ..."
+          },
+          {
+            "chunk_id": 121,
+            "quote_preview": "So you have to assess your own standards and your own comfort level in terms of what you're willing ..."
+          },
+          {
+            "chunk_id": 122,
+            "quote_preview": "I just kind of get pretty clear about the areas that I'm comfortable advising on, and, and when I'm ..."
+          },
+          {
+            "chunk_id": 123,
+            "quote_preview": "I just kind of get pretty clear about the areas that I'm comfortable advising on, and, and when I'm ..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What best practices should solo GCs or in-house generalists follow to manage the boundaries of their legal knowledge?",
+      "expected": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "question_id": "q_044",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal professionals must be vigilant about the risks of overstepping their expertise, especially when operating as solo GCs or in-house generalists. Recognizing the limits of one's knowledge and seeking outside counsel or specialized resources is not only prudent but also an ethical imperative.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 120,
+            "quote_preview": "So you have to assess your own standards and your own comfort level in terms of what you're willing ..."
+          },
+          {
+            "chunk_id": 121,
+            "quote_preview": "So you have to assess your own standards and your own comfort level in terms of what you're willing ..."
+          },
+          {
+            "chunk_id": 122,
+            "quote_preview": "I just kind of get pretty clear about the areas that I'm comfortable advising on, and, and when I'm ..."
+          },
+          {
+            "chunk_id": 123,
+            "quote_preview": "I just kind of get pretty clear about the areas that I'm comfortable advising on, and, and when I'm ..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How does the ethical obligation to recognize professional limitations influence decisions about when to consult external legal experts?",
+      "expected": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "question_id": "q_045",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal professionals must be vigilant about the risks of overstepping their expertise, especially when operating as solo GCs or in-house generalists. Recognizing the limits of one's knowledge and seeking outside counsel or specialized resources is not only prudent but also an ethical imperative.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 120,
+            "quote_preview": "So you have to assess your own standards and your own comfort level in terms of what you're willing ..."
+          },
+          {
+            "chunk_id": 121,
+            "quote_preview": "So you have to assess your own standards and your own comfort level in terms of what you're willing ..."
+          },
+          {
+            "chunk_id": 122,
+            "quote_preview": "I just kind of get pretty clear about the areas that I'm comfortable advising on, and, and when I'm ..."
+          },
+          {
+            "chunk_id": 123,
+            "quote_preview": "I just kind of get pretty clear about the areas that I'm comfortable advising on, and, and when I'm ..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What makes legal and compliance teams successful?",
+      "expected": [
+        141,
+        142,
+        163,
+        164
+      ],
+      "question_id": "q_046",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The most successful legal and compliance teams are those that are approachable, visible, and embedded within the business, enabling early detection of issues and fostering a culture where employees feel safe raising concerns. This approachability is especially important in high-growth or high-risk environments.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 141,
+            "quote_preview": "And the thing I, I can maybe add as like a sub bucket under there is, you know, the approachability ..."
+          },
+          {
+            "chunk_id": 142,
+            "quote_preview": "And the thing I, I can maybe add as like a sub bucket under there is, you know, the approachability ..."
+          },
+          {
+            "chunk_id": 163,
+            "quote_preview": "What I think is really important is not shutting out avenues where these conversations happen, becau..."
+          },
+          {
+            "chunk_id": 164,
+            "quote_preview": "What I think is really important is not shutting out avenues where these conversations happen, becau..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "Why is it important for legal and compliance teams to be approachable and integrated within the business, particularly in high-growth or high-risk settings?",
+      "expected": [
+        141,
+        142,
+        163,
+        164
+      ],
+      "question_id": "q_047",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The most successful legal and compliance teams are those that are approachable, visible, and embedded within the business, enabling early detection of issues and fostering a culture where employees feel safe raising concerns. This approachability is especially important in high-growth or high-risk environments.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 141,
+            "quote_preview": "And the thing I, I can maybe add as like a sub bucket under there is, you know, the approachability ..."
+          },
+          {
+            "chunk_id": 142,
+            "quote_preview": "And the thing I, I can maybe add as like a sub bucket under there is, you know, the approachability ..."
+          },
+          {
+            "chunk_id": 163,
+            "quote_preview": "What I think is really important is not shutting out avenues where these conversations happen, becau..."
+          },
+          {
+            "chunk_id": 164,
+            "quote_preview": "What I think is really important is not shutting out avenues where these conversations happen, becau..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How does the visibility and embeddedness of legal and compliance teams influence early issue detection and employee willingness to report concerns in dynamic business environments?",
+      "expected": [
+        141,
+        142,
+        163,
+        164
+      ],
+      "question_id": "q_048",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The most successful legal and compliance teams are those that are approachable, visible, and embedded within the business, enabling early detection of issues and fostering a culture where employees feel safe raising concerns. This approachability is especially important in high-growth or high-risk environments.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 141,
+            "quote_preview": "And the thing I, I can maybe add as like a sub bucket under there is, you know, the approachability ..."
+          },
+          {
+            "chunk_id": 142,
+            "quote_preview": "And the thing I, I can maybe add as like a sub bucket under there is, you know, the approachability ..."
+          },
+          {
+            "chunk_id": 163,
+            "quote_preview": "What I think is really important is not shutting out avenues where these conversations happen, becau..."
+          },
+          {
+            "chunk_id": 164,
+            "quote_preview": "What I think is really important is not shutting out avenues where these conversations happen, becau..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What are some important steps in professionalizing board governance?",
+      "expected": [
+        96,
+        103,
+        104
+      ],
+      "question_id": "q_049",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The process of professionalizing board governance is incremental and context-dependent, but key steps include establishing clear delegation of authority, using secure information channels, and gradually introducing public company practices. Legal counsel play a pivotal role in guiding this evolution and ensuring readiness for future scrutiny.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 103,
+            "quote_preview": "Yeah. I, I think it's incremental change, right? I mean, so I do see I'm maybe guilty of being part ..."
+          },
+          {
+            "chunk_id": 104,
+            "quote_preview": "Yeah. I, I think it's incremental change, right? I mean, so I do see I'm maybe guilty of being part ..."
+          },
+          {
+            "chunk_id": 96,
+            "quote_preview": "Yeah, so Meredith, I I have a couple thoughts. I mean they're, in terms of which one to use, I think..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "How can legal counsel facilitate the transition to more formalized board governance structures?",
+      "expected": [
+        96,
+        103,
+        104
+      ],
+      "question_id": "q_050",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The process of professionalizing board governance is incremental and context-dependent, but key steps include establishing clear delegation of authority, using secure information channels, and gradually introducing public company practices. Legal counsel play a pivotal role in guiding this evolution and ensuring readiness for future scrutiny.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 103,
+            "quote_preview": "Yeah. I, I think it's incremental change, right? I mean, so I do see I'm maybe guilty of being part ..."
+          },
+          {
+            "chunk_id": 104,
+            "quote_preview": "Yeah. I, I think it's incremental change, right? I mean, so I do see I'm maybe guilty of being part ..."
+          },
+          {
+            "chunk_id": 96,
+            "quote_preview": "Yeah, so Meredith, I I have a couple thoughts. I mean they're, in terms of which one to use, I think..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "In what ways might a company incrementally align its board practices with public company standards while preparing for increased external oversight?",
+      "expected": [
+        96,
+        103,
+        104
+      ],
+      "question_id": "q_051",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The process of professionalizing board governance is incremental and context-dependent, but key steps include establishing clear delegation of authority, using secure information channels, and gradually introducing public company practices. Legal counsel play a pivotal role in guiding this evolution and ensuring readiness for future scrutiny.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 103,
+            "quote_preview": "Yeah. I, I think it's incremental change, right? I mean, so I do see I'm maybe guilty of being part ..."
+          },
+          {
+            "chunk_id": 104,
+            "quote_preview": "Yeah. I, I think it's incremental change, right? I mean, so I do see I'm maybe guilty of being part ..."
+          },
+          {
+            "chunk_id": 96,
+            "quote_preview": "Yeah, so Meredith, I I have a couple thoughts. I mean they're, in terms of which one to use, I think..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "Why is it important for legal professionals to seek help from peers?",
+      "expected": [
+        10,
+        11,
+        143,
+        144
+      ],
+      "question_id": "q_052",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The legal profession is experiencing a paradigm shift where continuous learning, humility, and community support are essential. No single GC or legal leader can know everything, especially in novel or rapidly changing areas, and seeking help or benchmarking with peers is a sign of strength, not weakness.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 143,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          },
+          {
+            "chunk_id": 144,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          },
+          {
+            "chunk_id": 10,
+            "quote_preview": "I think so going back to Ethan Malik's book co Intelligence, one of the things he says is, um, to be..."
+          },
+          {
+            "chunk_id": 11,
+            "quote_preview": "I think so going back to Ethan Malik's book co Intelligence, one of the things he says is, um, to be..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How does benchmarking with other GCs reflect on a legal leader\u2019s effectiveness in a changing legal landscape?",
+      "expected": [
+        10,
+        11,
+        143,
+        144
+      ],
+      "question_id": "q_053",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The legal profession is experiencing a paradigm shift where continuous learning, humility, and community support are essential. No single GC or legal leader can know everything, especially in novel or rapidly changing areas, and seeking help or benchmarking with peers is a sign of strength, not weakness.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 143,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          },
+          {
+            "chunk_id": 144,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          },
+          {
+            "chunk_id": 10,
+            "quote_preview": "I think so going back to Ethan Malik's book co Intelligence, one of the things he says is, um, to be..."
+          },
+          {
+            "chunk_id": 11,
+            "quote_preview": "I think so going back to Ethan Malik's book co Intelligence, one of the things he says is, um, to be..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways does embracing humility and community support redefine traditional expectations of expertise for general counsel in emerging legal fields?",
+      "expected": [
+        10,
+        11,
+        143,
+        144
+      ],
+      "question_id": "q_054",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The legal profession is experiencing a paradigm shift where continuous learning, humility, and community support are essential. No single GC or legal leader can know everything, especially in novel or rapidly changing areas, and seeking help or benchmarking with peers is a sign of strength, not weakness.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 143,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          },
+          {
+            "chunk_id": 144,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          },
+          {
+            "chunk_id": 10,
+            "quote_preview": "I think so going back to Ethan Malik's book co Intelligence, one of the things he says is, um, to be..."
+          },
+          {
+            "chunk_id": 11,
+            "quote_preview": "I think so going back to Ethan Malik's book co Intelligence, one of the things he says is, um, to be..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How can professionals handle ethical dilemmas in the workplace?",
+      "expected": [
+        116,
+        117,
+        118
+      ],
+      "question_id": "q_055",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders recognize that ethical dilemmas often exist on a spectrum, requiring nuanced judgment about when to remediate, escalate, or exit. Setting personal boundaries, timelines for change, and clear criteria for success helps professionals navigate these gray areas without compromising their integrity.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 117,
+            "quote_preview": "And so for me, in that scenario, I set myself a timeline. Mm-Hmm. Um, I'm going to give this 12 more..."
+          },
+          {
+            "chunk_id": 118,
+            "quote_preview": "And so for me, in that scenario, I set myself a timeline. Mm-Hmm. Um, I'm going to give this 12 more..."
+          },
+          {
+            "chunk_id": 116,
+            "quote_preview": "So I think there's kind of those really big scenarios where it, it really does impact your ability t..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "What strategies can leaders use to manage gray areas in ethical decision-making?",
+      "expected": [
+        116,
+        117,
+        118
+      ],
+      "question_id": "q_056",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders recognize that ethical dilemmas often exist on a spectrum, requiring nuanced judgment about when to remediate, escalate, or exit. Setting personal boundaries, timelines for change, and clear criteria for success helps professionals navigate these gray areas without compromising their integrity.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 117,
+            "quote_preview": "And so for me, in that scenario, I set myself a timeline. Mm-Hmm. Um, I'm going to give this 12 more..."
+          },
+          {
+            "chunk_id": 118,
+            "quote_preview": "And so for me, in that scenario, I set myself a timeline. Mm-Hmm. Um, I'm going to give this 12 more..."
+          },
+          {
+            "chunk_id": 116,
+            "quote_preview": "So I think there's kind of those really big scenarios where it, it really does impact your ability t..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "In situations where ethical issues are not clear-cut, how can setting boundaries and defining success criteria support integrity while determining whether to remediate, escalate, or exit?",
+      "expected": [
+        116,
+        117,
+        118
+      ],
+      "question_id": "q_057",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders recognize that ethical dilemmas often exist on a spectrum, requiring nuanced judgment about when to remediate, escalate, or exit. Setting personal boundaries, timelines for change, and clear criteria for success helps professionals navigate these gray areas without compromising their integrity.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 117,
+            "quote_preview": "And so for me, in that scenario, I set myself a timeline. Mm-Hmm. Um, I'm going to give this 12 more..."
+          },
+          {
+            "chunk_id": 118,
+            "quote_preview": "And so for me, in that scenario, I set myself a timeline. Mm-Hmm. Um, I'm going to give this 12 more..."
+          },
+          {
+            "chunk_id": 116,
+            "quote_preview": "So I think there's kind of those really big scenarios where it, it really does impact your ability t..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "How is AI helping legal teams save time and money?",
+      "expected": [
+        23,
+        24,
+        25
+      ],
+      "question_id": "q_058",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The use of AI and automation in legal work is already delivering significant cost and time savings, enabling leaner legal teams to handle higher volumes and more complex work. However, these gains are maximized when legal professionals have domain expertise to critically evaluate AI outputs and when tools are selected and integrated thoughtfully.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 23,
+            "quote_preview": "And over that two year period, our outside counsel spend has decreased 93%. So we we're saving like ..."
+          },
+          {
+            "chunk_id": 24,
+            "quote_preview": "And over that two year period, our outside counsel spend has decreased 93%. So we we're saving like ..."
+          },
+          {
+            "chunk_id": 24,
+            "quote_preview": "I don't have, uh, specific figures like Alex does, but I suppose more anecdotally, I recently maybe ..."
+          },
+          {
+            "chunk_id": 25,
+            "quote_preview": "I don't have, uh, specific figures like Alex does, but I suppose more anecdotally, I recently maybe ..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "What factors influence the effectiveness of AI and automation adoption in legal departments?",
+      "expected": [
+        23,
+        24,
+        25
+      ],
+      "question_id": "q_059",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The use of AI and automation in legal work is already delivering significant cost and time savings, enabling leaner legal teams to handle higher volumes and more complex work. However, these gains are maximized when legal professionals have domain expertise to critically evaluate AI outputs and when tools are selected and integrated thoughtfully.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 23,
+            "quote_preview": "And over that two year period, our outside counsel spend has decreased 93%. So we we're saving like ..."
+          },
+          {
+            "chunk_id": 24,
+            "quote_preview": "And over that two year period, our outside counsel spend has decreased 93%. So we we're saving like ..."
+          },
+          {
+            "chunk_id": 24,
+            "quote_preview": "I don't have, uh, specific figures like Alex does, but I suppose more anecdotally, I recently maybe ..."
+          },
+          {
+            "chunk_id": 25,
+            "quote_preview": "I don't have, uh, specific figures like Alex does, but I suppose more anecdotally, I recently maybe ..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "In what ways does the combination of legal domain expertise and strategic technology integration impact the value derived from AI in legal operations?",
+      "expected": [
+        23,
+        24,
+        25
+      ],
+      "question_id": "q_060",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The use of AI and automation in legal work is already delivering significant cost and time savings, enabling leaner legal teams to handle higher volumes and more complex work. However, these gains are maximized when legal professionals have domain expertise to critically evaluate AI outputs and when tools are selected and integrated thoughtfully.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 23,
+            "quote_preview": "And over that two year period, our outside counsel spend has decreased 93%. So we we're saving like ..."
+          },
+          {
+            "chunk_id": 24,
+            "quote_preview": "And over that two year period, our outside counsel spend has decreased 93%. So we we're saving like ..."
+          },
+          {
+            "chunk_id": 24,
+            "quote_preview": "I don't have, uh, specific figures like Alex does, but I suppose more anecdotally, I recently maybe ..."
+          },
+          {
+            "chunk_id": 25,
+            "quote_preview": "I don't have, uh, specific figures like Alex does, but I suppose more anecdotally, I recently maybe ..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "How can companies reduce bias in hiring and promotions?",
+      "expected": [
+        156,
+        157,
+        159,
+        160
+      ],
+      "question_id": "q_061",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders emphasize the importance of clear, consistent, and inclusive hiring and promotion processes to mitigate bias and foster equity. Structured rubrics, calibration across teams, and transparency in compensation are practical tools for achieving these goals.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 156,
+            "quote_preview": "And so we worked with, um, our employment council, and we really, we built a skills rubric for every..."
+          },
+          {
+            "chunk_id": 157,
+            "quote_preview": "And so we worked with, um, our employment council, and we really, we built a skills rubric for every..."
+          },
+          {
+            "chunk_id": 159,
+            "quote_preview": "We do calibrations across the entire, um, org. Um, we, um, talk about diversity, inclusion and promo..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "We do calibrations across the entire, um, org. Um, we, um, talk about diversity, inclusion and promo..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What best practices do legal and business leaders recommend to ensure equitable talent management?",
+      "expected": [
+        156,
+        157,
+        159,
+        160
+      ],
+      "question_id": "q_062",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders emphasize the importance of clear, consistent, and inclusive hiring and promotion processes to mitigate bias and foster equity. Structured rubrics, calibration across teams, and transparency in compensation are practical tools for achieving these goals.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 156,
+            "quote_preview": "And so we worked with, um, our employment council, and we really, we built a skills rubric for every..."
+          },
+          {
+            "chunk_id": 157,
+            "quote_preview": "And so we worked with, um, our employment council, and we really, we built a skills rubric for every..."
+          },
+          {
+            "chunk_id": 159,
+            "quote_preview": "We do calibrations across the entire, um, org. Um, we, um, talk about diversity, inclusion and promo..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "We do calibrations across the entire, um, org. Um, we, um, talk about diversity, inclusion and promo..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways do structured evaluation methods and compensation transparency contribute to organizational equity, and how might cross-team calibration support these efforts?",
+      "expected": [
+        156,
+        157,
+        159,
+        160
+      ],
+      "question_id": "q_063",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders emphasize the importance of clear, consistent, and inclusive hiring and promotion processes to mitigate bias and foster equity. Structured rubrics, calibration across teams, and transparency in compensation are practical tools for achieving these goals.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 156,
+            "quote_preview": "And so we worked with, um, our employment council, and we really, we built a skills rubric for every..."
+          },
+          {
+            "chunk_id": 157,
+            "quote_preview": "And so we worked with, um, our employment council, and we really, we built a skills rubric for every..."
+          },
+          {
+            "chunk_id": 159,
+            "quote_preview": "We do calibrations across the entire, um, org. Um, we, um, talk about diversity, inclusion and promo..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "We do calibrations across the entire, um, org. Um, we, um, talk about diversity, inclusion and promo..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How is the role of lawyers changing in the modern workplace?",
+      "expected": [
+        110,
+        111
+      ],
+      "question_id": "q_064",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The legal profession is increasingly interdisciplinary, requiring lawyers to act as business advisors, technologists, and culture carriers. This dual or even triple-hatted role is especially pronounced in in-house settings, where legal, HR, and business strategy often intersect.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 110,
+            "quote_preview": "Because I had a dual hat role, um, overseeing the legal and HR operations in a previous, um, in a pr..."
+          },
+          {
+            "chunk_id": 111,
+            "quote_preview": "Because I had a dual hat role, um, overseeing the legal and HR operations in a previous, um, in a pr..."
+          }
+        ],
+        "total_chunks_mapped": 2
+      }
+    },
+    {
+      "query": "In what ways do in-house counsel serve as both legal and business partners within organizations?",
+      "expected": [
+        110,
+        111
+      ],
+      "question_id": "q_065",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The legal profession is increasingly interdisciplinary, requiring lawyers to act as business advisors, technologists, and culture carriers. This dual or even triple-hatted role is especially pronounced in in-house settings, where legal, HR, and business strategy often intersect.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 110,
+            "quote_preview": "Because I had a dual hat role, um, overseeing the legal and HR operations in a previous, um, in a pr..."
+          },
+          {
+            "chunk_id": 111,
+            "quote_preview": "Because I had a dual hat role, um, overseeing the legal and HR operations in a previous, um, in a pr..."
+          }
+        ],
+        "total_chunks_mapped": 2
+      }
+    },
+    {
+      "query": "How does the intersection of legal, HR, and business strategy in corporate environments influence the evolving responsibilities of legal professionals?",
+      "expected": [
+        110,
+        111
+      ],
+      "question_id": "q_066",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The legal profession is increasingly interdisciplinary, requiring lawyers to act as business advisors, technologists, and culture carriers. This dual or even triple-hatted role is especially pronounced in in-house settings, where legal, HR, and business strategy often intersect.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 110,
+            "quote_preview": "Because I had a dual hat role, um, overseeing the legal and HR operations in a previous, um, in a pr..."
+          },
+          {
+            "chunk_id": 111,
+            "quote_preview": "Because I had a dual hat role, um, overseeing the legal and HR operations in a previous, um, in a pr..."
+          }
+        ],
+        "total_chunks_mapped": 2
+      }
+    },
+    {
+      "query": "How can companies manage the challenges of removing or transitioning board members?",
+      "expected": [
+        76,
+        77,
+        86,
+        87
+      ],
+      "question_id": "q_067",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The process of removing or transitioning board members is fraught with personal and political challenges, but can be managed through early, transparent planning, competency matrices, and staged succession. Legal counsel can facilitate these transitions by framing them as necessary for company evolution rather than personal failures.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 76,
+            "quote_preview": "I do think that there's a, you know, a hard conversation that has to be had there. And usually it's ..."
+          },
+          {
+            "chunk_id": 77,
+            "quote_preview": "I do think that there's a, you know, a hard conversation that has to be had there. And usually it's ..."
+          },
+          {
+            "chunk_id": 86,
+            "quote_preview": "I can jump in, but we can see if the, the group has crowdsourced ideas. Yeah. So, you know, I, I thi..."
+          },
+          {
+            "chunk_id": 87,
+            "quote_preview": "I can jump in, but we can see if the, the group has crowdsourced ideas. Yeah. So, you know, I, I thi..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What strategies can legal counsel use to facilitate effective board succession planning and minimize political fallout?",
+      "expected": [
+        76,
+        77,
+        86,
+        87
+      ],
+      "question_id": "q_068",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The process of removing or transitioning board members is fraught with personal and political challenges, but can be managed through early, transparent planning, competency matrices, and staged succession. Legal counsel can facilitate these transitions by framing them as necessary for company evolution rather than personal failures.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 76,
+            "quote_preview": "I do think that there's a, you know, a hard conversation that has to be had there. And usually it's ..."
+          },
+          {
+            "chunk_id": 77,
+            "quote_preview": "I do think that there's a, you know, a hard conversation that has to be had there. And usually it's ..."
+          },
+          {
+            "chunk_id": 86,
+            "quote_preview": "I can jump in, but we can see if the, the group has crowdsourced ideas. Yeah. So, you know, I, I thi..."
+          },
+          {
+            "chunk_id": 87,
+            "quote_preview": "I can jump in, but we can see if the, the group has crowdsourced ideas. Yeah. So, you know, I, I thi..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways can framing board transitions as part of organizational evolution, rather than personal shortcomings, impact the success of succession initiatives?",
+      "expected": [
+        76,
+        77,
+        86,
+        87
+      ],
+      "question_id": "q_069",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The process of removing or transitioning board members is fraught with personal and political challenges, but can be managed through early, transparent planning, competency matrices, and staged succession. Legal counsel can facilitate these transitions by framing them as necessary for company evolution rather than personal failures.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 76,
+            "quote_preview": "I do think that there's a, you know, a hard conversation that has to be had there. And usually it's ..."
+          },
+          {
+            "chunk_id": 77,
+            "quote_preview": "I do think that there's a, you know, a hard conversation that has to be had there. And usually it's ..."
+          },
+          {
+            "chunk_id": 86,
+            "quote_preview": "I can jump in, but we can see if the, the group has crowdsourced ideas. Yeah. So, you know, I, I thi..."
+          },
+          {
+            "chunk_id": 87,
+            "quote_preview": "I can jump in, but we can see if the, the group has crowdsourced ideas. Yeah. So, you know, I, I thi..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "Why is it important for legal leaders to be proactive in high-risk industries?",
+      "expected": [
+        1,
+        2,
+        108,
+        109
+      ],
+      "question_id": "q_070",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The intersection of legal, ethical, and business considerations is especially pronounced in high-growth, high-risk, or highly regulated industries. In these contexts, legal leaders must be both proactive and adaptable, anticipating regulatory changes, educating stakeholders, and ensuring that business innovation does not outpace compliance.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 108,
+            "quote_preview": "I think we have all seen firsthand too the pitfalls of having issues, um, even if unethical, imprope..."
+          },
+          {
+            "chunk_id": 109,
+            "quote_preview": "I think we have all seen firsthand too the pitfalls of having issues, um, even if unethical, imprope..."
+          },
+          {
+            "chunk_id": 1,
+            "quote_preview": "AI is moving way faster than a lot of legal teams are comfortable with, and prompting is the tip of ..."
+          },
+          {
+            "chunk_id": 2,
+            "quote_preview": "AI is moving way faster than a lot of legal teams are comfortable with, and prompting is the tip of ..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How can legal teams balance innovation and compliance in highly regulated sectors?",
+      "expected": [
+        1,
+        2,
+        108,
+        109
+      ],
+      "question_id": "q_071",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The intersection of legal, ethical, and business considerations is especially pronounced in high-growth, high-risk, or highly regulated industries. In these contexts, legal leaders must be both proactive and adaptable, anticipating regulatory changes, educating stakeholders, and ensuring that business innovation does not outpace compliance.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 108,
+            "quote_preview": "I think we have all seen firsthand too the pitfalls of having issues, um, even if unethical, imprope..."
+          },
+          {
+            "chunk_id": 109,
+            "quote_preview": "I think we have all seen firsthand too the pitfalls of having issues, um, even if unethical, imprope..."
+          },
+          {
+            "chunk_id": 1,
+            "quote_preview": "AI is moving way faster than a lot of legal teams are comfortable with, and prompting is the tip of ..."
+          },
+          {
+            "chunk_id": 2,
+            "quote_preview": "AI is moving way faster than a lot of legal teams are comfortable with, and prompting is the tip of ..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways do evolving regulatory landscapes require legal departments to adapt their stakeholder engagement and risk management strategies in fast-growing industries?",
+      "expected": [
+        1,
+        2,
+        108,
+        109
+      ],
+      "question_id": "q_072",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The intersection of legal, ethical, and business considerations is especially pronounced in high-growth, high-risk, or highly regulated industries. In these contexts, legal leaders must be both proactive and adaptable, anticipating regulatory changes, educating stakeholders, and ensuring that business innovation does not outpace compliance.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 108,
+            "quote_preview": "I think we have all seen firsthand too the pitfalls of having issues, um, even if unethical, imprope..."
+          },
+          {
+            "chunk_id": 109,
+            "quote_preview": "I think we have all seen firsthand too the pitfalls of having issues, um, even if unethical, imprope..."
+          },
+          {
+            "chunk_id": 1,
+            "quote_preview": "AI is moving way faster than a lot of legal teams are comfortable with, and prompting is the tip of ..."
+          },
+          {
+            "chunk_id": 2,
+            "quote_preview": "AI is moving way faster than a lot of legal teams are comfortable with, and prompting is the tip of ..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "Why is it important for organizations to measure and report progress on key initiatives?",
+      "expected": [
+        160,
+        161
+      ],
+      "question_id": "q_073",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders agree that measuring, reporting, and publicizing progress on key initiatives\u2014whether DEI, compliance, or business performance\u2014drives accountability and cultural change. Public commitments, especially when audited or included in regulatory filings, create shared ownership and momentum.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 160,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "And then this past year, we took the step of having a, uh, integrated annual report. This means that..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "And then this past year, we took the step of having a, uh, integrated annual report. This means that..."
+          }
+        ],
+        "total_chunks_mapped": 2
+      }
+    },
+    {
+      "query": "How do public commitments and transparent reporting influence organizational accountability and culture?",
+      "expected": [
+        160,
+        161
+      ],
+      "question_id": "q_074",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders agree that measuring, reporting, and publicizing progress on key initiatives\u2014whether DEI, compliance, or business performance\u2014drives accountability and cultural change. Public commitments, especially when audited or included in regulatory filings, create shared ownership and momentum.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 160,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "And then this past year, we took the step of having a, uh, integrated annual report. This means that..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "And then this past year, we took the step of having a, uh, integrated annual report. This means that..."
+          }
+        ],
+        "total_chunks_mapped": 2
+      }
+    },
+    {
+      "query": "In what ways can integrating initiative progress into regulatory filings or audits foster shared ownership and drive momentum for change within a company?",
+      "expected": [
+        160,
+        161
+      ],
+      "question_id": "q_075",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders agree that measuring, reporting, and publicizing progress on key initiatives\u2014whether DEI, compliance, or business performance\u2014drives accountability and cultural change. Public commitments, especially when audited or included in regulatory filings, create shared ownership and momentum.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 160,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "We have set all of our impact goals, um, publicly. We've shared them with all of our employees. We'v..."
+          },
+          {
+            "chunk_id": 160,
+            "quote_preview": "And then this past year, we took the step of having a, uh, integrated annual report. This means that..."
+          },
+          {
+            "chunk_id": 161,
+            "quote_preview": "And then this past year, we took the step of having a, uh, integrated annual report. This means that..."
+          }
+        ],
+        "total_chunks_mapped": 2
+      }
+    },
+    {
+      "query": "Why is the human element still important in the legal profession despite advances in technology?",
+      "expected": [
+        10,
+        11,
+        134
+      ],
+      "question_id": "q_076",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The legal profession is increasingly reliant on technology, but the human element\u2014judgment, empathy, and ethical reasoning\u2014remains irreplaceable. AI and automation can augment legal work, but cannot substitute for the nuanced decision-making and relationship-building that define effective legal leadership.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 10,
+            "quote_preview": "But the more you use it, I think the more comfortable you'll get. And even if it seems like somethin..."
+          },
+          {
+            "chunk_id": 11,
+            "quote_preview": "But the more you use it, I think the more comfortable you'll get. And even if it seems like somethin..."
+          },
+          {
+            "chunk_id": 134,
+            "quote_preview": "I love that. You know, I, I think it's probably rare to have a panel on ethics that is really rooted..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "In what ways do AI and automation support, but not replace, core competencies required for legal leadership?",
+      "expected": [
+        10,
+        11,
+        134
+      ],
+      "question_id": "q_077",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The legal profession is increasingly reliant on technology, but the human element\u2014judgment, empathy, and ethical reasoning\u2014remains irreplaceable. AI and automation can augment legal work, but cannot substitute for the nuanced decision-making and relationship-building that define effective legal leadership.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 10,
+            "quote_preview": "But the more you use it, I think the more comfortable you'll get. And even if it seems like somethin..."
+          },
+          {
+            "chunk_id": 11,
+            "quote_preview": "But the more you use it, I think the more comfortable you'll get. And even if it seems like somethin..."
+          },
+          {
+            "chunk_id": 134,
+            "quote_preview": "I love that. You know, I, I think it's probably rare to have a panel on ethics that is really rooted..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "How does the interplay between technological tools and human qualities shape the future of legal practice, particularly regarding leadership and client relationships?",
+      "expected": [
+        10,
+        11,
+        134
+      ],
+      "question_id": "q_078",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The legal profession is increasingly reliant on technology, but the human element\u2014judgment, empathy, and ethical reasoning\u2014remains irreplaceable. AI and automation can augment legal work, but cannot substitute for the nuanced decision-making and relationship-building that define effective legal leadership.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 10,
+            "quote_preview": "But the more you use it, I think the more comfortable you'll get. And even if it seems like somethin..."
+          },
+          {
+            "chunk_id": 11,
+            "quote_preview": "But the more you use it, I think the more comfortable you'll get. And even if it seems like somethin..."
+          },
+          {
+            "chunk_id": 134,
+            "quote_preview": "I love that. You know, I, I think it's probably rare to have a panel on ethics that is really rooted..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "Why is it important for in-house counsel to define their roles clearly?",
+      "expected": [
+        137,
+        138,
+        139
+      ],
+      "question_id": "q_079",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders highlight the importance of clear boundaries and role definition, especially for in-house counsel. Educating colleagues about the scope of legal representation, ethical obligations, and the limits of legal advice is essential to maintaining professionalism and managing expectations.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 137,
+            "quote_preview": "And like I, like I talked about before, you know, I think that, um, we just kind of need to make sur..."
+          },
+          {
+            "chunk_id": 138,
+            "quote_preview": "And like I, like I talked about before, you know, I think that, um, we just kind of need to make sur..."
+          },
+          {
+            "chunk_id": 138,
+            "quote_preview": "I sometimes have to take it even a step further, um, and explain to them the, the concept of unautho..."
+          },
+          {
+            "chunk_id": 139,
+            "quote_preview": "I sometimes have to take it even a step further, um, and explain to them the, the concept of unautho..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "How can legal teams manage stakeholder expectations regarding the scope of legal services provided internally?",
+      "expected": [
+        137,
+        138,
+        139
+      ],
+      "question_id": "q_080",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders highlight the importance of clear boundaries and role definition, especially for in-house counsel. Educating colleagues about the scope of legal representation, ethical obligations, and the limits of legal advice is essential to maintaining professionalism and managing expectations.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 137,
+            "quote_preview": "And like I, like I talked about before, you know, I think that, um, we just kind of need to make sur..."
+          },
+          {
+            "chunk_id": 138,
+            "quote_preview": "And like I, like I talked about before, you know, I think that, um, we just kind of need to make sur..."
+          },
+          {
+            "chunk_id": 138,
+            "quote_preview": "I sometimes have to take it even a step further, um, and explain to them the, the concept of unautho..."
+          },
+          {
+            "chunk_id": 139,
+            "quote_preview": "I sometimes have to take it even a step further, um, and explain to them the, the concept of unautho..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "In what ways does proactive education about legal boundaries and ethical duties contribute to professionalism and risk mitigation within organizations?",
+      "expected": [
+        137,
+        138,
+        139
+      ],
+      "question_id": "q_081",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders highlight the importance of clear boundaries and role definition, especially for in-house counsel. Educating colleagues about the scope of legal representation, ethical obligations, and the limits of legal advice is essential to maintaining professionalism and managing expectations.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 137,
+            "quote_preview": "And like I, like I talked about before, you know, I think that, um, we just kind of need to make sur..."
+          },
+          {
+            "chunk_id": 138,
+            "quote_preview": "And like I, like I talked about before, you know, I think that, um, we just kind of need to make sur..."
+          },
+          {
+            "chunk_id": 138,
+            "quote_preview": "I sometimes have to take it even a step further, um, and explain to them the, the concept of unautho..."
+          },
+          {
+            "chunk_id": 139,
+            "quote_preview": "I sometimes have to take it even a step further, um, and explain to them the, the concept of unautho..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "What makes a legal or business leader effective?",
+      "expected": [
+        135,
+        136,
+        139,
+        140
+      ],
+      "question_id": "q_082",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "The most effective legal and business leaders are those who lead by example, embodying the values and standards they wish to see in their organizations. This 'tone from the top' is reinforced by visible, consistent actions and by being a trusted resource for both ethical guidance and business strategy.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 135,
+            "quote_preview": "Second tone from the top, and this is twofold. One, ensure that your organization's CEO makes this a..."
+          },
+          {
+            "chunk_id": 136,
+            "quote_preview": "Second tone from the top, and this is twofold. One, ensure that your organization's CEO makes this a..."
+          },
+          {
+            "chunk_id": 139,
+            "quote_preview": "If you are a good example for not just your legal team, but for the rest of the team, like they know..."
+          },
+          {
+            "chunk_id": 140,
+            "quote_preview": "If you are a good example for not just your legal team, but for the rest of the team, like they know..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How does 'tone from the top' influence organizational culture and ethical standards?",
+      "expected": [
+        135,
+        136,
+        139,
+        140
+      ],
+      "question_id": "q_083",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "The most effective legal and business leaders are those who lead by example, embodying the values and standards they wish to see in their organizations. This 'tone from the top' is reinforced by visible, consistent actions and by being a trusted resource for both ethical guidance and business strategy.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 135,
+            "quote_preview": "Second tone from the top, and this is twofold. One, ensure that your organization's CEO makes this a..."
+          },
+          {
+            "chunk_id": 136,
+            "quote_preview": "Second tone from the top, and this is twofold. One, ensure that your organization's CEO makes this a..."
+          },
+          {
+            "chunk_id": 139,
+            "quote_preview": "If you are a good example for not just your legal team, but for the rest of the team, like they know..."
+          },
+          {
+            "chunk_id": 140,
+            "quote_preview": "If you are a good example for not just your legal team, but for the rest of the team, like they know..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways can leadership behaviors simultaneously drive ethical conduct and strategic business outcomes within an organization?",
+      "expected": [
+        135,
+        136,
+        139,
+        140
+      ],
+      "question_id": "q_084",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "The most effective legal and business leaders are those who lead by example, embodying the values and standards they wish to see in their organizations. This 'tone from the top' is reinforced by visible, consistent actions and by being a trusted resource for both ethical guidance and business strategy.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 135,
+            "quote_preview": "Second tone from the top, and this is twofold. One, ensure that your organization's CEO makes this a..."
+          },
+          {
+            "chunk_id": 136,
+            "quote_preview": "Second tone from the top, and this is twofold. One, ensure that your organization's CEO makes this a..."
+          },
+          {
+            "chunk_id": 139,
+            "quote_preview": "If you are a good example for not just your legal team, but for the rest of the team, like they know..."
+          },
+          {
+            "chunk_id": 140,
+            "quote_preview": "If you are a good example for not just your legal team, but for the rest of the team, like they know..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What makes a compliance and risk management program effective?",
+      "expected": [
+        71,
+        72,
+        134,
+        135
+      ],
+      "question_id": "q_085",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders recognize that the best compliance and risk management programs are those that are practical, relatable, and tailored to the audience. Using real-life examples, plain language, and concrete scenarios increases engagement and understanding across the organization.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 134,
+            "quote_preview": "But I actually feel this presentation chock full with real life ripped from the headlines. Examples ..."
+          },
+          {
+            "chunk_id": 135,
+            "quote_preview": "But I actually feel this presentation chock full with real life ripped from the headlines. Examples ..."
+          },
+          {
+            "chunk_id": 71,
+            "quote_preview": "And then you start to, to attach observers and additional investors and your board grows. And, um, I..."
+          },
+          {
+            "chunk_id": 72,
+            "quote_preview": "And then you start to, to attach observers and additional investors and your board grows. And, um, I..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "How can organizations enhance employee engagement with compliance initiatives?",
+      "expected": [
+        71,
+        72,
+        134,
+        135
+      ],
+      "question_id": "q_086",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders recognize that the best compliance and risk management programs are those that are practical, relatable, and tailored to the audience. Using real-life examples, plain language, and concrete scenarios increases engagement and understanding across the organization.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 134,
+            "quote_preview": "But I actually feel this presentation chock full with real life ripped from the headlines. Examples ..."
+          },
+          {
+            "chunk_id": 135,
+            "quote_preview": "But I actually feel this presentation chock full with real life ripped from the headlines. Examples ..."
+          },
+          {
+            "chunk_id": 71,
+            "quote_preview": "And then you start to, to attach observers and additional investors and your board grows. And, um, I..."
+          },
+          {
+            "chunk_id": 72,
+            "quote_preview": "And then you start to, to attach observers and additional investors and your board grows. And, um, I..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "In what ways does customizing compliance training content impact organizational risk culture and program effectiveness?",
+      "expected": [
+        71,
+        72,
+        134,
+        135
+      ],
+      "question_id": "q_087",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders recognize that the best compliance and risk management programs are those that are practical, relatable, and tailored to the audience. Using real-life examples, plain language, and concrete scenarios increases engagement and understanding across the organization.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 134,
+            "quote_preview": "But I actually feel this presentation chock full with real life ripped from the headlines. Examples ..."
+          },
+          {
+            "chunk_id": 135,
+            "quote_preview": "But I actually feel this presentation chock full with real life ripped from the headlines. Examples ..."
+          },
+          {
+            "chunk_id": 71,
+            "quote_preview": "And then you start to, to attach observers and additional investors and your board grows. And, um, I..."
+          },
+          {
+            "chunk_id": 72,
+            "quote_preview": "And then you start to, to attach observers and additional investors and your board grows. And, um, I..."
+          }
+        ],
+        "total_chunks_mapped": 4
+      }
+    },
+    {
+      "query": "What qualities make organizations more resilient?",
+      "expected": [
+        142,
+        143,
+        144
+      ],
+      "question_id": "q_088",
+      "difficulty": "easy",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders agree that the most resilient organizations are those that invest in relationships, continuous learning, and adaptability. Whether navigating regulatory uncertainty, technological disruption, or cultural change, the ability to build trust, learn from peers, and adapt processes is a consistent predictor of long-term success.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 142,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          },
+          {
+            "chunk_id": 144,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "How can legal and business leaders ensure long-term organizational success amid change?",
+      "expected": [
+        142,
+        143,
+        144
+      ],
+      "question_id": "q_089",
+      "difficulty": "medium",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders agree that the most resilient organizations are those that invest in relationships, continuous learning, and adaptability. Whether navigating regulatory uncertainty, technological disruption, or cultural change, the ability to build trust, learn from peers, and adapt processes is a consistent predictor of long-term success.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 142,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          },
+          {
+            "chunk_id": 144,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    },
+    {
+      "query": "In the context of regulatory and technological shifts, what strategies distinguish organizations that consistently outperform their peers over time?",
+      "expected": [
+        142,
+        143,
+        144
+      ],
+      "question_id": "q_090",
+      "difficulty": "hard",
+      "metadata": {
+        "comprehensive_answer": "Legal and business leaders agree that the most resilient organizations are those that invest in relationships, continuous learning, and adaptability. Whether navigating regulatory uncertainty, technological disruption, or cultural change, the ability to build trust, learn from peers, and adapt processes is a consistent predictor of long-term success.",
+        "source_quotes_count": 2
+      },
+      "_debug": {
+        "chunk_details": [
+          {
+            "chunk_id": 142,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "You can't underestimate the power of relationships. Um, and, and I think, um, from, from my perspect..."
+          },
+          {
+            "chunk_id": 143,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          },
+          {
+            "chunk_id": 144,
+            "quote_preview": "And I'll, I'll close this out with mine, which is, you know, to reiterate that I, I don't pretend to..."
+          }
+        ],
+        "total_chunks_mapped": 3
+      }
+    }
+  ]
+}
