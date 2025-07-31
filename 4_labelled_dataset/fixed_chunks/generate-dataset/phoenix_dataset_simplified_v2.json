@@ -1,7 +1,7 @@
 [
   {
     "input": "Why is transparency important in legal and business settings?",
-    "output": [
+    "expected": [
       132,
       133,
       162,
@@ -25,7 +25,7 @@
   },
   {
     "input": "How does cultivating a culture of transparency contribute to organizational compliance and resilience?",
-    "output": [
+    "expected": [
       132,
       133,
       162,
@@ -49,7 +49,7 @@
   },
   {
     "input": "In what ways can leadership-driven transparency help organizations address both regulatory uncertainty and ethical challenges while strengthening internal trust?",
-    "output": [
+    "expected": [
       132,
       133,
       162,
@@ -73,7 +73,7 @@
   },
   {
     "input": "What challenge do legal professionals face when their ethical standards differ from their organization's risk culture?",
-    "output": [
+    "expected": [
       120,
       121,
       143,
@@ -97,7 +97,7 @@
   },
   {
     "input": "How should legal counsel navigate conflicts between personal ethics and organizational risk tolerance in uncertain regulatory landscapes?",
-    "output": [
+    "expected": [
       120,
       121,
       143,
@@ -121,7 +121,7 @@
   },
   {
     "input": "In what ways might evolving compliance environments test a lawyer\u2019s ability to reconcile internal values with external business pressures, and what actions might be necessary if alignment proves impossible?",
-    "output": [
+    "expected": [
       120,
       121,
       143,
@@ -145,7 +145,7 @@
   },
   {
     "input": "How is AI changing the legal profession, and what precautions should be taken?",
-    "output": [
+    "expected": [
       25,
       26
     ],
@@ -167,7 +167,7 @@
   },
   {
     "input": "In what ways should legal teams position AI tools within their workflow to balance efficiency with risk management?",
-    "output": [
+    "expected": [
       25,
       26
     ],
@@ -189,7 +189,7 @@
   },
   {
     "input": "Considering the dual benefits and risks of AI in legal practice, how might firms structure oversight protocols to address issues like hallucinated outputs and data privacy while leveraging AI for idea generation?",
-    "output": [
+    "expected": [
       25,
       26
     ],
@@ -211,7 +211,7 @@
   },
   {
     "input": "How should board governance change as a company grows?",
-    "output": [
+    "expected": [
       68,
       69,
       78,
@@ -235,7 +235,7 @@
   },
   {
     "input": "What steps can organizations take to ensure their board composition aligns with public company readiness and stakeholder expectations?",
-    "output": [
+    "expected": [
       68,
       69,
       78,
@@ -259,7 +259,7 @@
   },
   {
     "input": "In what ways does proactive board evolution, including competency mapping and staged transitions, mitigate risks associated with late-stage governance restructuring before an IPO or major milestone?",
-    "output": [
+    "expected": [
       68,
       69,
       78,
@@ -283,7 +283,7 @@
   },
   {
     "input": "Why is communication important when managing employee equity?",
-    "output": [
+    "expected": [
       40,
       41,
       45,
@@ -307,7 +307,7 @@
   },
   {
     "input": "How can proactive education about 409A valuations and liquidity options impact employee sentiment during IPO preparation?",
-    "output": [
+    "expected": [
       40,
       41,
       45,
@@ -331,7 +331,7 @@
   },
   {
     "input": "In what ways might insufficient communication around equity compensation contribute to organizational challenges during periods of market uncertainty?",
-    "output": [
+    "expected": [
       40,
       41,
       45,
@@ -355,7 +355,7 @@
   },
   {
     "input": "What makes diversity and inclusion initiatives most effective in organizations?",
-    "output": [
+    "expected": [
       151,
       152,
       160,
@@ -379,7 +379,7 @@
   },
   {
     "input": "How can companies ensure their D&I efforts drive measurable business outcomes rather than remain isolated HR programs?",
-    "output": [
+    "expected": [
       151,
       152,
       160,
@@ -403,7 +403,7 @@
   },
   {
     "input": "In what ways do leadership engagement, data-driven metrics, and cross-functional ownership contribute to the transformation of diversity and inclusion from aspirational goals to tangible organizational change?",
-    "output": [
+    "expected": [
       151,
       152,
       160,
@@ -427,7 +427,7 @@
   },
   {
     "input": "What roles do legal and compliance leaders play in organizations?",
-    "output": [
+    "expected": [
       134,
       135,
       137,
@@ -451,7 +451,7 @@
   },
   {
     "input": "How can legal and compliance leaders effectively promote ethical conduct and compliance in high-growth or high-risk industries?",
-    "output": [
+    "expected": [
       134,
       135,
       137,
@@ -475,7 +475,7 @@
   },
   {
     "input": "In what ways does the dual responsibility of being both an ethical guide and a business partner influence the communication strategies of compliance leaders, particularly in rapidly expanding or risk-prone sectors?",
-    "output": [
+    "expected": [
       134,
       135,
       137,
@@ -499,7 +499,7 @@
   },
   {
     "input": "How is AI changing the way legal professionals work?",
-    "output": [
+    "expected": [
       2,
       3,
       4
@@ -522,7 +522,7 @@
   },
   {
     "input": "What new competencies are legal teams expected to develop as AI becomes more prevalent in legal practice?",
-    "output": [
+    "expected": [
       2,
       3,
       4
@@ -545,7 +545,7 @@
   },
   {
     "input": "In what ways does the integration of AI tools necessitate a shift in both workflow and quality assurance strategies for legal departments?",
-    "output": [
+    "expected": [
       2,
       3,
       4
@@ -568,7 +568,7 @@
   },
   {
     "input": "Why is it important for companies to align their values and mission with legal and ethical decisions?",
-    "output": [
+    "expected": [
       131,
       132,
       149,
@@ -592,7 +592,7 @@
   },
   {
     "input": "How does integrating a company's North Star into legal and ethical frameworks impact stakeholder trust and organizational credibility?",
-    "output": [
+    "expected": [
       131,
       132,
       149,
@@ -616,7 +616,7 @@
   },
   {
     "input": "In situations lacking clear regulation, what role does the alignment of internal guiding principles with decision-making play in shaping both internal behavior and external perceptions?",
-    "output": [
+    "expected": [
       131,
       132,
       149,
@@ -640,7 +640,7 @@
   },
   {
     "input": "What should a company focus on when transitioning from private to public status?",
-    "output": [
+    "expected": [
       53,
       54,
       96
@@ -663,7 +663,7 @@
   },
   {
     "input": "How can early implementation of public company governance practices mitigate risks during an IPO process?",
-    "output": [
+    "expected": [
       53,
       54,
       96
@@ -686,7 +686,7 @@
   },
   {
     "input": "In what ways do changes in board structure and information management contribute to a smoother private-to-public transition, and why is cultural adaptation important?",
-    "output": [
+    "expected": [
       53,
       54,
       96
@@ -709,7 +709,7 @@
   },
   {
     "input": "What are some best practices for using AI in legal departments?",
-    "output": [
+    "expected": [
       14,
       15,
       29,
@@ -733,7 +733,7 @@
   },
   {
     "input": "How can legal teams mitigate risks like data exposure and privilege waiver when implementing AI tools?",
-    "output": [
+    "expected": [
       14,
       15,
       29,
@@ -757,7 +757,7 @@
   },
   {
     "input": "In the context of evolving AI governance, what safeguards should legal departments prioritize to balance innovation with confidentiality and compliance concerns?",
-    "output": [
+    "expected": [
       14,
       15,
       29,
@@ -781,7 +781,7 @@
   },
   {
     "input": "Why is trust important in legal and business relationships?",
-    "output": [
+    "expected": [
       115,
       142,
       143
@@ -804,7 +804,7 @@
   },
   {
     "input": "How does establishing trust facilitate proactive risk management and ethical decision-making in professional settings?",
-    "output": [
+    "expected": [
       115,
       142,
       143
@@ -827,7 +827,7 @@
   },
   {
     "input": "In what ways does the interplay between legal ethics and business success hinge on the cultivation of trust to support open communication and effective counsel?",
-    "output": [
+    "expected": [
       115,
       142,
       143
@@ -850,7 +850,7 @@
   },
   {
     "input": "How should legal and compliance leaders handle situations where there are no clear rules?",
-    "output": [
+    "expected": [
       125,
       126,
       127
@@ -873,7 +873,7 @@
   },
   {
     "input": "What strategies can legal teams use to navigate regulatory uncertainty in emerging sectors?",
-    "output": [
+    "expected": [
       125,
       126,
       127
@@ -896,7 +896,7 @@
   },
   {
     "input": "In the context of evolving industries, how can organizations defend their compliance decisions to external parties when formal guidelines are lacking?",
-    "output": [
+    "expected": [
       125,
       126,
       127
@@ -919,7 +919,7 @@
   },
   {
     "input": "What makes a DEI program effective?",
-    "output": [
+    "expected": [
       153,
       154,
       160,
@@ -943,7 +943,7 @@
   },
   {
     "input": "How can legal teams integrate DEI initiatives into core business processes to drive measurable outcomes?",
-    "output": [
+    "expected": [
       153,
       154,
       160,
@@ -967,7 +967,7 @@
   },
   {
     "input": "In what ways does leveraging data and legal oversight enhance the impact of DEI strategies across recruitment, retention, and vendor relationships?",
-    "output": [
+    "expected": [
       153,
       154,
       160,
@@ -991,7 +991,7 @@
   },
   {
     "input": "Why should legal professionals be careful not to exceed their expertise?",
-    "output": [
+    "expected": [
       120,
       121,
       122,
@@ -1015,7 +1015,7 @@
   },
   {
     "input": "What best practices should solo GCs or in-house generalists follow to manage the boundaries of their legal knowledge?",
-    "output": [
+    "expected": [
       120,
       121,
       122,
@@ -1039,7 +1039,7 @@
   },
   {
     "input": "How does the ethical obligation to recognize professional limitations influence decisions about when to consult external legal experts?",
-    "output": [
+    "expected": [
       120,
       121,
       122,
@@ -1063,7 +1063,7 @@
   },
   {
     "input": "What makes legal and compliance teams successful?",
-    "output": [
+    "expected": [
       141,
       142,
       163,
@@ -1087,7 +1087,7 @@
   },
   {
     "input": "Why is it important for legal and compliance teams to be approachable and integrated within the business, particularly in high-growth or high-risk settings?",
-    "output": [
+    "expected": [
       141,
       142,
       163,
@@ -1111,7 +1111,7 @@
   },
   {
     "input": "How does the visibility and embeddedness of legal and compliance teams influence early issue detection and employee willingness to report concerns in dynamic business environments?",
-    "output": [
+    "expected": [
       141,
       142,
       163,
@@ -1135,7 +1135,7 @@
   },
   {
     "input": "What are some important steps in professionalizing board governance?",
-    "output": [
+    "expected": [
       96,
       103,
       104
@@ -1158,7 +1158,7 @@
   },
   {
     "input": "How can legal counsel facilitate the transition to more formalized board governance structures?",
-    "output": [
+    "expected": [
       96,
       103,
       104
@@ -1181,7 +1181,7 @@
   },
   {
     "input": "In what ways might a company incrementally align its board practices with public company standards while preparing for increased external oversight?",
-    "output": [
+    "expected": [
       96,
       103,
       104
@@ -1204,7 +1204,7 @@
   },
   {
     "input": "Why is it important for legal professionals to seek help from peers?",
-    "output": [
+    "expected": [
       10,
       11,
       143,
@@ -1228,7 +1228,7 @@
   },
   {
     "input": "How does benchmarking with other GCs reflect on a legal leader\u2019s effectiveness in a changing legal landscape?",
-    "output": [
+    "expected": [
       10,
       11,
       143,
@@ -1252,7 +1252,7 @@
   },
   {
     "input": "In what ways does embracing humility and community support redefine traditional expectations of expertise for general counsel in emerging legal fields?",
-    "output": [
+    "expected": [
       10,
       11,
       143,
@@ -1276,7 +1276,7 @@
   },
   {
     "input": "How can professionals handle ethical dilemmas in the workplace?",
-    "output": [
+    "expected": [
       116,
       117,
       118
@@ -1299,7 +1299,7 @@
   },
   {
     "input": "What strategies can leaders use to manage gray areas in ethical decision-making?",
-    "output": [
+    "expected": [
       116,
       117,
       118
@@ -1322,7 +1322,7 @@
   },
   {
     "input": "In situations where ethical issues are not clear-cut, how can setting boundaries and defining success criteria support integrity while determining whether to remediate, escalate, or exit?",
-    "output": [
+    "expected": [
       116,
       117,
       118
@@ -1345,7 +1345,7 @@
   },
   {
     "input": "How is AI helping legal teams save time and money?",
-    "output": [
+    "expected": [
       23,
       24,
       25
@@ -1368,7 +1368,7 @@
   },
   {
     "input": "What factors influence the effectiveness of AI and automation adoption in legal departments?",
-    "output": [
+    "expected": [
       23,
       24,
       25
@@ -1391,7 +1391,7 @@
   },
   {
     "input": "In what ways does the combination of legal domain expertise and strategic technology integration impact the value derived from AI in legal operations?",
-    "output": [
+    "expected": [
       23,
       24,
       25
@@ -1414,7 +1414,7 @@
   },
   {
     "input": "How can companies reduce bias in hiring and promotions?",
-    "output": [
+    "expected": [
       156,
       157,
       159,
@@ -1438,7 +1438,7 @@
   },
   {
     "input": "What best practices do legal and business leaders recommend to ensure equitable talent management?",
-    "output": [
+    "expected": [
       156,
       157,
       159,
@@ -1462,7 +1462,7 @@
   },
   {
     "input": "In what ways do structured evaluation methods and compensation transparency contribute to organizational equity, and how might cross-team calibration support these efforts?",
-    "output": [
+    "expected": [
       156,
       157,
       159,
@@ -1486,7 +1486,7 @@
   },
   {
     "input": "How is the role of lawyers changing in the modern workplace?",
-    "output": [
+    "expected": [
       110,
       111
     ],
@@ -1508,7 +1508,7 @@
   },
   {
     "input": "In what ways do in-house counsel serve as both legal and business partners within organizations?",
-    "output": [
+    "expected": [
       110,
       111
     ],
@@ -1530,7 +1530,7 @@
   },
   {
     "input": "How does the intersection of legal, HR, and business strategy in corporate environments influence the evolving responsibilities of legal professionals?",
-    "output": [
+    "expected": [
       110,
       111
     ],
@@ -1552,7 +1552,7 @@
   },
   {
     "input": "How can companies manage the challenges of removing or transitioning board members?",
-    "output": [
+    "expected": [
       76,
       77,
       86,
@@ -1576,7 +1576,7 @@
   },
   {
     "input": "What strategies can legal counsel use to facilitate effective board succession planning and minimize political fallout?",
-    "output": [
+    "expected": [
       76,
       77,
       86,
@@ -1600,7 +1600,7 @@
   },
   {
     "input": "In what ways can framing board transitions as part of organizational evolution, rather than personal shortcomings, impact the success of succession initiatives?",
-    "output": [
+    "expected": [
       76,
       77,
       86,
@@ -1624,7 +1624,7 @@
   },
   {
     "input": "Why is it important for legal leaders to be proactive in high-risk industries?",
-    "output": [
+    "expected": [
       1,
       2,
       108,
@@ -1648,7 +1648,7 @@
   },
   {
     "input": "How can legal teams balance innovation and compliance in highly regulated sectors?",
-    "output": [
+    "expected": [
       1,
       2,
       108,
@@ -1672,7 +1672,7 @@
   },
   {
     "input": "In what ways do evolving regulatory landscapes require legal departments to adapt their stakeholder engagement and risk management strategies in fast-growing industries?",
-    "output": [
+    "expected": [
       1,
       2,
       108,
@@ -1696,7 +1696,7 @@
   },
   {
     "input": "Why is it important for organizations to measure and report progress on key initiatives?",
-    "output": [
+    "expected": [
       160,
       161
     ],
@@ -1718,7 +1718,7 @@
   },
   {
     "input": "How do public commitments and transparent reporting influence organizational accountability and culture?",
-    "output": [
+    "expected": [
       160,
       161
     ],
@@ -1740,7 +1740,7 @@
   },
   {
     "input": "In what ways can integrating initiative progress into regulatory filings or audits foster shared ownership and drive momentum for change within a company?",
-    "output": [
+    "expected": [
       160,
       161
     ],
@@ -1762,7 +1762,7 @@
   },
   {
     "input": "Why is the human element still important in the legal profession despite advances in technology?",
-    "output": [
+    "expected": [
       10,
       11,
       134
@@ -1785,7 +1785,7 @@
   },
   {
     "input": "In what ways do AI and automation support, but not replace, core competencies required for legal leadership?",
-    "output": [
+    "expected": [
       10,
       11,
       134
@@ -1808,7 +1808,7 @@
   },
   {
     "input": "How does the interplay between technological tools and human qualities shape the future of legal practice, particularly regarding leadership and client relationships?",
-    "output": [
+    "expected": [
       10,
       11,
       134
@@ -1831,7 +1831,7 @@
   },
   {
     "input": "Why is it important for in-house counsel to define their roles clearly?",
-    "output": [
+    "expected": [
       137,
       138,
       139
@@ -1854,7 +1854,7 @@
   },
   {
     "input": "How can legal teams manage stakeholder expectations regarding the scope of legal services provided internally?",
-    "output": [
+    "expected": [
       137,
       138,
       139
@@ -1877,7 +1877,7 @@
   },
   {
     "input": "In what ways does proactive education about legal boundaries and ethical duties contribute to professionalism and risk mitigation within organizations?",
-    "output": [
+    "expected": [
       137,
       138,
       139
@@ -1900,7 +1900,7 @@
   },
   {
     "input": "What makes a legal or business leader effective?",
-    "output": [
+    "expected": [
       135,
       136,
       139,
@@ -1924,7 +1924,7 @@
   },
   {
     "input": "How does 'tone from the top' influence organizational culture and ethical standards?",
-    "output": [
+    "expected": [
       135,
       136,
       139,
@@ -1948,7 +1948,7 @@
   },
   {
     "input": "In what ways can leadership behaviors simultaneously drive ethical conduct and strategic business outcomes within an organization?",
-    "output": [
+    "expected": [
       135,
       136,
       139,
@@ -1972,7 +1972,7 @@
   },
   {
     "input": "What makes a compliance and risk management program effective?",
-    "output": [
+    "expected": [
       71,
       72,
       134,
@@ -1996,7 +1996,7 @@
   },
   {
     "input": "How can organizations enhance employee engagement with compliance initiatives?",
-    "output": [
+    "expected": [
       71,
       72,
       134,
@@ -2020,7 +2020,7 @@
   },
   {
     "input": "In what ways does customizing compliance training content impact organizational risk culture and program effectiveness?",
-    "output": [
+    "expected": [
       71,
       72,
       134,
@@ -2044,7 +2044,7 @@
   },
   {
     "input": "What qualities make organizations more resilient?",
-    "output": [
+    "expected": [
       142,
       143,
       144
@@ -2067,7 +2067,7 @@
   },
   {
     "input": "How can legal and business leaders ensure long-term organizational success amid change?",
-    "output": [
+    "expected": [
       142,
       143,
       144
@@ -2090,7 +2090,7 @@
   },
   {
     "input": "In the context of regulatory and technological shifts, what strategies distinguish organizations that consistently outperform their peers over time?",
-    "output": [
+    "expected": [
       142,
       143,
       144
