@@ -71,6 +71,7 @@ chunking-expt/
 │   ├── queries/           # LLM-generated synthetic queries
 │   └── query_chunk_pairs/ # Query-to-chunk ground truth mappings
 ├── 5_evaluation/          # Evaluation of chunking strategies
+│   ├── fixed_chunks/      # Phoenix experiments for fixed chunks
 │   ├── results/           # Retrieval accuracy and performance metrics
 │   └── reports/           # Analysis of chunking effectiveness
 └── plan/                  # Project planning and documentation
@@ -135,15 +136,27 @@ uv run python 3_database/generate_embeddings.py
 # Generate synthetic queries
 uv run python 4_labelled_dataset/generate_queries.py
 
-# Run evaluation
-uv run python 5_evaluation/evaluate_chunks.py
+# Run evaluation with Phoenix
+# First, start Phoenix in a separate terminal:
+phoenix serve
+
+# Then run the evaluation experiment:
+uv run python 5_evaluation/fixed_chunks/run_phoenix_experiment.py
 ```
 
 ## Evaluation Metrics
 
-- **Precision@K**: Precision of top-K retrieved chunks
-- **Recall@K**: Coverage of relevant information retrieved
-- **Mean Reciprocal Rank (MRR)**: Average rank position of correct chunks
+The evaluation uses Arize Phoenix to track and compare experiments with different retrieval configurations:
+
+- **MRR (Mean Reciprocal Rank)**: Measures how quickly the first relevant chunk is found (1/rank of first relevant result)
+- **Recall**: Percentage of all relevant chunks that were successfully retrieved
+- **Precision**: Percentage of retrieved chunks that are actually relevant
+
+### Experiment Configuration
+
+- Experiments are named with the format: `fixed_chunks_eval_at{N}_{timestamp}` where N is the number of search results
+- Configurable search results count (10, 20, 30, etc.) by modifying `search_results_count` in the script
+- Uses hybrid search combining vector similarity and full-text search with Reciprocal Rank Fusion (RRF)
 
 ## Next Steps
 
