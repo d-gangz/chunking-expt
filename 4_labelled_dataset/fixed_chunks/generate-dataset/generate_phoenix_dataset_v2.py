@@ -67,12 +67,12 @@ def create_phoenix_dataset_entry(question_entry: Dict, chunk_mappings: List[int]
     
     Phoenix expects:
     - input: The query/question text
-    - output: Array of chunk IDs that should be retrieved
+    - expected: Array of chunk IDs that should be retrieved
     - metadata: Dictionary containing additional information
     """
     return {
         "input": question_entry["question"],
-        "output": chunk_mappings,  # Array of chunk IDs that should be retrieved
+        "expected": chunk_mappings,  # Array of chunk IDs that should be retrieved
         "metadata": {
             "question_id": question_entry["question_id"],
             "difficulty": question_entry.get("difficulty", "medium"),
@@ -171,7 +171,7 @@ def generate_phoenix_dataset():
                 "description": "Phoenix-compatible retrieval evaluation dataset (v2 - quote starts only)",
                 "structure": {
                     "input": "The question/query text",
-                    "output": "Array of chunk IDs where quotes BEGIN",
+                    "expected": "Array of chunk IDs where quotes BEGIN",
                     "metadata": {
                         "question_id": "Unique identifier for the question",
                         "difficulty": "Question difficulty level",
@@ -214,7 +214,7 @@ def generate_phoenix_dataset():
     for entry in phoenix_dataset:
         simplified_entry = {
             "input": entry["input"],
-            "output": entry["output"],
+            "expected": entry["expected"],
             "metadata": {
                 "question_id": entry["metadata"]["question_id"],
                 "difficulty": entry["metadata"]["difficulty"],
