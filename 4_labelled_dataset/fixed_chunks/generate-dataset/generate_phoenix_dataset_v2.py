@@ -12,7 +12,7 @@ Output:
 
 import json
 from datetime import datetime
-from typing import List, Dict, Tuple
+from typing import List, Dict
 from pathlib import Path
 
 
@@ -66,17 +66,18 @@ def create_phoenix_dataset_entry(question_entry: Dict, chunk_mappings: List[int]
     Create a Phoenix-compatible dataset entry.
     
     Phoenix expects:
-    - input/query: The question text
-    - expected/reference: Array of chunk IDs that should be retrieved
-    - metadata: Additional information for debugging/analysis
+    - input: The query/question text
+    - output: Array of chunk IDs that should be retrieved
+    - metadata: Dictionary containing additional information
     """
     return {
-        "query": question_entry["question"],
-        "expected": chunk_mappings,  # Array of chunk IDs
-        "question_id": question_entry["question_id"],
-        "difficulty": question_entry.get("difficulty", "medium"),
+        "input": question_entry["question"],
+        "output": chunk_mappings,  # Array of chunk IDs that should be retrieved
         "metadata": {
+            "question_id": question_entry["question_id"],
+            "difficulty": question_entry.get("difficulty", "medium"),
             "comprehensive_answer": question_entry["comprehensive_answer"],
+            "source_quotes": question_entry.get("source_quotes", []),
             "source_quotes_count": len(question_entry.get("source_quotes", []))
         }
     }
@@ -148,8 +149,8 @@ def generate_phoenix_dataset():
             # Create Phoenix dataset entry
             phoenix_entry = create_phoenix_dataset_entry(entry, chunk_ids_list)
             
-            # Add debugging information
-            phoenix_entry["_debug"] = {
+            # Add debugging information to metadata
+            phoenix_entry["metadata"]["_debug"] = {
                 "chunk_details": chunk_details,
                 "total_chunks_mapped": len(chunk_ids_list)
             }
@@ -168,12 +169,16 @@ def generate_phoenix_dataset():
             "mapping_stats": mapping_stats,
             "phoenix_format": {
                 "description": "Phoenix-compatible retrieval evaluation dataset (v2 - quote starts only)",
-                "fields": {
-                    "query": "The question/input text",
-                    "expected": "Array of chunk IDs where quotes BEGIN",
-                    "question_id": "Unique identifier for the question",
-                    "difficulty": "Question difficulty level",
-                    "metadata": "Additional information for analysis"
+                "structure": {
+                    "input": "The question/query text",
+                    "output": "Array of chunk IDs where quotes BEGIN",
+                    "metadata": {
+                        "question_id": "Unique identifier for the question",
+                        "difficulty": "Question difficulty level",
+                        "comprehensive_answer": "Complete answer text",
+                        "source_quotes": "Array of source quotes with transcript titles",
+                        "source_quotes_count": "Number of source quotes"
+                    }
                 }
             }
         },
@@ -201,28 +206,23 @@ def generate_phoenix_dataset():
     
     print(f"\nDataset saved to: {output_path}")
     
-    # Create a simplified version for direct Phoenix upload with source quotes
+    # Create a simplified version for direct Phoenix upload
     simplified_path = base_dir / "fixed_chunks" / "generate-dataset" / "phoenix_dataset_simplified_v2.json"
     
-    # Map phoenix entries back to original entries to get source quotes and comprehensive answer
-    question_id_to_original = {}
-    for entry in base_data['entries']:
-        question_id_to_original[entry['question_id']] = {
-            'source_quotes': entry.get('source_quotes', []),
-            'comprehensive_answer': entry.get('comprehensive_answer', '')
+    # Create cleaned entries without debug info and extra fields
+    simplified_data = []
+    for entry in phoenix_dataset:
+        simplified_entry = {
+            "input": entry["input"],
+            "output": entry["output"],
+            "metadata": {
+                "question_id": entry["metadata"]["question_id"],
+                "difficulty": entry["metadata"]["difficulty"],
+                "comprehensive_answer": entry["metadata"]["comprehensive_answer"],
+                "source_quotes": entry["metadata"]["source_quotes"]
+            }
         }
-    
-    simplified_data = [
-        {
-            "query": entry["query"],
-            "expected": entry["expected"],
-            "question_id": entry["question_id"],
-            "difficulty": entry["difficulty"],
-            "comprehensive_answer": question_id_to_original.get(entry["question_id"], {}).get('comprehensive_answer', ''),
-            "source_quotes": question_id_to_original.get(entry["question_id"], {}).get('source_quotes', [])
-        }
-        for entry in phoenix_dataset
-    ]
+        simplified_data.append(simplified_entry)
     
     with open(simplified_path, 'w') as f:
         json.dump(simplified_data, f, indent=2)
