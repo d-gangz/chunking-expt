@@ -1,4 +1,4 @@
-# The Role of Legal in Building an Effective Diversity & Inclusion Program (Jill Simeone, Etsy)
+Title: The Role of Legal in Building an Effective Diversity & Inclusion Program (Jill Simeone, Etsy)
 
 **Total Duration:** 29:38
 

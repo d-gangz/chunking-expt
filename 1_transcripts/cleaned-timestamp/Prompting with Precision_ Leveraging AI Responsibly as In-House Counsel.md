@@ -1,4 +1,4 @@
-# Prompting with Precision: Leveraging AI Responsibly as In-House Counsel
+Title: Prompting with Precision: Leveraging AI Responsibly as In-House Counsel
 
 **Total Duration:** 58:02
 
@@ -6,12 +6,9 @@
 
 **Speakers:** 3
 
-
 ---
 
-
 **[Speaker 1]**
-
 
 [4.715 - 5.765] Welcome everybody.
 
@@ -46,7 +43,6 @@
 [38.485 - 40.085] I will hand it over to you to get us started.
 
 **[Speaker 2]**
-
 
 [41.145 - 44.575] Thank you. Hi everybody. I am Tommy Avara Spira.
 
@@ -84,7 +80,6 @@
 
 **[Speaker 3]**
 
-
 [84.665 - 88.165] Hi, I'm Jason. I am a general counsel of a collection
 
 [88.345 - 91.845] of software startups, predominantly in FinTech ai.
@@ -102,7 +97,6 @@
 [107.795 - 109.345] legal workflows in-house as well.
 
 **[Speaker 2]**
-
 
 [110.405 - 111.805] Excellent. Thank you both.
 
@@ -153,7 +147,6 @@
 [178.195 - 180.805] to a materially better output?
 
 **[Speaker 3]**
-
 
 [182.715 - 185.685] Yeah, sure. So I guess to preface this,
 
@@ -213,7 +206,6 @@
 
 **[Speaker 2]**
 
-
 [252.385 - 254.545] Jason, I'll ask a a quick follow up
 
 [254.545 - 256.385] before I go over to Alex.
@@ -225,7 +217,6 @@
 [264.695 - 265.955] how do, how do you know what's wrong?
 
 **[Speaker 3]**
-
 
 [267.425 - 270.005] That's somewhat that, that, that's a big problem.
 
@@ -249,7 +240,6 @@
 
 **[Speaker 2]**
 
-
 [292.555 - 293.555] Just to verify.
 
 [293.805 - 297.165] Excellent. And Alex, what criteria are you using to know
@@ -257,7 +247,6 @@
 [297.395 - 299.125] that a prompt is hitting the mark?
 
 **[Speaker 3]**
-
 
 [299.715 - 301.845] Yeah, I think the most recent models
 
@@ -307,7 +296,6 @@
 
 **[Speaker 2]**
 
-
 [368.315 - 370.935] Do you have any sort of methodology to
 
 [371.565 - 374.975] what you do when you do come up with a good prompt
@@ -315,7 +303,6 @@
 [375.315 - 377.935] and you want to save it or share it?
 
 **[Speaker 3]**
-
 
 [378.925 - 381.015] Yeah, definitely. So there are plenty of tools
 
@@ -371,7 +358,6 @@
 
 **[Speaker 2]**
 
-
 [448.335 - 451.955] And before I, I I pivot to Jason a quick follow.
 
 [452.375 - 456.035] Um, it used to be that the order of
@@ -391,7 +377,6 @@
 [467.195 - 470.035] context or not, doesn't matter anymore?
 
 **[Speaker 3]**
-
 
 [471.625 - 473.205] Um, that's a, that's a great point.
 
@@ -437,7 +422,6 @@
 
 **[Speaker 2]**
 
-
 [516.035 - 518.445] Does catch my reads right through my typo.
 
 [518.945 - 520.485] Um, so Jason, what,
@@ -445,7 +429,6 @@
 [520.795 - 523.125] what tools are you leaning on for prompting,
 
 **[Speaker 3]**
-
 
 [524.435 - 527.195] I guess, uh, I don't have to think too hard.
 
@@ -478,7 +461,6 @@
 [558.585 - 560.925] and go from there with pretty good results.
 
 **[Speaker 2]**
-
 
 [562.795 - 567.605] Also, I think a pro tip is if you are really not getting
 
@@ -519,7 +501,6 @@
 [616.825 - 620.165] to cause something misleading or to cause a risky output?
 
 **[Speaker 3]**
-
 
 [621.455 - 624.145] Yeah, so there's a couple different answers to that.
 
@@ -575,7 +556,6 @@
 
 **[Speaker 2]**
 
-
 [695.915 - 697.845] Yeah, and, and I'll, I'll add onto
 
 [697.845 - 700.005] that is sometimes when I've been stuck
@@ -617,7 +597,6 @@
 [748.955 - 751.445] what, what came out, um, of your prompt?
 
 **[Speaker 3]**
-
 
 [752.985 - 755.915] Yeah, definitely leading, asking, leading questions is,
 
@@ -755,7 +734,6 @@
 
 **[Speaker 2]**
 
-
 [938.965 - 941.265] That's great. And I feel like you touched on this a little
 
 [941.265 - 942.505] bit, but I'll, but I'll ask it anyway
@@ -785,7 +763,6 @@
 [969.345 - 970.785] that confidence in the response?
 
 **[Speaker 3]**
-
 
 [972.635 - 974.275] I think so going back
 
@@ -867,7 +844,6 @@
 
 **[Speaker 2]**
 
-
 [1078.145 - 1081.125] And Alex, really quickly to um, to your,
 
 [1081.345 - 1084.245] to your point about using Ivo GCI
@@ -881,7 +857,6 @@
 [1089.685 - 1091.045] utilizing three different tools?
 
 **[Speaker 3]**
-
 
 [1092.035 - 1093.645] Yeah, so I just actually responded
 
@@ -983,7 +958,6 @@
 
 **[Speaker 2]**
 
-
 [1213.275 - 1216.775] That's excellent. So we've taken the audience through
 
 [1217.605 - 1222.175] prompting, getting them comfortable with maybe how to prompt
@@ -1017,7 +991,6 @@
 [1257.385 - 1259.805] and what kind of guardrails do you put in?
 
 **[Speaker 3]**
-
 
 [1261.275 - 1266.105] Definitely, yeah, so it helps that we are a company run
 
@@ -1125,7 +1098,6 @@
 
 **[Speaker 2]**
 
-
 [1406.055 - 1408.555] And will you, um, will you explain
 
 [1408.555 - 1412.195] to the audience why you wouldn't want the the models
@@ -1133,7 +1105,6 @@
 [1412.255 - 1413.355] to train on that data?
 
 **[Speaker 3]**
-
 
 [1413.565 - 1415.755] Definitely, yeah. So this,
 
@@ -1185,7 +1156,6 @@
 
 **[Speaker 2]**
 
-
 [1477.145 - 1481.005] So the, the chat's going wild, talking about, uh, g gca,
 
 [1481.195 - 1484.485] AI's ability to, um, come up with the prompts.
@@ -1199,7 +1169,6 @@
 [1492.965 - 1494.285] a super prompt that you created?
 
 **[Speaker 3]**
-
 
 [1495.295 - 1497.995] Oh yeah, sure. So let me share my screen.
 
@@ -1247,7 +1216,6 @@
 
 **[Speaker 2]**
 
-
 [1568.395 - 1569.735] It it has already been.
 
 [1569.915 - 1574.175] And I guess staying on the, the topic here, Jason, what,
@@ -1263,7 +1231,6 @@
 [1584.795 - 1586.535] what's being used as prompts?
 
 **[Speaker 3]**
-
 
 [1588.305 - 1590.405] Uh, so we don't audit.
 
@@ -1303,7 +1270,6 @@
 
 **[Speaker 2]**
 
-
 [1637.555 - 1640.735] And I know we, we haven't talked about agents,
 
 [1640.835 - 1642.815] but we did get a question in the chat.
@@ -1313,7 +1279,6 @@
 [1646.575 - 1649.295] after, are either of you creating agents?
 
 **[Speaker 3]**
-
 
 [1650.775 - 1652.555] We are, our our company is doing it.
 
@@ -1411,7 +1376,6 @@
 
 **[Speaker 2]**
 
-
 [1775.455 - 1780.015] Done, we use a lot of Zaps at, uh, at law trades
 
 [1780.155 - 1781.365] and they're pretty awesome.
@@ -1441,7 +1405,6 @@
 [1813.885 - 1816.245] putting client data into these models? Yeah,
 
 **[Speaker 3]**
-
 
 [1816.405 - 1821.285] I think, um, for the general purpose models like open AI
 
@@ -1511,7 +1474,6 @@
 
 **[Speaker 2]**
 
-
 [1898.825 - 1901.035] Okay. So we've been through prompts,
 
 [1901.455 - 1903.435] we touched on agents very quickly.
@@ -1535,7 +1497,6 @@
 [1931.605 - 1932.855] what they can do there?
 
 **[Speaker 3]**
-
 
 [1934.705 - 1936.595] Yeah, I'll just regurgitate some
 
@@ -1571,7 +1532,6 @@
 
 **[Speaker 2]**
 
-
 [1983.505 - 1987.455] Fantastic. And Alex, um,
 
 [1988.785 - 1991.365] uh, uh, hopefully like you, you know,
@@ -1585,7 +1545,6 @@
 [2000.175 - 2001.395] Any, any magic there?
 
 **[Speaker 3]**
-
 
 [2002.875 - 2007.765] Yeah, so I would say the default program nowadays we use
 
@@ -1649,7 +1608,6 @@
 
 **[Speaker 2]**
 
-
 [2085.585 - 2088.865] Interesting question. Um, does anyone have
 
 [2090.325 - 2092.625] walled off instances by department?
@@ -1661,7 +1619,6 @@
 [2098.905 - 2099.945] an interesting question we got.
 
 **[Speaker 3]**
-
 
 [2100.695 - 2103.055] I think I'd probably have to ask a follow-up question
 
@@ -1731,7 +1688,6 @@
 
 **[Speaker 2]**
 
-
 [2192.165 - 2195.505] So I am going to bring us, um,
 
 [2196.495 - 2198.635] to perhaps like the most exciting part.
@@ -1753,7 +1709,6 @@
 [2223.215 - 2225.435] and you can say you have tangible numbers.
 
 **[Speaker 3]**
-
 
 [2226.105 - 2230.835] Yeah, definitely. So I joined Jasper three years ago, um,
 
@@ -1867,13 +1822,11 @@
 
 **[Speaker 2]**
 
-
 [2366.795 - 2370.005] That, that is like quite a win.
 
 [2371.205 - 2372.785] Uh, Jason, how about you?
 
 **[Speaker 3]**
-
 
 [2374.195 - 2377.555] I don't have, uh, specific figures like Alex does,
 
@@ -1900,7 +1853,6 @@
 [2409.695 - 2410.695] AI assisted,
 
 **[Speaker 2]**
-
 
 [2411.955 - 2413.455] No, I think, I think you're not
 
@@ -1940,7 +1892,6 @@
 
 **[Speaker 3]**
 
-
 [2460.905 - 2462.845] Uh, pick your tools wisely.
 
 [2463.265 - 2465.805] I'm definitely, I'm probably not the best at that,
@@ -1957,13 +1908,11 @@
 
 **[Speaker 2]**
 
-
 [2483.755 - 2484.865] Trust them, verify.
 
 [2485.135 - 2487.465] Alex, what about you? What advice would you give somebody?
 
 **[Speaker 3]**
-
 
 [2489.435 - 2493.205] Yeah, I'm once again just gonna rip from Ethan Malik's
 
@@ -2121,7 +2070,6 @@
 
 **[Speaker 2]**
 
-
 [2694.285 - 2696.725] I have started to ask chat
 
 [2697.085 - 2698.205] questions that I used to Google.
@@ -2150,7 +2098,6 @@
 
 **[Speaker 3]**
 
-
 [2731.795 - 2734.085] Yeah, I should have provided some more details.
 
 [2734.225 - 2737.565] So again, I'm not the expert in which tool to pick.
@@ -2173,7 +2120,6 @@
 
 **[Speaker 2]**
 
-
 [2757.075 - 2758.965] Well, and I think you're overlaying it
 
 [2758.965 - 2761.165] with what's important, which is you had the expertise
@@ -2192,7 +2138,6 @@
 
 **[Speaker 3]**
 
-
 [2773.355 - 2776.045] Certainly if you don't have the expertise to run
 
 [2776.565 - 2778.085] a certain kind of transaction
@@ -2204,7 +2149,6 @@
 [2784.935 - 2786.635] That's right. And we've all been saying, yeah.
 
 **[Speaker 2]**
-
 
 [2787.865 - 2791.695] So, um, Alex, this, this goes back to something you said,
 
@@ -2221,7 +2165,6 @@
 [2809.215 - 2810.215] and confidentiality?
 
 **[Speaker 3]**
-
 
 [2811.025 - 2813.715] Yeah, the easy answer is I don't get comfortable
 
@@ -2311,7 +2254,6 @@
 
 **[Speaker 2]**
 
-
 [2924.695 - 2926.895] I I'm gonna pivot a little bit to CLMs.
 
 [2927.115 - 2931.335] So the question is largely around like AI tools
@@ -2339,7 +2281,6 @@
 [2961.215 - 2962.435] or any insights there?
 
 **[Speaker 3]**
-
 
 [2963.145 - 2964.715] Yeah, I definitely have an opinion
 
@@ -2437,7 +2378,6 @@
 
 **[Speaker 2]**
 
-
 [3084.245 - 3085.695] Yeah, it's an interesting space
 
 [3085.715 - 3089.455] for sure when every product has its own ai, right?
@@ -2482,7 +2422,6 @@
 
 **[Speaker 3]**
 
-
 [3147.925 - 3150.745] Uh, GC AI is kind of just awesome.
 
 [3151.405 - 3154.905] So the precision and the responses is very impressive.
@@ -2516,7 +2455,6 @@
 [3195.265 - 3198.025] be bothered to get too much into the AI weeds.
 
 **[Speaker 2]**
-
 
 [3198.325 - 3199.425] Oh, that's impressive.
 
@@ -2555,7 +2493,6 @@
 [3247.865 - 3248.885] two years, three years?
 
 **[Speaker 3]**
-
 
 [3249.715 - 3254.165] Yeah, so I am an ai, uh, optimist.
 
@@ -2691,7 +2628,6 @@
 
 **[Speaker 2]**
 
-
 [3437.715 - 3439.365] That is so impressive.
 
 [3439.705 - 3440.765] Um, I wanna say
@@ -2719,7 +2655,6 @@
 [3468.735 - 3469.735] Thank you everybody.
 
 **[Speaker 1]**
-
 
 [3470.995 - 3474.615] Thanks Tommy, Jason, and Alex for, um, sharing your time
 

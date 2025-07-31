@@ -126,5 +126,17 @@ with console.status("[yellow]Evaluating traces...") as status:
 ## Code Documentation Guidelines
 
 - Add comprehensive docstrings at the top of all Python scripts describing their purpose and functionality
+- **Always specify where the script obtains its input data** (e.g., file paths, directories, APIs)
 - Include inline comments to explain complex logic or non-obvious code segments
 - Aim for clear, concise documentation that helps other developers understand the code quickly
+
+Example docstring format:
+```python
+"""
+Script to process transcript chunks and generate embeddings.
+
+Input: Reads chunks from 2_chunks/chunks/
+Output: Saves embeddings to 3_database/embeddings/
+Dependencies: Requires OpenAI API key in .env file
+"""
+```
