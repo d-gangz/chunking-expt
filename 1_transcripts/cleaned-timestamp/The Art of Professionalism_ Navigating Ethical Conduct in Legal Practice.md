@@ -1,4 +1,4 @@
-# The Art of Professionalism: Navigating Ethical Conduct in Legal Practice
+Title: The Art of Professionalism: Navigating Ethical Conduct in Legal Practice
 
 **Total Duration:** 60:18
 
@@ -6,12 +6,9 @@
 
 **Speakers:** 4
 
-
 ---
 
-
 **[Speaker 1.0]**
-
 
 [4.905 - 6.275] Welcome L Suite members.
 
@@ -86,7 +83,6 @@
 [90.555 - 93.035] and hand it over to you to get us started. Thanks
 
 **[Speaker 2.0]**
-
 
 [93.035 - 94.035] So much.
 
@@ -169,7 +165,6 @@
 [195.625 - 197.165] And Catherine, I'll start with you.
 
 **[Speaker 3.0]**
-
 
 [199.145 - 202.685] Hi, everyone. Uh, it's a pleasure to be here today.
 
@@ -261,7 +256,6 @@
 
 **[Speaker 2.0]**
 
-
 [324.275 - 325.455] Thanks so much, Catherine.
 
 [325.455 - 326.655] We're so excited that you're here
@@ -275,7 +269,6 @@
 [331.775 - 333.055] for a quick introduction as well.
 
 **[Speaker 4.0]**
-
 
 [333.645 - 336.215] Sure. Thank you. Um, my name's Amelia Hinky.
 
@@ -338,7 +331,6 @@
 [417.835 - 419.555] and participate in today's conversation.
 
 **[Speaker 2.0]**
-
 
 [420.005 - 421.275] Right. Thanks so much, Amelia.
 
@@ -459,7 +451,6 @@
 [554.985 - 556.325] Um, Catherine, let's start with you.
 
 **[Speaker 3.0]**
-
 
 [557.505 - 559.925] So this arises in a couple different contexts.
 
@@ -641,7 +632,6 @@
 
 **[Speaker 4.0]**
 
-
 [786.195 - 787.765] Yeah. Amelia, I'd love
 
 [787.765 - 790.205] to hear a a little about your iteration of this situation.
@@ -810,7 +800,6 @@
 
 **[Speaker 2.0]**
 
-
 [1032.815 - 1034.665] Yeah. I think a, a couple of gems from
 
 [1034.665 - 1037.265] what you said is it, it can be sometimes challenging
@@ -842,7 +831,6 @@
 [1063.625 - 1065.785] of whatever the issue is that one is dealing with.
 
 **[Speaker 4.0]**
-
 
 [1066.695 - 1068.745] Yeah. I think you raise a really good point, Jasmine.
 
@@ -903,7 +891,6 @@
 [1144.225 - 1146.285] and authentic and ethical to me. Yeah.
 
 **[Speaker 2.0]**
-
 
 [1147.045 - 1148.925] I, I, the additional recall I'll offer,
 
@@ -1004,7 +991,6 @@
 [1259.425 - 1261.525] of your company, your business, and yourself.
 
 **[Speaker 3.0]**
-
 
 [1262.445 - 1265.965] I like using the response that resonates with parents.
 
@@ -1144,7 +1130,6 @@
 
 **[Speaker 2.0]**
 
-
 [1430.025 - 1433.005] Mm-Hmm. Amelia, how have you dealt with that sort
 
 [1433.005 - 1434.325] of ethical quandary of like,
@@ -1156,7 +1141,6 @@
 [1439.305 - 1440.765] or want to know or want to answer?
 
 **[Speaker 4.0]**
-
 
 [1441.635 - 1445.205] Yeah, I think, um, as a, you know, generalist, by
 
@@ -1235,7 +1219,6 @@
 [1548.505 - 1551.925] and be prepared to, to pull somebody else in. Yeah.
 
 **[Speaker 2.0]**
-
 
 [1552.345 - 1554.285] And I'll, I'll share my personal experience
 
@@ -1353,7 +1336,6 @@
 
 **[Speaker 4.0]**
 
-
 [1688.385 - 1691.165] Oh, I think this one, uh, is probably better posed
 
 [1691.165 - 1694.205] to Catherine, uh, just given her her role.
@@ -1363,7 +1345,6 @@
 [1695.625 - 1699.085] our industries are not super highly regulated, so Yeah.
 
 **[Speaker 3.0]**
-
 
 [1699.305 - 1701.725] I'm jealous of Amelia. I'm very jealous.
 
@@ -1501,7 +1482,6 @@
 
 **[Speaker 2.0]**
 
-
 [1888.865 - 1890.965] Can, let's talk a little bit how you navigated
 
 [1890.965 - 1893.725] that gray area in terms of leaning on outside counsel.
@@ -1513,7 +1493,6 @@
 [1898.825 - 1900.485] and, you know, guidance along the way?
 
 **[Speaker 3.0]**
-
 
 [1901.185 - 1903.325] That's really tough, particularly with crypto,
 
@@ -1605,7 +1584,6 @@
 
 **[Speaker 2.0]**
 
-
 [2008.235 - 2010.685] Yeah. Okay. I'd love to hear sort of also the,
 
 [2010.745 - 2012.165] the inner layer of
@@ -1627,7 +1605,6 @@
 [2030.125 - 2031.605] whatever approach the business is taking?
 
 **[Speaker 3.0]**
-
 
 [2032.825 - 2035.035] I've always been radically transparent
 
@@ -1710,7 +1687,6 @@
 [2134.505 - 2137.605] like, we could, we could go on and on and on. Mm-Hmm.
 
 **[Speaker 2.0]**
-
 
 [2137.705 - 2139.205] Mm-Hmm. Interesting.
 
@@ -1840,7 +1816,6 @@
 
 **[Speaker 3.0]**
 
-
 [2289.845 - 2291.125] Love that so much, Jasmine.
 
 [2291.485 - 2294.925] I just have to say, I think your primary job as GC is
@@ -1901,7 +1876,6 @@
 
 **[Speaker 2.0]**
 
-
 [2361.545 - 2364.565] Mm-Hmm. Yeah. And Amelia, I'd love to turn it over
 
 [2364.565 - 2366.285] to you to, uh, focus on that part
@@ -1915,7 +1889,6 @@
 [2372.985 - 2375.085] or really navigating some of those hard discussions?
 
 **[Speaker 4.0]**
-
 
 [2375.835 - 2379.645] Yeah, Jasmine, I think, um, the way that you, uh,
 
@@ -2037,7 +2010,6 @@
 
 **[Speaker 2.0]**
 
-
 [2574.205 - 2575.205] I love that. You
 
 [2575.205 - 2578.485] know, I, I think it's probably rare to have a panel on
@@ -2085,7 +2057,6 @@
 [2633.485 - 2635.045] and, um, Catherine, we can start with you
 
 **[Speaker 3.0]**
-
 
 [2636.445 - 2638.205] A couple very practical suggestions.
 
@@ -2191,7 +2162,7 @@
 
 [2789.475 - 2790.895] and know that you're in a safe place,
 
-[2791.355 - 2794.095] but also know that I'm not gonna b******t you.
+[2791.355 - 2794.095] but also know that I'm not gonna b**\*\***t you.
 
 [2794.205 - 2795.215] This is not okay.
 
@@ -2204,7 +2175,6 @@
 [2804.035 - 2806.655] And I think that my team should have the same attitude.
 
 **[Speaker 4.0]**
-
 
 [2808.645 - 2811.725] I love that. Amelia. Yeah, Catherine, I,
 
@@ -2316,13 +2286,11 @@
 
 **[Speaker 3.0]**
 
-
 [2966.825 - 2968.435] Yeah. Yeah. What was that, Catherine?
 
 [2968.655 - 2971.235] Uh, I've, I've gotten a lot of people asking me for divorce,
 
 **[Speaker 4.0]**
-
 
 [2971.235 - 2972.235] Lawyers divorce.
 
@@ -2376,23 +2344,19 @@
 
 **[Speaker 2.0]**
 
-
 [3037.065 - 3039.215] Mm-Hmm. Heather,
 
 [3039.315 - 3041.855] I'm gonna let you do your CE code announcement. Most
 
 **[Speaker 3.0]**
 
-
 [3041.855 - 3044.335] Important part of the presentation is now,
 
 **[Speaker 2.0]**
 
-
 [3047.485 - 3048.485] Oh, you were muted.
 
 **[Speaker 1.0]**
-
 
 [3048.615 - 3049.865] This is such a great discussion.
 
@@ -2413,7 +2377,6 @@
 [3069.715 - 3070.185] Thank you.
 
 **[Speaker 3.0]**
-
 
 [3070.715 - 3072.345] Thank you, Jasmine.
 
@@ -2514,7 +2477,6 @@
 [3191.305 - 3193.185] why you're doing what you're doing. Mm-Hmm.
 
 **[Speaker 2.0]**
-
 
 [3193.975 - 3196.345] Yeah. I, I, I think to, to distill
 
@@ -2644,7 +2606,6 @@
 
 **[Speaker 4.0]**
 
-
 [3352.505 - 3355.075] Sure. Thank you. Um, I think
 
 [3357.595 - 3360.365] just to kind of echo the point you just made, Jasmine, you,
@@ -2672,7 +2633,6 @@
 [3394.345 - 3395.955] Take time to invest in those relationships.
 
 **[Speaker 3.0]**
-
 
 [3397.875 - 3398.995] I feel the same way. I was gonna say,
 
@@ -2735,7 +2695,6 @@
 [3471.395 - 3473.955] of top down ethos of the organization. Mm-Hmm.
 
 **[Speaker 2.0]**
-
 
 [3474.475 - 3476.035] I love those nuggets. Thank you.
 
@@ -2830,7 +2789,6 @@
 [3585.815 - 3587.455] Heather, I'll turn it over to you to close us out.
 
 **[Speaker 1.0]**
-
 
 [3587.995 - 3591.295] Thanks so much, Amelia, Catherine, Jasmine, thank you
 

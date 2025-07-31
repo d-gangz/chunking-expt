@@ -1,4 +1,4 @@
-# TechGC Virtual Dinner: Level Up Your Board(Jolie Siegel, C4 Therapeutics; Alan Smith & Kat Duncan, Fenwick)
+Title: TechGC Virtual Dinner: Level Up Your Board(Jolie Siegel, C4 Therapeutics; Alan Smith & Kat Duncan, Fenwick)
 
 **Total Duration:** 88:52
 
@@ -6,12 +6,9 @@
 
 **Speakers:** 21
 
-
 ---
 
-
 **[Speaker 0.0]**
-
 
 [1.245 - 2.315] Hello everyone,
 
@@ -58,7 +55,6 @@
 [65.675 - 66.995] I'll pass it over to you.
 
 **[Speaker 1.0]**
-
 
 [67.885 - 69.595] Thank you, Tara. So looking forward
 
@@ -144,7 +140,6 @@
 
 **[Speaker 2.0]**
 
-
 [169.515 - 172.165] Yeah, say I'll go first. Uh, so thanks Julie.
 
 [172.425 - 173.925] Uh, so my name is Kat Duncan.
@@ -227,7 +222,6 @@
 
 **[Speaker 3.0]**
 
-
 [276.565 - 279.265] Thanks. Um, I think Kat, uh, painted
 
 [279.335 - 281.665] that picture pretty well, so there's not a lot left
@@ -280,7 +274,6 @@
 
 **[Speaker 1.0]**
 
-
 [346.415 - 348.785] Awesome. So I think the form effort
 
 [348.785 - 349.865] tonight, just a couple things.
@@ -327,7 +320,6 @@
 
 **[Speaker 4.0]**
 
-
 [398.895 - 399.955] Hi, everybody. Good evening.
 
 [400.135 - 402.635] Um, happy to, to join this group.
@@ -356,13 +348,11 @@
 
 **[Speaker 1.0]**
 
-
 [432.735 - 434.195] And Christine, why don't you pick somebody
 
 [434.335 - 435.755] and we'll just keep passing it around.
 
 **[Speaker 4.0]**
-
 
 [436.135 - 439.515] Uh, so yeah, I'll, I'll pass the baton to, I think Kat is
 
@@ -373,7 +363,6 @@
 [444.735 - 445.735] Hi, Karen.
 
 **[Speaker 5.0]**
-
 
 [447.855 - 449.515] Hi, I'm Karen Tepi chain.
 
@@ -415,7 +404,6 @@
 
 **[Speaker 6.0]**
 
-
 [513.825 - 515.365] So I'm another Karen, I wasn't sure
 
 [515.365 - 516.525] which Karen you were calling out.
@@ -424,11 +412,9 @@
 
 **[Speaker 5.0]**
 
-
 [519.425 - 520.425] Hi Karen.
 
 **[Speaker 6.0]**
-
 
 [520.425 - 522.085] I'm Karen Galley. I'm, um,
 
@@ -481,7 +467,6 @@
 [584.085 - 586.185] Um, so I am gonna call Efrin.
 
 **[Speaker 7.0]**
-
 
 [589.385 - 590.995] Good evening everyone. My name's Fen Garcia.
 
@@ -545,16 +530,13 @@
 
 **[Speaker 1.0]**
 
-
 [668.375 - 669.635] All right. Who are you calling on next?
 
 **[Speaker 7.0]**
 
-
 [671.895 - 673.835] Uh, Dustin Carlton.
 
 **[Speaker 8.0]**
-
 
 [676.105 - 677.285] Hey, how's everybody doing?
 
@@ -609,7 +591,6 @@
 [759.785 - 760.865] Okay. I didn't have your name written down.
 
 **[Speaker 9.0]**
-
 
 [761.465 - 764.105] I was like, wait. That's okay. That's alright.
 
@@ -678,7 +659,6 @@
 [865.145 - 869.855] Um, how about Renee Hunter?
 
 **[Speaker 10.0]**
-
 
 [872.545 - 875.465] I was getting nervous I was gonna be the last picked, uh,
 
@@ -754,7 +734,6 @@
 
 **[Speaker 11.0]**
 
-
 [971.105 - 973.485] No, not yet. Uh, hey, uh, David Morris,
 
 [973.485 - 975.165] general Counsel for Vivid Seats.
@@ -799,7 +778,6 @@
 
 **[Speaker 12.0]**
 
-
 [1035.635 - 1038.775] No, I have not. Thank you. Uh, my name is Steven Quinlan.
 
 [1038.775 - 1041.095] I'm head of legal for Boston Gene Corporation.
@@ -841,7 +819,6 @@
 [1096.305 - 1100.515] yet. Okay. I
 
 **[Speaker 13.0]**
-
 
 [1100.515 - 1102.915] Haven't, let me just fum fumble for the mute button.
 
@@ -909,7 +886,6 @@
 
 **[Speaker 14.0]**
 
-
 [1194.495 - 1197.355] No. Hi, I am Meredith Fuchs. I'm General Counsel Plaid.
 
 [1197.405 - 1201.475] We're, uh, a financial services, um,
@@ -947,7 +923,6 @@
 [1244.145 - 1246.375] Diana, Diane, did you hear
 
 **[Speaker 15.0]**
-
 
 [1246.375 - 1247.375] Her? Diana, that's me, yes.
 
@@ -1005,18 +980,15 @@
 
 **[Speaker 3.0]**
 
-
 [1319.515 - 1321.595] I think it's rake an anshu, right?
 
 [1321.855 - 1325.205] If I got pronunciations right and Sarah,
 
 **[Speaker 15.0]**
 
-
 [1325.475 - 1326.475] Okay. Okay.
 
 **[Speaker 16.0]**
-
 
 [1331.115 - 1333.235] I can go if no one will volunteer.
 
@@ -1112,7 +1084,6 @@
 
 **[Speaker 17.0]**
 
-
 [1485.635 - 1488.975] You did. Thank you. Um, hi, my name is Rika Rin.
 
 [1489.575 - 1492.535] I am currently the general counsel of a Susu Financial.
@@ -1196,7 +1167,6 @@
 [1610.315 - 1611.775] um, I hand it over to Sarah.
 
 **[Speaker 19.0]**
-
 
 [1614.675 - 1616.535] Hi. Uh, if you see people walking
 
@@ -1304,18 +1274,15 @@
 
 **[Speaker 1.0]**
 
-
 [1759.895 - 1761.275] Thanks, Sarah. And then Joanna,
 
 [1761.275 - 1762.755] I think we have, we have you on our list.
 
 **[Speaker 19.0]**
 
-
 [1764.545 - 1769.245] Yes. Last but not least, Go next. Sorry.
 
 **[Speaker 18.0]**
-
 
 [1770.815 - 1774.755] I'm the, uh, um, uh, CLO
 
@@ -1357,7 +1324,6 @@
 
 **[Speaker 1.0]**
 
-
 [1831.345 - 1832.995] Awesome. Thank you. And do we have,
 
 [1832.995 - 1834.155] have we done introductions for everyone?
@@ -1365,7 +1331,6 @@
 [1834.155 - 1835.155] Craig, did we get you?
 
 **[Speaker 20.0]**
-
 
 [1836.005 - 1838.785] No, you didn't. Sorry, I had to jump off. Uh, hi everyone.
 
@@ -1410,7 +1375,6 @@
 [1898.285 - 1899.905] So, uh, looking forward to the conversation.
 
 **[Speaker 1.0]**
-
 
 [1901.545 - 1904.315] Awesome. Well really appreciate everybody giving some
 
@@ -1457,7 +1421,6 @@
 [1947.635 - 1949.195] different stages of life?
 
 **[Speaker 3.0]**
-
 
 [1952.825 - 1954.035] Yeah, I'll jump in.
 
@@ -1765,7 +1728,6 @@
 
 **[Speaker 1.0]**
 
-
 [2373.745 - 2376.285] One, one funny tidbit around that one, just for
 
 [2376.875 - 2379.685] Zoom Entertainment was that we had a a,
@@ -1834,7 +1796,6 @@
 
 **[Speaker 3.0]**
 
-
 [2449.455 - 2451.765] Sarah, I see your comment to Chad. That was a joke.
 
 [2451.945 - 2453.125] I'm sorry. Yes, I agree.
@@ -1842,7 +1803,6 @@
 [2453.225 - 2455.005] Not just pro, just not providing the Zoom
 
 **[Speaker 19.0]**
-
 
 [2455.295 - 2456.295] Links not the right answer. Sorry.
 
@@ -1859,7 +1819,6 @@
 [2465.925 - 2466.965] Or getting them off calls.
 
 **[Speaker 3.0]**
-
 
 [2469.685 - 2470.935] Yeah, I think that's right, Julie.
 
@@ -1933,7 +1892,6 @@
 
 **[Speaker 1.0]**
 
-
 [2559.035 - 2560.255] So one of the other questions
 
 [2560.255 - 2563.015] that we got at the outset was sort of around how
@@ -1989,7 +1947,6 @@
 [2615.915 - 2617.815] and how do you see the GCs role in that?
 
 **[Speaker 3.0]**
-
 
 [2619.465 - 2621.075] Yeah, I, you know, I've seen it, um,
 
@@ -2167,7 +2124,6 @@
 
 **[Speaker 2.0]**
 
-
 [2864.805 - 2867.095] Yeah, I would, I would just reiterate that the, um,
 
 [2867.435 - 2870.895] for a lot of you, you are later stage private companies
@@ -2298,7 +2254,6 @@
 
 **[Speaker 11.0]**
 
-
 [3039.865 - 3041.565] Can I, can I push on that one for a second?
 
 [3041.805 - 3044.085] I think that probably depends on what, um,
@@ -2371,7 +2326,6 @@
 
 **[Speaker 1.0]**
 
-
 [3112.225 - 3114.275] Yeah. And Dan, I think some of us are gonna inherit
 
 [3114.275 - 3115.515] that situation and hope our
@@ -2437,7 +2391,6 @@
 [3179.255 - 3180.995] but we're all competing for the same talent.
 
 **[Speaker 15.0]**
-
 
 [3181.935 - 3185.745] Yeah. I, I would just jump, uh, I was gonna just
 
@@ -2542,7 +2495,6 @@
 [3302.485 - 3305.045] to make those transitions. That's my thoughts.
 
 **[Speaker 3.0]**
-
 
 [3305.805 - 3307.535] Yeah, I think that's all true, Diane.
 
@@ -2656,7 +2608,6 @@
 
 **[Speaker 16.0]**
 
-
 [3440.385 - 3444.125] Hey, Alan and Kat, I have one question. Kat.
 
 [3444.125 - 3447.685] You mentioned, you know, these, uh, board qualification
@@ -2679,13 +2630,11 @@
 
 **[Speaker 3.0]**
 
-
 [3473.885 - 3476.095] They'll say they're excellent at everything except at
 
 [3476.295 - 3477.655] anything that gets 'em stuck on the audit committee.
 
 **[Speaker 16.0]**
-
 
 [3478.695 - 3480.255] Oh, there you, there you go. Right?
 
@@ -2742,7 +2691,6 @@
 [3556.625 - 3558.515] that might be practical pointers would be helpful.
 
 **[Speaker 3.0]**
-
 
 [3563.665 - 3565.185] I can jump in, but we can see if the,
 
@@ -2817,7 +2765,6 @@
 [3664.825 - 3668.185] to shape the board in conjunction with the CEO's needs.
 
 **[Speaker 1.0]**
-
 
 [3669.555 - 3672.055] You know, it's interesting. We did a, an exercise at one
 
@@ -2949,7 +2896,6 @@
 
 **[Speaker 18.0]**
 
-
 [3817.995 - 3820.095] So our company was recently acquired
 
 [3820.275 - 3821.415] by a private equity firm
@@ -2987,7 +2933,6 @@
 [3872.485 - 3873.735] that you are desiring?
 
 **[Speaker 11.0]**
-
 
 [3877.845 - 3879.135] It's really interesting. I can do it.
 
@@ -3058,7 +3003,6 @@
 [3949.975 - 3951.205] Sorry Julie, I didn't mean to interrupt.
 
 **[Speaker 1.0]**
-
 
 [3952.855 - 3955.715] No, it's totally fine. So I wanna make sure we also have
 
@@ -3139,7 +3083,6 @@
 [4039.065 - 4040.105] to the, to the board members.
 
 **[Speaker 3.0]**
-
 
 [4042.745 - 4044.715] Yeah, I I think you're right about,
 
@@ -3258,7 +3201,6 @@
 [4194.365 - 4196.005] by the time the board package comes along.
 
 **[Speaker 2.0]**
-
 
 [4197.315 - 4199.285] Yeah, I would, uh, so I think, uh,
 
@@ -3390,7 +3332,6 @@
 
 **[Speaker 3.0]**
 
-
 [4352.205 - 4355.505] And by the way, this is all more important in Zoom land
 
 [4355.535 - 4357.665] because, um, you know, you don't,
@@ -3425,7 +3366,6 @@
 
 **[Speaker 14.0]**
 
-
 [4391.005 - 4393.665] Um, I, I just had a question about board portals,
 
 [4393.925 - 4397.225] you know, like board document portals and like why
@@ -3443,7 +3383,6 @@
 [4407.365 - 4409.905] But I'm just curious if anyone has a view about that.
 
 **[Speaker 1.0]**
-
 
 [4410.495 - 4412.665] Yeah, so Meredith, I I have a couple thoughts.
 
@@ -3489,7 +3428,6 @@
 
 **[Speaker 16.0]**
 
-
 [4460.925 - 4463.865] You, one thing you may wanna consider is there's some
 
 [4464.065 - 4465.785] literature out there in recent case law,
@@ -3519,7 +3457,6 @@
 [4497.375 - 4500.415] address and, and then, you know, have to deal with that.
 
 **[Speaker 2.0]**
-
 
 [4501.605 - 4504.055] Yeah, I I, I think actually that's a, that's a important,
 
@@ -3555,13 +3492,11 @@
 
 **[Speaker 15.0]**
 
-
 [4547.845 - 4551.665] I ask a, We think as much that that's privileged
 
 [4552.175 - 4553.625] from in a, in a board deck.
 
 **[Speaker 1.0]**
-
 
 [4555.195 - 4556.705] Sorry, there Certain, there could be,
 
@@ -3575,13 +3510,11 @@
 
 **[Speaker 15.0]**
 
-
 [4563.565 - 4565.745] That's what I was say. I don't put anything I have like
 
 [4565.745 - 4567.545] legal update is what I put in this slide.
 
 **[Speaker 1.0]**
-
 
 [4568.125 - 4569.425] No, we've done that Diane,
 
@@ -3590,7 +3523,6 @@
 [4571.805 - 4574.625] and at least those could theoretically have something in it.
 
 **[Speaker 2.0]**
-
 
 [4575.785 - 4578.465] Y yeah, no, or if you're just emailing out the materials,
 
@@ -3611,7 +3543,6 @@
 [4594.405 - 4596.825] Um, that, that we also wanna be really mindful of.
 
 **[Speaker 5.0]**
-
 
 [4597.645 - 4599.185] So I have a question. Do have a question?
 
@@ -3643,7 +3574,6 @@
 
 **[Speaker 1.0]**
 
-
 [4640.255 - 4642.465] What else wanna go? And Karen, if you,
 
 [4642.565 - 4644.865] if you're talking about, you know, the data of, you know,
@@ -3654,7 +3584,6 @@
 
 **[Speaker 5.0]**
 
-
 [4650.105 - 4653.765] Mean I'm, I'm talking about like just issues like yeah,
 
 [4654.025 - 4657.165] Oh we Had a, we had a quality issue like this past
@@ -3662,7 +3591,6 @@
 [4657.165 - 4659.405] quarter and like here's the download of it.
 
 **[Speaker 1.0]**
-
 
 [4660.835 - 4663.525] Yeah, I mean, I'm a big believer in thinking really
 
@@ -3702,11 +3630,9 @@
 
 **[Speaker 5.0]**
 
-
 [4695.895 - 4696.505] Yeah. Loss
 
 **[Speaker 3.0]**
-
 
 [4697.325 - 4698.945] As well as with minutes, you know, I do,
 
@@ -3730,7 +3656,6 @@
 
 **[Speaker 1.0]**
 
-
 [4722.755 - 4724.415] One Of the other things on board portals is
 
 [4724.415 - 4726.335] that you can use them for secure emails.
@@ -3748,7 +3673,6 @@
 [4736.965 - 4738.175] Just something else to think about.
 
 **[Speaker 11.0]**
-
 
 [4738.625 - 4739.895] Julie, has that been a challenge?
 
@@ -3781,7 +3705,6 @@
 [4774.575 - 4776.135] variance in that experience.
 
 **[Speaker 1.0]**
-
 
 [4777.105 - 4779.995] Yeah, and I certainly push hard that everything should go
 
@@ -3840,7 +3763,6 @@
 [4836.505 - 4838.085] but it's a fight that I might not win.
 
 **[Speaker 3.0]**
-
 
 [4839.625 - 4842.995] Yeah, I I often see friction in the adoption process
 
@@ -3904,7 +3826,6 @@
 
 **[Speaker 13.0]**
 
-
 [4922.835 - 4926.275] I was gonna ask a much more rudimentary question than the
 
 [4926.325 - 4927.755] stuff you guys are all talking about.
@@ -3933,11 +3854,9 @@
 
 **[Speaker 3.0]**
 
-
 [4956.385 - 4958.265] I remember Rachel, that you're and all
 
 **[Speaker 13.0]**
-
 
 [4958.265 - 4959.265] The tech GC sources,
 
@@ -3992,7 +3911,6 @@
 [5026.455 - 5027.695] so when they get there, they're ready.
 
 **[Speaker 3.0]**
-
 
 [5028.725 - 5030.935] Yeah. I, I think it's incremental change, right?
 
@@ -4064,13 +3982,11 @@
 
 **[Speaker 13.0]**
 
-
 [5120.535 - 5122.575] I mean, part of the things I'm thinking about is wanting
 
 [5122.575 - 5124.895] to know the answers before I'm told what the answers are.
 
 **[Speaker 1.0]**
-
 
 [5125.845 - 5127.695] Yeah. And I think that's a big piece of it, Rachel. Right?
 
@@ -4081,7 +3997,6 @@
 [5130.625 - 5131.935] about what would go to the board
 
 **[Speaker 13.0]**
-
 
 [5132.275 - 5135.895] Before, before we're told by our new investors, here's
 
@@ -4102,7 +4017,6 @@
 [5150.865 - 5152.745] so I haven't done it before. Yeah.
 
 **[Speaker 1.0]**
-
 
 [5153.065 - 5154.385] Put, put the question out to the group
 
@@ -4160,7 +4074,6 @@
 
 **[Speaker 3.0]**
 
-
 [5211.705 - 5216.185] Yeah. One, this is not
 
 [5216.785 - 5219.025] oriented the way you're asking, but one resource that comes
@@ -4184,7 +4097,6 @@
 [5240.745 - 5242.645] the catchall of possibilities.
 
 **[Speaker 13.0]**
-
 
 [5244.425 - 5248.995] Yeah. Corporation, we have a delegation of authority
 
@@ -4212,7 +4124,6 @@
 
 **[Speaker 1.0]**
 
-
 [5275.975 - 5279.675] Mm-hmm. Well this has been a really helpful
 
 [5279.675 - 5281.795] conversation and I think Tara would tell us
@@ -4224,7 +4135,6 @@
 [5285.795 - 5286.795] So I'll turn it back to you, Tara.
 
 **[Speaker 0.0]**
-
 
 [5288.745 - 5290.165] Yes. I, um,
 
@@ -4255,7 +4165,6 @@
 [5326.505 - 5328.885] and, um, thanks for your time tonight.
 
 **[Speaker 3.0]**
-
 
 [5330.325 - 5331.825] Thanks everyone. Thanks everyone.
 
