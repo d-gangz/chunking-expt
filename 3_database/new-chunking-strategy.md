@@ -1,3 +1,11 @@
+<!--
+Document Type: Process Documentation
+Purpose: Step-by-step guide for adding new chunking strategies to the database
+Context: Created for systematic chunking strategy implementation and testing
+Key Topics: Database setup, automated scripts, hybrid search, PostgreSQL, pgvector
+Target Use: Process guide for implementing new chunking strategies
+-->
+
 # Adding a New Chunking Strategy to the Database
 
 This guide explains how to add a new chunking strategy to the database using our automated setup script.
