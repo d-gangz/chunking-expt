@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Automated setup script for adding new chunking strategies to the database.
-This script handles all the steps required to add a new chunking strategy:
-1. Creates the database table
-2. Sets up the hybrid search function
-3. Processes chunks and generates embeddings
-4. Creates test files
-5. Validates the setup
+Automated setup script that creates complete database infrastructure for new chunking strategies with PostgreSQL tables, vector embeddings, hybrid search functions, and test files.
+
+Input data sources: 2_chunks/{strategy_name}/chunks/all_chunks_combined.json
+Output destinations: PostgreSQL table {strategy_name}, 3_database/{strategy_name}/ directory with setup/, tests/, README.md
+Dependencies: PostgreSQL with pgvector, OpenAI API (text-embedding-3-large), SUPABASE_CONNECTION_STRING env var, psycopg2
+Key exports: ChunkingStrategySetup class, main() CLI function
+Side effects: Creates PostgreSQL table with HNSW/GIN/B-tree indexes, generates OpenAI embeddings, creates hybrid search SQL function, creates directory structure with tests and documentation
 """
 
 import os
