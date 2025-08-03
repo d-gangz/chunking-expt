@@ -214,26 +214,6 @@ experiment_name = f"fixed_chunks_eval_at{search_results_count}_{timestamp}"
 dataset_path = "phoenix_dataset_simplified_v2.json"
 ```
 
-## Code Documentation Guidelines
-
-- Add comprehensive docstrings at the top of all Python scripts describing their purpose and functionality
-- **Always specify where the script obtains its input data** (e.g., file paths, directories, APIs)
-- Include inline comments to explain complex logic or non-obvious code segments
-- Aim for clear, concise documentation that helps other developers understand the code quickly
-- Each subdirectory now has its own CLAUDE.md file documenting local functionality
-
-Example docstring format:
-
-```python
-"""
-Script to process transcript chunks and generate embeddings.
-
-Input: Reads chunks from 2_chunks/chunks/
-Output: Saves embeddings to 3_database/embeddings/
-Dependencies: Requires OpenAI API key in .env file
-"""
-```
-
 ## Recent Updates (Updated: 2025-08-03)
 
 ### Major Changes
