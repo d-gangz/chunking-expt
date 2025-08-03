@@ -1,6 +1,11 @@
 """
-Main script for processing fixed chunks, generating embeddings, and inserting into Supabase.
-Processes chunks from JSON files and stores them with embeddings for hybrid search.
+Direct database operations script that processes fixed chunks by generating OpenAI embeddings and inserting them into PostgreSQL with batch processing and checkpoint recovery.
+
+Input data sources: 2_chunks/fixed_chunks/chunks/all_chunks_combined.json
+Output destinations: PostgreSQL fixed_chunks table with vector embeddings
+Dependencies: PostgreSQL with pgvector, OpenAI API (text-embedding-3-large), SUPABASE_CONNECTION_STRING env var, psycopg2
+Key exports: ChunkEmbedder class, main() function
+Side effects: Inserts chunks with embeddings to database, creates checkpoint files for resume capability
 """
 
 import os

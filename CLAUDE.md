@@ -57,16 +57,6 @@ uv run python 4_labelled_dataset/fixed_chunks/generate-dataset/generate_phoenix_
 uv run python 5_evaluation/fixed_chunks/run_phoenix_experiment.py   # Run Phoenix evaluation
 ```
 
-## Important Tool Usage
-
-### Web Searches
-
-Always use the `WebSearch` tool for web searches instead of other search methods. This provides more accurate and up-to-date information.
-
-### Web links
-
-If user provide web links, always use `WebFetch` to fetch the contents.
-
 ## Project Architecture
 
 ### File Organization Structure
@@ -164,10 +154,12 @@ uv run python run_phoenix_experiment.py
 The evaluation framework tracks three key metrics:
 
 1. **MRR (Mean Reciprocal Rank)**: Measures ranking quality
+
    - 1.0 = perfect (first result always relevant)
    - 0.5 = first relevant result typically at position 2
 
 2. **Recall**: Proportion of relevant chunks retrieved
+
    - 1.0 = all relevant chunks found
    - Important for comprehensive answers
 
@@ -178,6 +170,7 @@ The evaluation framework tracks three key metrics:
 ### Hybrid Search
 
 The system implements hybrid search combining:
+
 - **Vector Search**: Semantic similarity using embeddings
 - **Full-Text Search**: Keyword matching
 - **Reciprocal Rank Fusion (RRF)**: Combines both approaches
@@ -230,6 +223,7 @@ dataset_path = "phoenix_dataset_simplified_v2.json"
 - Each subdirectory now has its own CLAUDE.md file documenting local functionality
 
 Example docstring format:
+
 ```python
 """
 Script to process transcript chunks and generate embeddings.
@@ -264,12 +258,14 @@ Dependencies: Requires OpenAI API key in .env file
 ### Environment Setup
 
 1. **Required Environment Variables** (.env file):
+
    ```
    OPENAI_API_KEY=your-openai-api-key
    SUPABASE_CONNECTION_STRING=postgresql://postgres:postgres@localhost:5432/postgres
    ```
 
 2. **Database Must Be Running**: Start PostgreSQL before running database operations:
+
    ```bash
    cd 3_database/docker && docker-compose up -d
    ```
