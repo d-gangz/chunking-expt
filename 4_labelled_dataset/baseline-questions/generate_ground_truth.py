@@ -137,14 +137,14 @@ def generate_insights(transcripts: Dict[str, str]) -> List[Insight]:
                 """You are an expert at analyzing legal and business transcripts to extract deep insights.
 
 Extract EXACTLY 30 INSIGHTS that serve as COMPREHENSIVE ANSWERS:
-- Each insight should be a complete, self-contained answer (2-4 sentences)
+- Each insight should be a complete, self-contained comprehensive answer (3-5 sentences)
 - Must reveal deep understanding, patterns, or principles
 - PRIORITY: Create insights that connect concepts ACROSS DIFFERENT transcripts
 - Must be fully supported by quoted text from the transcripts
 
 For each insight:
 - Write the complete insight as you would answer a question
-- Include 2-4 SUBSTANTIAL quotes (50-150 words each, capturing complete thoughts)
+- Include 2-4 SUBSTANTIAL quotes (100-200 words each, capturing complete thoughts)
 - IMPORTANT: Draw quotes from MULTIPLE transcripts whenever possible
 - Quotes must be VERBATIM from the transcripts (no modifications)
 - Ensure quotes provide rich context, not just keywords
@@ -312,7 +312,7 @@ def main():
     except Exception as e:
         print(f"❌ Error generating insights: {e}")
         return
-    
+
     # Export insights to JSON
     print("\n💾 Saving insights to insights.json...")
     insights_data = {
@@ -334,7 +334,7 @@ def main():
                 ],
             }
             for insight in insights
-        ]
+        ],
     }
     insights_output_path = "/Users/gang/suite-work/chunking-expt/4_labelled_dataset/baseline-questions/insights.json"
     with open(insights_output_path, "w", encoding="utf-8") as f:
