@@ -136,7 +136,7 @@ def generate_insights(transcripts: Dict[str, str]) -> List[Insight]:
                 "system",
                 """You are an expert at analyzing legal and business transcripts to extract deep insights.
 
-Extract EXACTLY 30 INSIGHTS that serve as COMPREHENSIVE ANSWERS:
+Extract EXACTLY 40 INSIGHTS that serve as COMPREHENSIVE ANSWERS:
 - Each insight should be a complete, self-contained comprehensive answer (3-5 sentences)
 - Must reveal deep understanding, patterns, or principles
 - PRIORITY: Create insights that connect concepts ACROSS DIFFERENT transcripts
