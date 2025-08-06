@@ -1,0 +1,185 @@
+{
+  "Request Intent Category": [
+    {
+      "dimension": "Resource Acquisition",
+      "description": "Users seeking specific recommendations, referrals, or introductions to service providers, counsel, or vendors",
+      "examples": [
+        "A friend is looking for recommendations for sell side counsel for a SaaS company going through an exit. Valuation will be between $2.5BN and $4BN. European based parent company, but SaaS entity is dual headquartered in Europe and U.S. Not just looking for all the usual suspects at the big firms, but someone who will really be pragmatic and efficient, and may consider an alternative fee arrangement.",
+        "Does anyone have a recommendation for a cost-effective firm to advise on the formation of a UK subsidiary for a private U.S. company? Any recommendations would be greatly appreciated!",
+        "We are looking for an Info Sec Consultant to advise us on leveling up our practices. (We're a fully remote tech start-up.) Any recommendations would be greatly appreciated."
+      ]
+    },
+    {
+      "dimension": "Knowledge Sharing",
+      "description": "Users seeking to benchmark practices, understand market trends, or learn from peers' experiences",
+      "examples": [
+        "Looking for the latest on what people are seeing as market when it comes to big law firm discounts, both for private company and venture fund clients. Are your discounts time bound? What ranges are you getting these days? Thank you.",
+        "Curious to hear how companies subject to CA SB 261's requirement to release a report detailing climate related financial risk by 1/1/2026 are going about preparing that report. I'm specifically interested in hearing whether folks have engaged an outside firm (e.g., KPMG, Watershed, S&P, law firms, etc.) to conduct a climate risk assessment as an input to that report (and to ultimately produce that report in whatever format CA will require).",
+        "Has anyone here adopted a practice of skipping the formal PIP process and moving directly to a severance offer for under-performers? Or, are any of you aware of any late-stage private tech companies who have implemented this approach (i.e. not Apple, Meta, Amazon, which follow a similar approach)? Specifically, I'd love to know: * Are you seeing this trend in your networks, and if so, how is it working in practice? * What pitfalls have you encountered (beyond the obvious need for solid documentation and legal review of terminations)? * Any practical tips for managing risk or handling edge cases that aren't obvious from the outside? Would appreciate any real-world examples or lessons learned--especially from companies that don't have the litigation budgets of the public tech giants. Thanks."
+      ]
+    },
+    {
+      "dimension": "Problem Resolution",
+      "description": "Users facing specific challenges, compliance issues, or operational problems needing expert guidance",
+      "examples": [
+        "Given that the 8th Circuit has vacated the FTC's Click to Cancel rule at the 11th hour, I wanted to see what subscription-based companies are doing in light of the decision. We were completely ready to go with updates to our sign up processes, and now the team is frustrated they put in all this work for nothing. I argued that there are still the equivalent state-level rules that impact us, but am wondering if folks are scaling back on compliance with any specific aspect of the rule. (We updated our signup process to require affirmative consent of our Terms and Privacy Policy, consent to automatic billing, and also providing the required disclosures -- our cancellation process was compliant so we have no concerns there).",
+        "We have suddenly received a flood of DSAR and other personal information requests and are struggling to deal with all of them. We'd like to think through how to build a program so that we have a scalable way to respond in a timely manner. Has anyone gone through this process and would be willing to chat with our Privacy Program Manager? Bonus points if you have a Privacy Ops/Program Manager or other similar role that she could information share and network with on an ongoing basis. Thank you!",
+        "Hi- Is anyone else starting to plan out how to manage DocuSign sunsetting Lexion?"
+      ]
+    }
+  ],
+  "Request Specificity": [
+    {
+      "dimension": "Highly Targeted",
+      "description": "Requests with very specific requirements, jurisdictions, practice areas, or detailed parameters",
+      "examples": [
+        "I need a document notarized and apostilled for use in Bulgaria. In Austin, TX, we get this done at one of the UPS offices downtown, but I believe that UPS in Charlotte does not offer this service. Any referrals would be sincerely appreciated!",
+        "I'm looking for highly pragmatic and reasonably affordable employment counsel to help with a worker classification question in Poland. Does anybody have a recommendation? Thank you!",
+        "Can anybody recommend a good Plaintiff's Medical Malpractice attorney in the Houston Area? Asking for a family member who suffered from brain cancer. Thank you in advance."
+      ]
+    },
+    {
+      "dimension": "Exploratory",
+      "description": "Broad requests seeking general guidance, best practices, or directional advice without specific constraints",
+      "examples": [
+        "Would love to hear what's worked (or not worked) when it comes to legal training for your GTM teams -- Sales, Customer Success, Marketing, etc. In a high-growth SaaS environment, how are you enabling teams to spot red flags early, understand deal guardrails, and know when to loop in Legal -- all without bogging down momentum? Have you tried interactive formats, embedded office hours, or role-based playbooks? I have an in-person training at the end of this month and I am looking for practical ideas that scale, stick, and actually make an impact on the front lines.",
+        "I'm working on setting my goals for the rest of 2025 and would love to hear what others are planning. Most of my goals over the past couple years have been centered around CLM. Our CLM is finally in a good place and I'm ready to move on to other things. If you're open to sharing, I'd love to hear what you're focused on (especially interested in AI goals). I'm hoping to gather some fresh ideas (beyond what my sidekick Gemini and I have some up with so far).",
+        "Has anyone presented a summary of AI risks the company is exposed to and what they are doing to mitigate those risks for the board or other internal non-legal audience? I was asked to prepare a summary for the board and I can find plenty of guidance samples, but can't find a summary of the risks that is for a non-legal audience. If someone can share an example of how you presented the risks that would be very helpful. Thanks."
+      ]
+    },
+    {
+      "dimension": "Multi-faceted",
+      "description": "Complex requests involving multiple jurisdictions, practice areas, or interconnected requirements",
+      "examples": [
+        "What have other multi-national employers done with respect to ex-US employees participating in corporate bonus programs? So far, we do not have employees eligible for a new corporate bonus program outside of the U.S. (it's only for VP+ employees) but the bonus program will likely expand over time. Our global employment counsel has advised either globalizing the bonus plan (similar to what we have done for our commission plan), add country-specific riders, or fully and expressly incorporate the bonus terms into the contracts rather than referencing the standalone program document. Curious to learn what your experience has been and any lessons learned.",
+        "We're a SaaS company that primarily sells in the US, Canada, UK, and EU. We have had sellers bring forward prospects from countries outside of that list, but it's been on a very ad hoc basis, so we're trying to put together a plan regarding how to best handle selling into a new country. I'm curious if anyone has experience with putting together such a plan or if anyone can share some sample documentation.",
+        "We're looking to benchmark how tech companies with operations in UK and Germany are handling time tracking for non-hourly employees to comply with working time regulations in those regions. Any feedback from a best practices and ease of administration perspective would be greatly appreciated!"
+      ]
+    }
+  ],
+  "Geographic Scope": [
+    {
+      "dimension": "Domestic US-focused",
+      "description": "Requests specifically focused on US jurisdictions, regulations, or service providers",
+      "examples": [
+        "Does anyone know of an affordable, plaintiff-side TX employment attorney? I have a friend with a misclassification case they want to pursue.",
+        "Has anyone recently considered AI voice calls in light of the FCC ruling classifying AI calls as \"robocalls\"? We are experimenting with AI voice calls where we have prior express written consent to contact but struggling with the TSR and TCPA requirement on \"abandoned calls\" (ie. that use of \"robocalls\" requires the marketer to stay below 3% of calls failing to transfer to a live agent in 2 seconds, which our AI calls would not because the point is that AI can handle some portion of the calls independently). This seems like an issue of the law not totally aligning with technology but curious if anyone has gotten comfortable with a way to use AI voice calls in the US where you do have consent of the person being contacted.",
+        "Hi! Looking for a Washington employment law referral to represent an individual plaintiff in a wrongful termination. Any names would be great!"
+      ]
+    },
+    {
+      "dimension": "International Cross-border",
+      "description": "Requests involving multiple countries, international operations, or cross-border regulatory considerations",
+      "examples": [
+        "What have other multi-national employers done with respect to ex-US employees participating in corporate bonus programs? So far, we do not have employees eligible for a new corporate bonus program outside of the U.S. (it's only for VP+ employees) but the bonus program will likely expand over time. Our global employment counsel has advised either globalizing the bonus plan (similar to what we have done for our commission plan), add country-specific riders, or fully and expressly incorporate the bonus terms into the contracts rather than referencing the standalone program document. Curious to learn what your experience has been and any lessons learned.",
+        "Hi, Wondering if anyone is localizing their outbound B2B SaaS contracts for local markets, such as for German market, or Swiss market. If yes - when did you decide to do it and what was driving this decision? Has it improved contracting cycles in such market?",
+        "Hi all -- wondering if anyone here has relevant experience or lessons learned. My company is a growth-stage SaaS business (selling out of a private UK Ltd and Delaware Inc) and we're starting to explore commercial expansion into LATAM. No legal entities there yet -- we're hoping to begin by selling cross-border and scaling up only if/when the opportunity justifies. I'd love to hear from others who've done something similar, especially on: * Best approach to contracting (Delaware vs UK paper, local language, local expectations) * Handling WHT and tax issues (especially Brazil/Mexico/Argentina) * How you handled local hires (contractor vs EOR vs subsidiary) * When local incorporation made sense for you (if ever) * Data protection / regulatory gotchas we should know about Happy to share anything we learn in the process -- and would really appreciate any practical tips or war stories from others who've gone down this road."
+      ]
+    },
+    {
+      "dimension": "Region-specific",
+      "description": "Requests focused on specific countries or regions outside the US with particular local requirements",
+      "examples": [
+        "Hello, Can anyone recommend healthcare counsel in Canada who can assist with some corporate questions? We've used DLA Piper in the past, and they were fine, but we're looking for a firm that is a little smaller and more nimble.",
+        "I need to help some high-net-worth individuals who live in Brazil and Portugal through the process of submitting MU2s and fingerprints to NMLS, and it would be great to find Portuguese speakers in either country who have done this before, particularly the fingerprinting. Suggestions would be very welcome.",
+        "We are a UK SaaS company providing services to the EU market. The product team are looking at integrating AI systems into our offering, e.g. AI powered data filtering, chat bots, and the like. On assessment our intended use cases will be \"low-risk\" (or rather, not \"high-risk\"). We will be a \"deployer\" rather than a \"provider\" of AI systems. I had originally thought/assumed there would be some basic transparency obligations under the Act. However, in reading Article 50, it seems that perhaps even this is not required. Article 50 seems to specify transparency obligations for deployers: 1. of \"an emotion recognition system or a biometric categorisation system\", and/or 2. where the AI system \"generates or manipulates image, audio or video content constituting a deep fake\", and/or 3. where the AI system \"generates or manipulates text which is published with the purpose of informing the public on matters of public interest shall disclose that the text has been artificially generated or manipulated\". None of these apply to our intended use cases. As such, am I correct in thinking that there are no transparency obligations when a user interacts with our integrated AI systems? Grateful for the views of any deployers with similar use cases that have already undertaken this assessment."
+      ]
+    }
+  ],
+  "User Persona": [
+    {
+      "dimension": "Growth-stage Executive",
+      "description": "Users from startups or high-growth companies dealing with scaling challenges and emerging legal needs",
+      "examples": [
+        "An industry colleague is looking for a lawyer with expertise/experience in drafting OMs and associated docs for a startup without having to pay big-firm fees. I'd appreciate your sharing any recommendations. Thank you.",
+        "I'm advising a startup that's aiming to launch its product on January 1 and we're currently exploring the best legal and strategic ways to lock in customers this fall/winter, before the product is fully live. I'd love to hear any suggestions or experiences with: * Early access agreements or pre-sale contracts * Letters of intent vs. binding agreements * Deferred billing models or refundable deposits * Legal considerations around offering discounts for early commitment * Common pitfalls or red flags you've seen Any frameworks, template clauses, or war stories would be hugely appreciated.",
+        "I'm looking for contingent search firms that have a strong track record placing senior technical leaders (CTO, VP/Head of Engineering) in early-stage or high-growth startups. Thank you in advance!"
+      ]
+    },
+    {
+      "dimension": "Enterprise Executive",
+      "description": "Users from established, larger companies dealing with complex operational, compliance, and strategic issues",
+      "examples": [
+        "For those who are permitting the use of GitHub Copilot: Have you opened it up to all areas of the codebase or are you limiting it to certain areas only (and if so, why)? In the process of developing a policy to set guardrails around its use, and I want to get an updated response on this question. This also assumes that appropriate restrictions will be put in place (use of the Enterprise License only, attribution requirements, duplication detection filter, human code review, etc.).",
+        "Hello everyone - curious if any legal departments have surveyed their outside counsel firms to get a read on exactly how they are using AI, what tools for which tasks, and documenting any client benefits (especially specific to your work)? Stats like this from a recent Axiom survey make me wonder. \"With 79% of law firms using AI but only 6% passing savings to clients, in-house departments face a cruel irony: they must invest in AI capabilities while their outside counsel benefits from AI efficiencies without sharing cost savings.\"",
+        "Hi everyone, I'm looking to better understand how other legal departments manage budgeting for outside counsel spend, particularly for ongoing or unanticipated matters. Our finance team requires us to forecast spend for all OC vendors, and any unused budget at the end of a quarter is forfeited (i.e., it does not roll over). As a result, whenever we need to engage a new vendor or initiate a new matter mid-quarter, we're typically asked to reallocate funds from existing line items within our annual budget. Historically, this hasn't been a significant issue for us, but as our OC spend grows, it's becoming increasingly difficult to manage on an ad-hoc basis and as you know, it is impossible to anticipate all possible OC related spend ahead of time. I'm curious how others navigate this challenge. How do you plan for unpredictable legal spend? Do you build in contingency buffers, establish separate discretionary pools, or engage finance differently to accommodate real-time needs?"
+      ]
+    },
+    {
+      "dimension": "Specialized Role Holder",
+      "description": "Users with specific functional expertise (privacy, compliance, operations) seeking peer connections and specialized guidance",
+      "examples": [
+        "Has anyone worked with a consultant for Agiloft CLM implementation, improvements or outsourced admin? If so, please let me know recommendations, whether you though it was valuable and any tips/cautions. We are looking at Qualitas (recommended by Agiloft) and interested in assessing another option for comparison. Thanks!",
+        "I am looking for recommendations on an AI-enabled privacy automation tool. We've been using OneTrust, and it's clunky, highly manual, and expensive. I appreciate all feedback.",
+        "We are reviewing our OFAC compliance screening vendor and have identified Sanctions.io as a highly cost-effective option. Does anyone have experience with Sanctions.io? We'd appreciate any insights on their effectiveness, ease of use, support, or any challenges encountered."
+      ]
+    }
+  ],
+  "Urgency Level": [
+    {
+      "dimension": "Immediate Time-sensitive",
+      "description": "Requests requiring urgent attention or responses due to deadlines, crises, or immediate business needs",
+      "examples": [
+        "Aloha! I am trying to help my client in short order get connected to any sales/lenders at these institutions. Does anyone have any contacts at these lenders? Bluevine, Fundbox, Rapid Finance, Fora Financial.",
+        "Hi! Looking for a Washington employment law referral to represent an individual plaintiff in a wrongful termination. Any names would be great!",
+        "I'm looking for an experienced commercial contract paralegal on a temp basis to start as soon as possible. Likely 2 month placement. Any referrals are greatly appreciated!"
+      ]
+    },
+    {
+      "dimension": "Strategic Planning-focused",
+      "description": "Forward-looking requests for strategic planning, policy development, or long-term operational improvements",
+      "examples": [
+        "I'm working on setting my goals for the rest of 2025 and would love to hear what others are planning. Most of my goals over the past couple years have been centered around CLM. Our CLM is finally in a good place and I'm ready to move on to other things. If you're open to sharing, I'd love to hear what you're focused on (especially interested in AI goals). I'm hoping to gather some fresh ideas (beyond what my sidekick Gemini and I have some up with so far).",
+        "For private companies that began issuing RSUs to employees in the 2019/2020 time frame, wondering how you are considering handling the seven-year expiration in 2026/2027. Have you considered any alternatives aside from raising money or a tender offer? Appreciate hearing thoughts or having private conversations. I would think that there are going to be more and more companies considering their options in the coming 12-24 months.",
+        "We are working on our Legal Crisis Management Plan and have some high level language on when we need to bring a crisis to the board, that is in case of crises that may have a meaningful impact on our business and financial performance and depends on materiality and nature of the crisis. We will always inform our executive leadership team. Another question that came up is about what our government/notification requirements are. That obviously depends on materiality and nature of the crisis. We say that we will comply with all requirements and reference our Cybersecurity and Incident Response Plan. I am very interested to hear what other do regarding these two specific items."
+      ]
+    },
+    {
+      "dimension": "Ongoing Optimization",
+      "description": "Requests focused on improving existing processes, systems, or programs rather than addressing urgent needs",
+      "examples": [
+        "Hi all! We are looking for a data-driven way to track value adds that our law firm partners provide us (complimentary partner hours, hotline/office hours, trainings, etc.). Has anyone been successful in finding a method that works for both the corporate and law firm sides?",
+        "We have suddenly received a flood of DSAR and other personal information requests and are struggling to deal with all of them. We'd like to think through how to build a program so that we have a scalable way to respond in a timely manner. Has anyone gone through this process and would be willing to chat with our Privacy Program Manager? Bonus points if you have a Privacy Ops/Program Manager or other similar role that she could information share and network with on an ongoing basis. Thank you!",
+        "I am looking for consultant recommendations for Ironclad/Salesforce integration work. We currently have the integration in place but would like to migrate some CRM work currently done in Ironclad to Salesforce to better utilize both tools & gain more data insights. What I've found so far SME only in Ironclad or in Salesforce but am hoping to find someone who speaks both platforms. Thank you!"
+      ]
+    }
+  ],
+  "Domain Expertise": [
+    {
+      "dimension": "Legal Specialty",
+      "description": "Requests focused on specific legal practice areas, jurisdictions, or specialized legal counsel",
+      "examples": [
+        "All - I'd be grateful for any recommendations for counsel that can provide AI expertise in the (B2B) healthcare regulatory context. We are a SAAS platform provider; customers are hospital systems, ACOs, CINs, payors and other healthcare institutions.",
+        "I'd appreciate recommendations for creative and aggressive labor law counsel to help develop and implement a national strategy to respond to union organizing efforts (bonus points if such counsel has also advised Uber, Doordash, Amazon, or Instacart).",
+        "Looking for recommendations for Cayman Islands-based law firms that can assist with fund formation work. Not Maples."
+      ]
+    },
+    {
+      "dimension": "Technology Software",
+      "description": "Requests about software tools, technology implementations, AI systems, or technical service providers",
+      "examples": [
+        "Hello! My team is looking for a comprehensive and user-friendly document comparison tool. We currently use Word but would love to find something that can compare between PDFs/docs. I know Litera is a popular one, but I was wondering if anyone has any more budget-friendly suggestions. Thanks!",
+        "Any recommendations on an AI tool that helps build PPT decks? Looking for a tool for company use. Must have appropriate data use and security terms (e.g. no training on our data, ability to delete data inputs at any time, appropriate security etc.)",
+        "Good morning - Has anyone implemented Evisort's CLM product since they became part of Workday. In particular, I am curious about implementation of the tool. Did you do it yourself, have Evisort/Workday do it or use a third party implementation consultant?"
+      ]
+    },
+    {
+      "dimension": "Regulatory Compliance",
+      "description": "Requests focused on navigating regulatory requirements, compliance programs, or regulatory risk management",
+      "examples": [
+        "Given that the 8th Circuit has vacated the FTC's Click to Cancel rule at the 11th hour, I wanted to see what subscription-based companies are doing in light of the decision. We were completely ready to go with updates to our sign up processes, and now the team is frustrated they put in all this work for nothing. I argued that there are still the equivalent state-level rules that impact us, but am wondering if folks are scaling back on compliance with any specific aspect of the rule. (We updated our signup process to require affirmative consent of our Terms and Privacy Policy, consent to automatic billing, and also providing the required disclosures -- our cancellation process was compliant so we have no concerns there).",
+        "Hi! For those of you who have European clients who have designated your firm as being an ICT service provider who support a critical business function, I'd love to hear from you as to how you are approaching this, given the onerous additional Article 30 obligations. Are you charging those clients a premium for the exercise of these additional rights?",
+        "I'd like to learn how non-critical SaaS providers have managed EU-based customer requests for DORA compliance - I see a few discussions on this topic from fall 2024 - early 2025, but am hoping for refreshed feedback based on the last 8 months since effective date. Specifically: * if you've added a DORA FAQ and Addendum on your legal center, have your customers been accepting that or pushing their addendums anyway? * have you seen wide range in customer DORA addendums - I received a 5 pager and a 50 pager last week alone * How have you navigated decoupling these addendums from pending renewals/expansion opportunities. Thanks in advance!"
+      ]
+    },
+    {
+      "dimension": "Operational Process",
+      "description": "Requests about business operations, process improvements, organizational structure, or administrative challenges",
+      "examples": [
+        "Hi! Hoping to tap into you all for some info on different companies' approaches to Data Governance. We have begun our Data Governance journey but our lead is looking to better understand how other companies have approached their data governance initiatives. If anyone is open to discussing their approaches or connecting my DG lead with your DG lead, please let me know.",
+        "Hi everyone, I'm looking to better understand how other legal departments manage budgeting for outside counsel spend, particularly for ongoing or unanticipated matters. Our finance team requires us to forecast spend for all OC vendors, and any unused budget at the end of a quarter is forfeited (i.e., it does not roll over). As a result, whenever we need to engage a new vendor or initiate a new matter mid-quarter, we're typically asked to reallocate funds from existing line items within our annual budget. Historically, this hasn't been a significant issue for us, but as our OC spend grows, it's becoming increasingly difficult to manage on an ad-hoc basis and as you know, it is impossible to anticipate all possible OC related spend ahead of time. I'm curious how others navigate this challenge. How do you plan for unpredictable legal spend? Do you build in contingency buffers, establish separate discretionary pools, or engage finance differently to accommodate real-time needs?",
+        "Are there any rules of thumb for the size of the legal team compared to the employee base? Is it 1:100? 1:1000? Thanks!"
+      ]
+    }
+  ]
+}
