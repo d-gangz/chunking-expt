@@ -224,20 +224,37 @@ Examples: {specificity_examples}
 Description: {persona_description}
 Examples: {persona_examples}
 
-CRITICAL INSTRUCTIONS:
-- MIMIC THE STYLE, TONE, AND FORMAT of the examples provided above
-- Your question should sound like it could have been written by the same person who wrote those examples
-- Follow the specific phrasing patterns, level of detail, and conversational style shown in the examples
-- Include similar contextual details (company size, specific situations, etc.) that match the persona and specificity level
-- Use the same natural, peer-to-peer tone as the examples (not generic business language)
+CRITICAL INSTRUCTIONS FOR STYLE MATCHING:
+- Capture the INTENT and CONTEXT of the examples while VARYING the phrasing
+- Match the level of detail and specificity shown in the examples
+- Include similar contextual details (company size, specific situations, etc.) that match the persona
+- Use the same natural, peer-to-peer conversational tone as the examples
+
+AVOID THESE REPETITIVE PATTERNS:
+- Do NOT start every question with "For those of you..." or "For those..."
+- Do NOT always use "For those leading..." or "For those at..."
+- Do NOT always use "Curious to hear..." or "Has anyone..."
+- Do NOT end every question with "Would love to hear..." or "much appreciated"
+- AVOID using the exact same opening as previous questions
+
+INSTEAD, VARY YOUR OPENINGS based on the intent:
+- For Resource Acquisition: "Looking for recommendations on...", "Need help finding...", "Can anyone suggest...", "We need a consultant who..."
+- For Knowledge Sharing: "What's your approach to...", "How do other companies handle...", "What strategies work for...", "Anyone have experience with..."
+- For Problem Resolution: "We're struggling with...", "Running into issues with...", "Need guidance on...", "How do you solve..."
+- For different personas: Adjust formality and technical depth appropriately
+
+VARY YOUR CLOSINGS:
+- Mix between: "Thanks!", "Any insights?", "Appreciate the help", or simply end without a closing
+- Sometimes include context about urgency or specific needs
+- Sometimes just end with the question
 
 Your question should:
 - Be answerable by the comprehensive answer provided
-- Match the EXACT style and format patterns from the examples above
-- Reflect the intent category, specificity level, and user persona through authentic language
-- Sound like a real person from that context asking for help from peers
+- Reflect the intent, specificity, and persona through CONTENT not just phrasing
+- Sound authentic to someone in that role/situation
+- Feel natural and varied, not formulaic
 
-Do NOT generate generic business questions. Generate questions that authentically match the example style.""",
+Generate a question that captures the essence of the dimensional context while sounding fresh and different from typical patterns.""",
             ),
             (
                 "human",
