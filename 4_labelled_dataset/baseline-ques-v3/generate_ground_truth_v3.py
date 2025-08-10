@@ -1,28 +1,27 @@
 """
 Script to generate ground truth dataset from 5 legal/business transcripts using dimension-based question generation.
 
-Input data sources: 00_threads/jake/data.json, 00_threads/threads/sl-dimensions.json
+Input data sources: 1_transcripts/jake/cleaned/, 00_threads/threads/sl-dimensions.json
 Output destinations: 4_labelled_dataset/baseline-ques-v3/
 Dependencies: OpenAI API key in .env file, langchain packages
 Key exports: generate_insights(), generate_dimension_question(), main()
 Side effects: Creates insights.json and base_ground_truth.json files
 
 Uses a two-step LLM approach:
-1. First generates 40 insights from transcripts (same as v1)
+1. First generates 30 insights from transcripts (same as v1)
 2. Then generates 1 question per insight using sl-dimensions.json for context
 
 The dimensions (Request Intent Category, Request Specificity, User Persona) are systematically
 cycled through to ensure balanced representation across all generated questions.
 """
 
-import os
 import json
 from typing import List, Dict, Tuple
 from datetime import datetime
 from pathlib import Path
 from itertools import cycle
 
-from pydantic import BaseModel, Field, field_validator
+from pydantic import BaseModel, Field
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from dotenv import load_dotenv
@@ -32,7 +31,7 @@ from tqdm import tqdm
 load_dotenv()
 
 
-# Step 1: Pydantic schemas for insights generation (same as v1)
+# Step 1: Pydantic schemas for insights generation (NECESSARY for LLM structured output)
 class InsightQuote(BaseModel):
     """A substantial quote supporting an insight."""
 
@@ -40,7 +39,7 @@ class InsightQuote(BaseModel):
         description="Verbatim quote from the transcript (100-200 words, capturing complete thoughts)"
     )
     transcript_title: str = Field(
-        description="Exact title of the transcript this quote comes from"
+        description="Exact title of the transcript this quote comes from (use the title exactly as provided, without any prefixes like 'TRANSCRIPT 1:' or modifications)"
     )
 
 
@@ -68,26 +67,11 @@ class InsightsList(BaseModel):
     )
 
 
-# Step 2: Pydantic schemas for dimension-based question generation
-class DimensionUsed(BaseModel):
-    """Tracks which dimension values were used for question generation."""
-
-    request_intent_category: str = Field(
-        description="The dimension value used from Request Intent Category"
-    )
-    request_specificity: str = Field(
-        description="The dimension value used from Request Specificity"
-    )
-    user_persona: str = Field(description="The dimension value used from User Persona")
-
-
+# Step 2: Simplified schema for dimension-based question generation
 class DimensionQuestion(BaseModel):
     """A single question generated using specific dimensions."""
 
     question: str = Field(description="The generated question text")
-    dimensions_used: DimensionUsed = Field(
-        description="The specific dimension values used to generate this question"
-    )
 
 
 def load_transcripts(transcript_dir: str) -> Dict[str, str]:
@@ -98,9 +82,35 @@ def load_transcripts(transcript_dir: str) -> Dict[str, str]:
     for file_path in transcript_path.glob("*.md"):
         with open(file_path, "r", encoding="utf-8") as f:
             content = f.read()
-            # Extract clean title from filename
+
+            # Extract clean title from filename (fallback)
             title = file_path.stem.replace("_", " ").replace("  ", " ")
-            transcripts[title] = content
+
+            # Parse the new format: Title": "actual transcript content..."
+            lines = content.strip().split("\n")
+            transcript_content = None
+
+            for line in lines:
+                # Look for the pattern: 'Title": "content...'
+                if '": "' in line:
+                    # Extract everything after the ": " pattern
+                    quote_start = line.find('": "')
+                    if quote_start != -1:
+                        # Get the content after ": " and remove the trailing quote if present
+                        transcript_content = line[quote_start + 4 :]
+                        # Remove trailing quote if it exists
+                        if transcript_content.endswith('"'):
+                            transcript_content = transcript_content[:-1]
+                        break
+
+            # If we couldn't parse the new format, fall back to using entire content
+            if transcript_content is None:
+                print(
+                    f"⚠️ Warning: Could not parse transcript format for {file_path.name}, using entire content"
+                )
+                transcript_content = content
+
+            transcripts[title] = transcript_content
 
     return transcripts
 
@@ -114,10 +124,8 @@ def load_dimensions(dimensions_path: str) -> Dict[str, List[Dict]]:
 def format_transcripts_for_prompt(transcripts: Dict[str, str]) -> str:
     """Format transcripts for inclusion in the prompt."""
     formatted = []
-    for i, (title, content) in enumerate(transcripts.items(), 1):
-        formatted.append(
-            f"TRANSCRIPT {i}: {title}\n{'-' * 80}\n{content}\n{'=' * 80}\n"
-        )
+    for title, content in transcripts.items():
+        formatted.append(f"{title}\n{'-' * 80}\n{content}\n{'=' * 80}\n")
     return "\n".join(formatted)
 
 
@@ -146,8 +154,8 @@ def generate_insights(transcripts: Dict[str, str]) -> List[Insight]:
     llm = ChatOpenAI(
         model="gpt-5",
         output_version="responses/v1",
-        reasoning={"effort": "medium"},
-        model_kwargs={"text": {"verbosity": "medium"}},
+        reasoning={"effort": "low"},
+        # model_kwargs={"text": {"verbosity": "medium"}},
     )
 
     # Create structured LLM
@@ -158,22 +166,40 @@ def generate_insights(transcripts: Dict[str, str]) -> List[Insight]:
         [
             (
                 "system",
-                """You are an expert at analyzing legal and business transcripts to extract deep insights.
+                """You are an expert in analyzing legal and business transcripts to extract in-depth, cross-transcript insights.
 
-Extract EXACTLY 30 INSIGHTS that serve as COMPREHENSIVE ANSWERS:
-- Each insight should be a complete, self-contained comprehensive answer (3-5 sentences)
-- Must reveal deep understanding, patterns, or principles
-- PRIORITY: Create insights that connect concepts ACROSS DIFFERENT transcripts
-- Must be fully supported by quoted text from the transcripts
+Begin with a concise checklist (3-7 bullets) of what you will do; keep items conceptual, not implementation-level.
 
-For each insight:
-- Write the complete insight as you would answer a question
-- Include 2-4 SUBSTANTIAL quotes (100-200 words each, capturing complete thoughts)
-- IMPORTANT: Draw quotes from MULTIPLE transcripts whenever possible
-- Quotes must be VERBATIM from the transcripts (no modifications)
-- Ensure quotes provide rich context, not just keywords
+Your task is to extract EXACTLY 30 INSIGHTS that serve as comprehensive, self-contained answers:
 
-Cover all 5 transcripts with emphasis on cross-transcript connections""",
+Core Requirements:
+
+- Each insight must be an independent, fully-formed answer (3-5 sentences), showcasing deep understanding, patterns, or underlying principles.
+- Prioritize creating high-quality, meaningful insights that demonstrate deep understanding, patterns, and underlying principles. Cross-transcript connections are valuable when they naturally emerge, but are secondary to insight quality and depth.
+- Every insight must be substantiated by 2-4 substantial verbatim quotes (100-200 words; capturing complete ideas) from the transcripts. Quotes may come from the same transcript if that produces the most relevant and compelling support for the insight.
+  
+  CRITICAL QUOTE EXTRACTION REQUIREMENTS:
+  - Quotes MUST be EXACT VERBATIM text from the transcripts - copy word-for-word without ANY modifications
+  - DO NOT use ellipsis (...) to skip or abbreviate any parts of the quote
+  - DO NOT paraphrase, summarize, or modify the original text in any way
+  - Copy the COMPLETE continuous passage exactly as it appears in the transcript
+  - If you need to include context from different parts, use separate quotes rather than combining with ellipsis
+  - Each quote should be a single continuous passage from the transcript
+  - The quoted text must match the source transcript character-for-character including punctuation
+  
+  - If you cannot locate a quote of sufficient length, use the most context-rich passage that forms a complete thought, and add a short 'notes' field explaining the limitation and rationale.
+  - Quotes must be fully contextual; do not use isolated phrases or keywords.
+  - For each quote, specify the source transcript by its EXACT title as provided (do NOT add prefixes like "TRANSCRIPT 1:" or modify the title in any way).
+- Aim for representation from each of the 5 transcripts where natural and appropriate, but do not sacrifice insight quality for transcript diversity.
+
+Validation:
+
+- After extracting insights and quotes, briefly validate that insights meet the substantiation requirements and demonstrate high-quality analysis. If any criteria are not met, self-correct or explain the limitation in the output note.
+
+Edge Conditions:
+
+- If there is insufficient source material for 30 insights, output as many as possible and append a final note explaining the limitation.
+""",
             ),
             (
                 "human",
@@ -181,7 +207,7 @@ Cover all 5 transcripts with emphasis on cross-transcript connections""",
 
 {transcripts}
 
-Generate insights that reveal deep understanding and patterns across transcripts.""",
+Generate insights that reveal deep understanding and meaningful patterns from the transcripts.""",
             ),
         ]
     )
@@ -198,7 +224,7 @@ Generate insights that reveal deep understanding and patterns across transcripts
 
 def generate_dimension_question(
     insight: Insight, dimension_combo: Tuple[Dict, Dict, Dict]
-) -> DimensionQuestion:
+) -> str:
     """Step 2: Generate a single question for an insight using specific dimensions."""
     intent_dim, specificity_dim, persona_dim = dimension_combo
 
@@ -206,8 +232,8 @@ def generate_dimension_question(
     llm = ChatOpenAI(
         model="gpt-5",
         output_version="responses/v1",
-        reasoning={"effort": "medium"},
-        model_kwargs={"text": {"verbosity": "medium"}},
+        reasoning={"effort": "low"},
+        # model_kwargs={"text": {"verbosity": "medium"}},
     )
 
     # Create structured LLM
@@ -301,7 +327,7 @@ The question should be answerable by the comprehensive answer and reflect the di
         }
     )
 
-    return result
+    return result.question
 
 
 def validate_quotes_in_transcripts(
@@ -348,13 +374,12 @@ def convert_to_final_format(all_questions: List[Dict]) -> List[Dict]:
     question_counter = 1
 
     for question_entry in all_questions:
-        dimension_question = question_entry["dimension_question"]
         dimension_combo = question_entry["dimension_combo"]
         intent_dim, specificity_dim, persona_dim = dimension_combo
 
         entry = {
             "question_id": f"q_{question_counter:03d}",
-            "question": dimension_question.question,
+            "question": question_entry["question"],
             "comprehensive_answer": question_entry["comprehensive_answer"],
             "source_quotes": [
                 {
@@ -389,11 +414,11 @@ def convert_to_final_format(all_questions: List[Dict]) -> List[Dict]:
 
 def main():
     """Main function to generate the ground truth dataset."""
-    print("🚀 Starting ground truth dataset generation (v2 with dimensions)...")
+    print("🚀 Starting ground truth dataset generation (v3 - cleaned)...")
 
     # Load transcripts
     print("\n📄 Loading transcripts...")
-    transcript_dir = "/Users/gang/suite-work/chunking-expt/1_transcripts/cleaned-full"
+    transcript_dir = "/Users/gang/suite-work/chunking-expt/1_transcripts/jake/cleaned"
     transcripts = load_transcripts(transcript_dir)
     print(f"✅ Loaded {len(transcripts)} transcripts")
 
@@ -425,7 +450,7 @@ def main():
             "generated_at": datetime.now().isoformat(),
             "total_insights": len(insights),
             "transcripts_analyzed": list(transcripts.keys()),
-            "version": "v2_with_dimensions",
+            "version": "v3_cleaned",
         },
         "insights": [
             {
@@ -442,7 +467,7 @@ def main():
             for insight in insights
         ],
     }
-    insights_output_path = "/Users/gang/suite-work/chunking-expt/4_labelled_dataset/baseline-ques-v2/insights.json"
+    insights_output_path = "/Users/gang/suite-work/chunking-expt/4_labelled_dataset/baseline-ques-v3/insights.json"
     with open(insights_output_path, "w", encoding="utf-8") as f:
         json.dump(insights_data, f, indent=2, ensure_ascii=False)
     print(f"✅ Insights saved to {insights_output_path}")
@@ -470,16 +495,14 @@ def main():
                 # Get next dimension combination from cycle
                 dimension_combo = next(combination_cycle)
 
-                # Generate question using dimensions
-                dimension_question = generate_dimension_question(
-                    insight, dimension_combo
-                )
+                # Generate question using dimensions (simplified - returns just the question string)
+                question = generate_dimension_question(insight, dimension_combo)
 
-                # Store question with unique ID
+                # Store question with metadata
                 question_entry = {
                     "insight_id": insight.insight_id,
                     "question_num": q_num + 1,
-                    "dimension_question": dimension_question,
+                    "question": question,
                     "dimension_combo": dimension_combo,
                     "comprehensive_answer": insight.comprehensive_answer,
                     "source_quotes": insight.source_quotes,
@@ -509,19 +532,19 @@ def main():
             "total_questions": len(output_entries),
             "transcripts_analyzed": list(transcripts.keys()),
             "validation_errors": len(validation_errors),
-            "version": "v2_with_dimensions",
+            "version": "v3_cleaned",
             "dimension_combinations_available": len(combinations),
         },
         "entries": output_entries,
     }
 
     # Save to JSON
-    output_path = "/Users/gang/suite-work/chunking-expt/4_labelled_dataset/baseline-ques-v2/base_ground_truth.json"
+    output_path = "/Users/gang/suite-work/chunking-expt/4_labelled_dataset/baseline-ques-v3/base_ground_truth.json"
     print(f"\n💾 Saving to {output_path}...")
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
 
-    print("\n✅ Ground truth dataset generation complete! (v2)")
+    print("\n✅ Ground truth generation complete! (v3 cleaned - full pipeline)")
     print(f"📈 Summary:")
     print(f"  - Total insights: {len(insights)}")
     print(f"  - Total questions: {len(output_entries)}")
