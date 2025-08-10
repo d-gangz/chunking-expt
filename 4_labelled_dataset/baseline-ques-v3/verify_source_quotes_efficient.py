@@ -47,12 +47,14 @@ def extract_clean_chunks(quote: str) -> List[str]:
     """
     quote = clean_text_for_matching(quote)
     
-    # Handle leading ellipsis - remove and get content after
-    if quote.startswith('...'):
+    # Handle leading ellipsis - remove and get content after (both Unicode … and ASCII ...)
+    if quote.startswith('…'):
+        quote = quote[1:].strip()
+    elif quote.startswith('...'):
         quote = quote[3:].strip()
     
-    # Split by ellipsis to get clean chunks
-    chunks = re.split(r'\.{3,}', quote)
+    # Split by ellipsis to get clean chunks (handle both types)
+    chunks = re.split(r'[\.]{3,}|…', quote)
     clean_chunks = []
     
     for chunk in chunks:
@@ -119,8 +121,8 @@ def find_best_match(quote: str, transcript: str) -> Tuple[bool, str, str]:
     if quote_clean in transcript_clean:
         return True, "exact", "high"
     
-    # 2. Try without ellipsis and common variations
-    quote_no_ellipsis = re.sub(r'\.{3,}', '', quote_clean)
+    # 2. Try without ellipsis and common variations (handle both Unicode … and ASCII ...)
+    quote_no_ellipsis = re.sub(r'[\.]{3,}|…', '', quote_clean)
     quote_no_ellipsis = re.sub(r'\s+', ' ', quote_no_ellipsis.strip())
     
     if len(quote_no_ellipsis) > 20 and quote_no_ellipsis in transcript_clean:
@@ -146,8 +148,8 @@ def find_best_match(quote: str, transcript: str) -> Tuple[bool, str, str]:
         found_sentences = 0
         
         for sentence in sentences:
-            # Clean sentence of ellipsis for better matching
-            sentence_clean = re.sub(r'\.{3,}', '', sentence).strip()
+            # Clean sentence of ellipsis for better matching (both types)
+            sentence_clean = re.sub(r'[\.]{3,}|…', '', sentence).strip()
             if len(sentence_clean) > 10 and sentence_clean in transcript_clean:
                 found_sentences += 1
         
@@ -386,7 +388,7 @@ def main():
     """Main execution function."""
     # Set up paths
     base_path = Path(__file__).parent.parent.parent
-    insights_path = base_path / "4_labelled_dataset" / "insights.json"
+    insights_path = base_path / "4_labelled_dataset" / "baseline-ques-v3" / "insights.json"
     data_path = base_path / "1_transcripts" / "jake" / "data.json"
     
     print("🚀 EFFICIENT Source Quote Verification Tool")
