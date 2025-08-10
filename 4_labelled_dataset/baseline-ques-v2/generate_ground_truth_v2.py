@@ -1,7 +1,7 @@
 """
 Script to generate ground truth dataset from 5 legal/business transcripts using dimension-based question generation.
 
-Input data sources: 1_transcripts/cleaned-full/, 00_threads/sl-dimensions.json
+Input data sources: 1_transcripts/cleaned-full/, 00_threads/threads/sl-dimensions.json
 Output destinations: 4_labelled_dataset/baseline-ques-v2/
 Dependencies: OpenAI API key in .env file, langchain packages
 Key exports: generate_insights(), generate_dimension_question(), main()
@@ -390,7 +390,7 @@ def main():
     # Load dimensions
     print("\n🎯 Loading sl-dimensions...")
     dimensions_path = (
-        "/Users/gang/suite-work/chunking-expt/00_threads/sl-dimensions.json"
+        "/Users/gang/suite-work/chunking-expt/00_threads/threads/sl-dimensions.json"
     )
     dimensions = load_dimensions(dimensions_path)
     print(f"✅ Loaded {len(dimensions)} dimension categories")
